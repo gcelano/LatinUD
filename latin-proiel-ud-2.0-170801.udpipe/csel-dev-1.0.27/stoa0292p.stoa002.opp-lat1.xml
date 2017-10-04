@@ -1,0 +1,1585 @@
+# newdoc id = /Users/mycomputer/Documents/ud-pipe/latin/02-extractTextDirectlyForProiel-CSEL/stoa0292p.stoa002.opp-lat1.xml
+# newpar
+# sent_id = 1
+# text = NOTITIA PROVINCIARVM
+1	NOTITIA	notitia	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	SpacesBefore=\s\s\s\s
+2	PROVINCIARVM	Provinciarvs	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
+
+# sent_id = 2
+# text = ET CIVITATVM AFRICAE A = cod Laudunensis 113 saec
+1	ET	et	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	CIVITATVM	Civitatvs	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	1	obj:dir	_	_
+3	AFRICA	Africa	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	2	amod	_	SpaceAfter=No
+4	E	ex	ADP	R-	_	5	case	_	SpacesAfter=\s\s\s\s\s
+5	A	a	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	1	obl	_	_
+6	=	=	SYM	_	_	1	advcl	_	_
+7	cod	cod	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	6	obj:dir	_	_
+8	Laudunensis	Laudunensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	advmod	_	_
+9	113	113	NUM	Ma	_	10	nummod	_	_
+10	saec	saeque	ADJ	Pd	Case=Acc|Gender=Neut|Number=Plur	7	appos	_	_
+
+# sent_id = 3
+# text = IX
+1	IX	Ix	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = 4
+# text = cf praef p XII
+1	cf	cf	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	praef	praef	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	obj:dir	_	_
+3	p	p	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	appos	_	_
+4	XII	xius	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	SpacesAfter=\s\s
+
+# sent_id = 5
+# text = H = cod Halleri apud Ortelium in Thes geogr Antverp 1596 Incipiunt nomina episcoporum catholicorum diuersarum prouinciarum qui Carthagine ex praecepto regali uenerunt pro reddenda ratione fidei die
+1	H	h	PROPN	Ne	_	12	nsubj	_	_
+2	=	=	SYM	_	_	12	cc	_	_
+3	cod	cis	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	4	det	_	_
+4	Halleri	Haller	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	_
+5	apud	apud	ADP	R-	_	6	case	_	_
+6	Ortelium	Ortelius	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	9	obl	_	_
+7	in	in	ADP	R-	_	8	case	_	_
+8	Thes	Thes	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	9	obl	_	_
+9	geogr	geogr	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	12	advcl	_	_
+10	Antverp	Antverp	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	12	obj:dir	_	_
+11	1596	1596	NUM	Ma	_	10	nummod	_	SpacesAfter=\s\s\s\s
+12	Incipiunt	incipio	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+13	nomina	nomen	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	23	obj:dir	_	_
+14	episcoporum	episcopus	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	15	nmod	_	_
+15	catholicorum	catholicus	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	13	nmod	_	_
+16	diuersarum	diuersa	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	13	nmod	_	_
+17	prouinciarum	prouincia	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	16	nmod	_	_
+18	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	23	nsubj	_	_
+19	Carthagine	Carthagis	PROPN	Ne	Case=Abl|Gender=Fem|Number=Sing	23	obl	_	_
+20	ex	ex	ADP	R-	_	22	case	_	_
+21	praecepto	praeceptum	VERB	V-	Aspect=Perf|Case=Abl|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	22	acl	_	_
+22	regali	regal	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	23	obl	_	_
+23	uenerunt	ueno	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	advcl	_	_
+24	pro	pro	ADP	R-	_	25	case	_	_
+25	reddenda	reddo	VERB	V-	Case=Abl|Gender=Fem|Number=Sing|VerbForm=Gdv	23	advcl	_	_
+26	ratione	ratio	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	28	nmod	_	_
+27	fidei	fides	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	26	nmod	_	_
+28	die	dies	NOUN	Nb	Case=Abl|Gender=Fem,Masc|Number=Sing	25	obl	_	_
+
+# sent_id = 6
+# text = KL Februarias anno sexto regis Hunerici Nomina episcoporum prouinciae proconsularis uel qui in exilium missi sunt Eugenius Carthaginiensis Tamalleni Felix Aboritanus exilium Paulus Sinnarensis exilium Felix Piensis Corsica exil Marianus Hippzaritensis ut sp Pascasius Gunelensis ut sp Sacconius Uzalensis ut sup Bonifatius
+1	KL	Kl	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	Februarias	Februarias	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+3	anno	annus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	5	nmod	_	_
+4	sexto	sextus	ADJ	Mo	Case=Abl|Gender=Masc|Number=Sing	3	nmod	_	_
+5	regis	rex	NOUN	Nb	Case=Abl|Gender=Fem|Number=Plur	2	appos	_	_
+6	Hunerici	Hunericum	ADJ	A-	Case=Abl|Degree=Pos|Number=Sing	7	amod	_	SpacesAfter=\s\s
+7	Nomina	nomina	PROPN	Ne	Case=Abl|Gender=Fem|Number=Sing	5	nmod	_	_
+8	episcoporum	episcopus	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	11	nmod	_	_
+9	prouinciae	prouincia	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+10	proconsularis	proconsulor	ADJ	A-	Case=Gen|Degree=Pos|Number=Sing	8	amod	_	_
+11	uel	uel	PROPN	Ne	_	7	appos	_	_
+12	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	15	nsubj:pass	_	_
+13	in	in	ADP	R-	_	14	case	_	_
+14	exilium	exilius	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	15	obl	_	_
+15	missi	mitto	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	7	acl	_	_
+16	sunt	sum	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	aux:pass	_	SpacesAfter=\s\s
+17	Eugenius	Eugenius	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	15	advmod	_	_
+18	Carthaginiensis	Carthaginiensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	appos	_	_
+19	Tamalleni	Tamallenes	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	18	iobj	_	SpacesAfter=\s\s
+20	Felix	Felix	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	18	conj	_	_
+21	Aboritanus	Aboritanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	20	flat:name	_	_
+22	exilium	exilius	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	2	appos	_	SpacesAfter=\s\s
+23	Paulus	Paulus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	22	appos	_	_
+24	Sinnarensis	Sinnarensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	23	amod	_	_
+25	exilium	exilis	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	27	nsubj:pass	_	SpacesAfter=\s\s
+26	Felix	Felix	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	25	nmod	_	_
+27	Piensis	Piensum	VERB	V-	Aspect=Perf|Case=Abl|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	23	acl	_	_
+28	Corsica	Corsica	PROPN	Ne	Case=Abl|Gender=Fem|Number=Sing	31	obl	_	_
+29	exil	exil	DET	Px	Case=Nom|Gender=Neut|Number=Sing	30	det	_	SpacesAfter=\s\s
+30	Marianus	Marianus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	31	nsubj:pass	_	_
+31	Hippzaritensis	Hippzaritensis	VERB	V-	Aspect=Perf|Case=Abl|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	27	conj	_	_
+32	ut	ut	SCONJ	G-	_	31	advcl	_	_
+33	sp	sp	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	32	obj:dir	_	SpacesAfter=\s\s
+34	Pascasius	Pascasius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	35	nsubj:pass	_	_
+35	Gunelensis	Gunelensis	VERB	V-	Aspect=Perf|Case=Abl|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	33	acl	_	_
+36	ut	ut	SCONJ	G-	_	39	mark	_	_
+37	sp	sp	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	39	obj:dir	_	SpacesAfter=\s\s
+38	Sacconius	Sacconius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	39	nsubj:pass	_	_
+39	Uzalensis	Uzalensis	VERB	V-	Aspect=Perf|Case=Abl|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	35	advcl	_	_
+40	ut	ut	SCONJ	G-	_	39	advcl	_	_
+41	sup	sup	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	40	obj:dir	_	SpacesAfter=\s\s
+42	Bonifatius	Bonifatius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	41	nmod	_	_
+
+# sent_id = 7
+# text = Membresitanus fug Gulosus Beneuentensis
+1	Membresitanus	Membresitanus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	fug	fug	PROPN	Ne	_	1	appos	_	SpacesAfter=\s\s
+3	Gulosus	Gulosus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_	_
+4	Beneuentensis	Beneuentendo	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	appos	_	_
+
+# sent_id = 8
+# text = Corsic Reparatus Utimmirensis ut sp Pastinatus
+1	Corsic	Corsic	ADV	Df	_	3	advmod	_	SpacesAfter=\s\s
+2	Reparatus	Reparatus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	3	nsubj:pass	_	_
+3	Utimmirensis	Utimmirensis	VERB	V-	Aspect=Perf|Case=Abl|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+4	ut	ut	SCONJ	G-	_	3	advcl	_	_
+5	sp	sp	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obj:dir	_	SpacesAfter=\s\s
+6	Pastinatus	Pastinatus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+
+# sent_id = 9
+# text = Puppitanus ut sp Reparatus
+1	Puppitanus	Puppitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	ut	ut	SCONJ	G-	_	4	mark	_	_
+3	sp	sp	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obj:dir	_	SpacesAfter=\s\s
+4	Reparatus	Reparatus	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	advcl	_	_
+
+# sent_id = 10
+# text = Puppianensis Fortunatianus Araditanus Corsic Deumhabet Thelensis Corsica Liberatus Mullitanus ut sp Mannucius Duas Senemsalensis Hirundinus Missuensis
+1	Puppianensis	Puppianensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	SpacesAfter=\s\s
+2	Fortunatianus	Fortunatianus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+3	Araditanus	Araditanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_	_
+4	Corsic	Corsic	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj:dir	_	SpacesAfter=\s\s
+5	Deumhabet	Deumhabeo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	Thelensis	Thelensis	VERB	V-	Aspect=Perf|Case=Abl|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	5	advcl	_	_
+7	Corsica	Corsica	PROPN	Ne	Case=Abl|Gender=Fem|Number=Sing	6	nsubj:pass	_	SpacesAfter=\s\s
+8	Liberatus	liberatus	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	5	conj	_	_
+9	Mullitanus	Mullitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	8	nsubj:pass	_	_
+10	ut	ut	SCONJ	G-	_	8	advcl	_	_
+11	sp	sp	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	12	obj:dir	_	SpacesAfter=\s\s\s\s
+12	Mannucius	Mannucius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+13	Duas	duae	PROPN	Ne	Case=Acc|Gender=Fem|Number=Plur	12	appos	_	SpacesAfter=\s\s
+14	Senemsalensis	Senemsalensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	SpacesAfter=\s\s
+15	Hirundinus	Hirundinus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	13	appos	_	_
+16	Missuensis	Missuensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	13	appos	_	_
+
+# sent_id = 11
+# text = Corsic Iona Lapdensis ut sp Peregrinus Assuritanus in exil hic Quintianus Uricitanus Cresconius Tonnonensis prbt Florentinus Uticensis Corsie Pascasius Migirpensis ut sp Carissimus Gisipensis in exil Gaius Uzitensis prbt Exitiosus
+1	Corsic	Corsic	ADV	Df	_	3	advmod	_	SpacesAfter=\s\s
+2	Iona	Ionas	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	3	nsubj:pass	_	_
+3	Lapdensis	Lapdendo	VERB	V-	Aspect=Perf|Case=Abl|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+4	ut	ut	SCONJ	G-	_	15	mark	_	_
+5	sp	sp	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	15	obj:dir	_	SpacesAfter=\s\s
+6	Peregrinus	peregrinus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	conj	_	_
+7	Assuritanus	Assuritanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	6	flat:name	_	_
+8	in	in	ADP	R-	_	9	case	_	_
+9	exil	exil	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	6	orphan	_	_
+10	hic	hic	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	11	det	_	SpacesAfter=\s\s
+11	Quintianus	Quintianus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	conj	_	_
+12	Uricitanus	Uricitanus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	11	appos	_	SpacesAfter=\s\s
+13	Cresconius	Cresconius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	12	nmod	_	_
+14	Tonnonensis	Tonnonensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	conj	_	_
+15	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	SpacesAfter=\s\s
+16	Florentinus	Florentinus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	15	advmod	_	_
+17	Uticensis	Uticensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	_
+18	Corsie	Corsies	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	15	obl	_	SpacesAfter=\s\s
+19	Pascasius	Pascasius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	_
+20	Migirpensis	Migirpendo	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	19	appos	_	_
+21	ut	ut	SCONJ	G-	_	29	mark	_	_
+22	sp	sp	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	29	obj:dir	_	SpacesAfter=\s\s
+23	Carissimus	carus	ADJ	A-	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	22	amod	_	_
+24	Gisipensis	Gisipensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	_
+25	in	in	ADP	R-	_	26	case	_	_
+26	exil	exil	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	29	obl	_	SpacesAfter=\s\s
+27	Gaius	Gaius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	29	nsubj	_	_
+28	Uzitensis	Uzitensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	27	appos	_	_
+29	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	advcl	_	SpacesAfter=\s\s
+30	Exitiosus	Exitiosus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	29	nsubj	_	_
+
+# sent_id = 12
+# text = Uerensis Corsic Crescens Cicisitanus in exil Bonifatius Uolitanus Corsica Felix Carpitanus ut sup Carcadius Maxulitanus ut sp Cyprianus Bonustensis Dalmatius Tinisensis Corsic Aemilianus Culusitanus Corsic Felix Bullensis prbt Clementinus Neapolitanus Corsic Felix Curubitanus ut sp Deuterius Simminensis ut sp Aurelius Clipiensis ut sp Coronius Meglapolitanus ut sp Benenatus Timidensis ut sp Uincentius Ziggensis in exil Florentius Seminensis Corsica Honoratus Tagaratensis prbt Uindemius Altuburitnus exil Cyprianus Cellensis in exit
+1	Uerensis	Uerendo	VERB	V-	Aspect=Perf|Case=Abl|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	12	advcl	_	_
+2	Corsic	Corsic	ADV	Df	_	1	advmod	_	SpacesAfter=\s\s
+3	Crescens	Crescens	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	nsubj:pass	_	_
+4	Cicisitanus	Cicisitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	nsubj:pass	_	_
+5	in	in	ADP	R-	_	6	case	_	_
+6	exil	exil	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	SpacesAfter=\s\s
+7	Bonifatius	Bonifatius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	6	conj	_	_
+8	Uolitanus	Uolitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	flat:name	_	_
+9	Corsica	Corsica	PROPN	Ne	Case=Abl|Gender=Fem|Number=Sing	7	flat:name	_	SpacesAfter=\s\s
+10	Felix	Felix	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	6	appos	_	_
+11	Carpitanus	Carpitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	10	flat:name	_	_
+12	ut	ut	SCONJ	G-	_	0	root	_	_
+13	sup	sup	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	12	obj:dir	_	SpacesAfter=\s\s
+14	Carcadius	Carcadius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	13	conj	_	_
+15	Maxulitanus	Maxulitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	14	flat:name	_	_
+16	ut	ut	SCONJ	G-	_	28	mark	_	_
+17	sp	sp	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	28	obj:dir	_	SpacesAfter=\s\s
+18	Cyprianus	Cyprianus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+19	Bonustensis	Bonustensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	SpacesAfter=\s\s
+20	Dalmatius	Dalmatius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	28	nsubj	_	_
+21	Tinisensis	Tinisensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
+22	Corsic	Corsic	ADV	Df	_	23	advmod	_	SpacesAfter=\s\s
+23	Aemilianus	Aemilianus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	20	flat:name	_	_
+24	Culusitanus	Culusitanus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	20	appos	_	_
+25	Corsic	Corsic	ADV	Df	_	28	advmod	_	SpacesAfter=\s\s
+26	Felix	Felix	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	28	nsubj	_	_
+27	Bullensis	Bullensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	28	advmod	_	_
+28	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	advcl	_	SpacesAfter=\s\s
+29	Clementinus	Clementinus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	30	amod	_	_
+30	Neapolitanus	Neapolitanus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	20	appos	_	_
+31	Corsic	Corsic	ADV	Df	_	30	conj	_	SpacesAfter=\s\s
+32	Felix	Felix	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	31	nsubj	_	_
+33	Curubitanus	Curubitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	32	flat:name	_	_
+34	ut	ut	SCONJ	G-	_	68	mark	_	_
+35	sp	sp	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	68	obj:dir	_	SpacesAfter=\s\s
+36	Deuterius	Deuterius	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	68	nsubj	_	_
+37	Simminensis	Simminensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	36	amod	_	_
+38	ut	ut	SCONJ	G-	_	68	mark	_	_
+39	sp	sp	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	68	obj:dir	_	SpacesAfter=\s\s
+40	Aurelius	Aurelius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	68	nsubj	_	_
+41	Clipiensis	Clipiensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	40	amod	_	_
+42	ut	ut	SCONJ	G-	_	68	mark	_	_
+43	sp	sp	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	68	obj:dir	_	SpacesAfter=\s\s
+44	Coronius	Coronius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	68	nsubj	_	_
+45	Meglapolitanus	Meglapolitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	44	flat:name	_	_
+46	ut	ut	SCONJ	G-	_	68	mark	_	_
+47	sp	sp	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	49	obj:dir	_	SpacesAfter=\s\s
+48	Benenatus	Benenatus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	47	nmod	_	_
+49	Timidensis	Timidensis	VERB	V-	Aspect=Perf|Case=Abl|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	68	advcl	_	_
+50	ut	ut	SCONJ	G-	_	61	mark	_	_
+51	sp	sp	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	61	obj:dir	_	SpacesAfter=\s\s
+52	Uincentius	Uincentius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	61	nsubj	_	_
+53	Ziggensis	Ziggensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	52	amod	_	_
+54	in	in	ADP	R-	_	55	case	_	_
+55	exil	exil	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	57	obl	_	SpacesAfter=\s\s
+56	Florentius	Florentius	ADV	Df	Degree=Cmp	57	advmod	_	_
+57	Seminensis	Seminensum	VERB	V-	Aspect=Perf|Case=Abl|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	61	advcl	_	_
+58	Corsica	Corsica	PROPN	Ne	Case=Abl|Gender=Fem|Number=Sing	61	obl	_	SpacesAfter=\s\s\s\s
+59	Honoratus	Honoratus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	61	nsubj	_	_
+60	Tagaratensis	Tagaratensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	59	amod	_	_
+61	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	68	advcl	_	SpacesAfter=\s\s
+62	Uindemius	Uindemius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	68	nsubj	_	_
+63	Altuburitnus	Altuburitnus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	62	flat:name	_	_
+64	exil	exil	DET	Px	Case=Nom|Gender=Neut|Number=Sing	62	det	_	SpacesAfter=\s\s
+65	Cyprianus	Cyprianus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	62	amod	_	_
+66	Cellensis	Cellensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	68	advmod	_	_
+67	in	in	ADP	R-	_	68	case	_	_
+68	exit	exeo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	31	advcl	_	SpacesAfter=\s\s
+
+# sent_id = 13
+# text = Augentius Uzipparitznus in exil Cassosus Ausanensis hic Maximinus Naraggaritanus hic Felix Muzuensis Iohannes Bullensium Regiorum Cresciturus Titulitanus Benenatus Tuburbitensis Uictor Teudalensis Pascasius Tulanensis
+1	Augentius	Augentius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	23	nsubj	_	_
+2	Uzipparitznus	Uzipparitznus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+3	in	in	ADP	R-	_	4	case	_	_
+4	exil	exil	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	1	conj	_	SpacesAfter=\s\s
+5	Cassosus	Cassosus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	nmod	_	_
+6	Ausanensis	Ausanensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+7	hic	hic	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	8	det	_	SpacesAfter=\s\s
+8	Maximinus	Maximinus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
+9	Naraggaritanus	Naraggaritanus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	8	appos	_	_
+10	hic	hic	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	11	det	_	SpacesAfter=\s\s
+11	Felix	Felix	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
+12	Muzuensis	Muzuensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	SpacesAfter=\s\s
+13	Iohannes	Iohannes	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	11	appos	_	_
+14	Bullensium	Bullensius	ADJ	A-	Case=Gen|Degree=Pos|Number=Plur	16	amod	_	_
+15	Regiorum	Regius	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	14	nmod	_	SpacesAfter=\s\s
+16	Cresciturus	Cresciturus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	11	appos	_	_
+17	Titulitanus	Titulitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	SpacesAfter=\s\s
+18	Benenatus	Benenatus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
+19	Tuburbitensis	Tuburbitensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	SpacesAfter=\s\s
+20	Uictor	Uictor	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
+21	Teudalensis	Teudalensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	SpacesAfter=\s\s
+22	Pascasius	Pascasius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
+23	Tulanensis	Tulanensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\s\s
+
+# sent_id = 14
+# text = Sunt numero Lim Nomina episcoporum prouinciae Numidiae Felix Berceritanus Augentius Gazaufalensis prbt
+1	Sunt	sum	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
+2	numero	numerus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	12	ccomp	_	_
+3	Lim	lis	PROPN	Ne	_	2	nsubj	_	SpacesAfter=\s\s\s\s
+4	Nomina	nomina	PROPN	Ne	Case=Abl|Gender=Fem|Number=Sing	2	obl	_	_
+5	episcoporum	episcopus	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	4	nmod	_	_
+6	prouinciae	prouincia	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+7	Numidiae	Numidia	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	SpacesAfter=\s\s
+8	Felix	Felix	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	_
+9	Berceritanus	Berceritanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	8	flat:name	_	SpacesAfter=\s\s
+10	Augentius	Augentius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	8	flat:name	_	_
+11	Gazaufalensis	Gazaufalensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	conj	_	_
+12	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\s\s
+
+# sent_id = 15
+# text = Quoduultdeus Calamensis Honoratus Castellanus Leontius Burcensis Firmianus Centurionensis prbt Rufinianus Uadensis Paulus Nibensis prbt Martialis Girensis Uictor Cuiculitanus
+1	Quoduultdeus	Quoduultdeus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+2	Calamensis	Calamensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	SpacesAfter=\s\s
+3	Honoratus	Honoratus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+4	Castellanus	Castellanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	SpacesAfter=\s\s
+5	Leontius	Leontius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	flat:name	_	_
+6	Burcensis	Burcensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	advmod	_	SpacesAfter=\s\s
+7	Firmianus	Firmianus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	conj	_	_
+8	Centurionensis	Centurionensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	conj	_	_
+9	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\s\s
+10	Rufinianus	Rufinianus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	advmod	_	_
+11	Uadensis	Uadensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	SpacesAfter=\s\s
+12	Paulus	Paulus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
+13	Nibensis	Nibensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	14	advmod	_	_
+14	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	SpacesAfter=\s\s
+15	Martialis	Martialis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	14	advmod	_	_
+16	Girensis	Girensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	SpacesAfter=\s\s
+17	Uictor	Uictor	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
+18	Cuiculitanus	Cuiculitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	17	appos	_	SpacesAfter=\s\s
+
+# sent_id = 16
+# text = Cresconius Amporensis Adeodatus Fesseitanus prbt Uitalianus Bocconiensis Duumuirialis Bamaccorensis prbt Donatus Ausuccurensis Palladius Idicrensis prbt Gaudentius
+1	Cresconius	Cresconius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	_
+2	Amporensis	Amporensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	SpacesAfter=\s\s
+3	Adeodatus	Adeodatus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+4	Fesseitanus	Fesseitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+5	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl	_	SpacesAfter=\s\s
+6	Uitalianus	Uitalianus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	advmod	_	_
+7	Bocconiensis	Bocconiensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	advmod	_	SpacesAfter=\s\s
+8	Duumuirialis	Duumuirialum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	conj	_	_
+9	Bamaccorensis	Bamaccorensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	conj	_	_
+10	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	advcl	_	SpacesAfter=\s\s\s\s
+11	Donatus	donatus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+12	Ausuccurensis	Ausuccurensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	SpacesAfter=\s\s
+13	Palladius	Palladius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	_
+14	Idicrensis	Idicrensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	15	advmod	_	_
+15	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\s\s
+16	Gaudentius	Gaudentius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+
+# sent_id = 17
+# text = Putiensis Uictor Suggitanus Benenatus Lambiritanus Timotheus Tagurensis Melior Fossalensis
+1	Putiensis	Putiendo	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	SpacesAfter=\s\s
+2	Uictor	Uictor	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	Suggitanus	Suggitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	nsubj:pass	_	SpacesAfter=\s\s
+4	Benenatus	Benenatus	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	acl	_	_
+5	Lambiritanus	Lambiritanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	SpacesAfter=\s\s
+6	Timotheus	Timotheus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	_
+7	Tagurensis	Tagurensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	SpacesAfter=\s\s
+8	Melior	melior	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	_
+9	Fossalensis	Fossalensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	appos	_	_
+
+# sent_id = 18
+# text = Na Frumentius Tubursicensis Felix Lamsortensis Abundius
+1	Na	nas	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	0	root	_	SpacesAfter=\s\s
+2	Frumentius	Frumentius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	nmod	_	_
+3	Tubursicensis	Tubursicensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	amod	_	SpacesAfter=\s\s
+4	Felix	Felix	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+5	Lamsortensis	Lamsortensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	SpacesAfter=\s\s
+6	Abundius	Abundius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	flat:name	_	_
+
+# sent_id = 19
+# text = Tididitanus prbt Ualentianus Montensis prbt Adeodatus NouaBarbarensis Adeodatus
+1	Tididitanus	Tididitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	SpacesAfter=\s\s
+3	Ualentianus	Ualentianus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	advmod	_	_
+4	Montensis	Montensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	advmod	_	_
+5	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\s\s
+6	Adeodatus	Adeodatus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+7	NouaBarbarensis	NouaBarbarensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	SpacesAfter=\s\s
+8	Adeodatus	Adeodatus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+
+# sent_id = 20
+# text = Idassensis Florentius NouaGermaniensis Uillaticus de Casis Medianis
+1	Idassensis	Idassensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	SpacesAfter=\s\s
+2	Florentius	Florentius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	NouaGermaniensis	NouaGermaniensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	SpacesAfter=\s\s
+4	Uillaticus	Uillaticus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	_
+5	de	de	ADP	R-	_	7	case	_	_
+6	Casis	Casus	ADJ	A-	Case=Abl|Degree=Pos|Gender=Masc|Number=Plur	7	amod	_	_
+7	Medianis	Mediani	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	4	nmod	_	SpacesAfter=\s\s
+
+# sent_id = 21
+# text = Eusebius Susicaziensis Uictorinus de Noua Caesaris Uitalianus Uazaritanus Iunior
+1	Eusebius	Eusebius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	Susicaziensis	Susicaziensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	SpacesAfter=\s\s
+3	Uictorinus	Uictorinus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+4	de	de	ADP	R-	_	5	case	_	_
+5	Noua	Noua	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	3	nmod	_	_
+6	Caesaris	Caesar	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	SpacesAfter=\s\s
+7	Uitalianus	Uitalianus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+8	Uazaritanus	Uazaritanus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	SpacesAfter=\s\s
+9	Iunior	iuvenis	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	8	amod	_	_
+
+# sent_id = 22
+# text = Tigillabensis Uigilius Bessanensis prbt Leporius Augurensis Pascentius Octauensis Petrus Madensis Felix Matharensis prbt Florentius Centenariensis Felix Gilbensis prbt Florentianus Midilensis Fluminius Tabudensis Optantius Casensium Calanensium Peregrinus Pudentianensis prbt Felix NouaSparsensis prbt Felicianus
+1	Tigillabensis	Tigillabensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	advmod	_	SpacesAfter=\s\s
+2	Uigilius	Uigilius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+3	Bessanensis	Bessanensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+4	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\s\s
+5	Leporius	Leporius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+6	Augurensis	Augurensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	SpacesAfter=\s\s
+7	Pascentius	Pascentius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	_
+8	Octauensis	Octauensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	appos	_	SpacesAfter=\s\s
+9	Petrus	Petrus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	8	nmod	_	_
+10	Madensis	Madensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	SpacesAfter=\s\s
+11	Felix	Felix	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+12	Matharensis	Matharensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	13	advmod	_	_
+13	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	SpacesAfter=\s\s
+14	Florentius	Florentius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	28	nsubj	_	_
+15	Centenariensis	Centenariensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	18	advmod	_	SpacesAfter=\s\s
+16	Felix	Felix	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	_
+17	Gilbensis	Gilbensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	18	advmod	_	_
+18	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	conj	_	SpacesAfter=\s\s
+19	Florentianus	Florentianus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	20	advmod	_	_
+20	Midilensis	Midilensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	28	advmod	_	SpacesAfter=\s\s
+21	Fluminius	Fluminius	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	20	conj	_	_
+22	Tabudensis	Tabudensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	20	conj	_	SpacesAfter=\s\s
+23	Optantius	Optantius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	20	conj	_	_
+24	Casensium	Casensius	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	20	conj	_	_
+25	Calanensium	Calanensius	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	24	flat:name	_	SpacesAfter=\s\s\s\s
+26	Peregrinus	peregrinus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	24	flat:name	_	_
+27	Pudentianensis	Pudentianensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	20	conj	_	_
+28	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	conj	_	SpacesAfter=\s\s
+29	Felix	Felix	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	31	nsubj	_	_
+30	NouaSparsensis	NouaSparsensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	31	advmod	_	_
+31	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	28	conj	_	SpacesAfter=\s\s
+32	Felicianus	Felicianus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	28	nsubj	_	_
+
+# sent_id = 23
+# text = Metensis Domnicus Caesariensis prbt Candidus NouaSinensis prbt Quoduultdeus Caelianensis
+1	Metensis	Metensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	SpacesAfter=\s\s
+2	Domnicus	Domnicus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+3	Caesariensis	Caesariensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	advmod	_	_
+4	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	SpacesAfter=\s\s
+5	Candidus	Candidus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	NouaSinensis	NouaSinensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	advmod	_	_
+7	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\s\s
+8	Quoduultdeus	Quoduultdeus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	advmod	_	_
+9	Caelianensis	Caelianensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	advmod	_	_
+
+# sent_id = 24
+# text = nam Ianuarius Iattarensis Uictorinus de Castello Tituliano Fructuosus de Giru Marcelli Cresconius Tharasensis Maximus Sillitanus prbt Uigilius Hizirzadensis prbt Uictor Municipensis Seruus Arsicaritanus Felix Casae Nigrensis Donatianus Uegeselitanus Pudentius Madaurensis Donatus Rusticianensis Donatus Uilla Regensis Crescens Buffadensis prbt Adeodatus Sistronianensis prbt Rusticus Tipasensis Simplicius Tibilitanus Stephanus Sinitensis Pascentius Cathaquensis Corsica Donatianus Teglatensis Cresconius Zabensis Antonianus
+1	nam	nam	ADV	Df	_	14	discourse	_	SpacesAfter=\s\s
+2	Ianuarius	Ianuare	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
+3	Iattarensis	Iattarensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	SpacesAfter=\s\s
+4	Uictorinus	Uictorinus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	_
+5	de	de	ADP	R-	_	6	case	_	_
+6	Castello	castellus	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	4	nmod	_	_
+7	Tituliano	Titulianus	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	6	flat:name	_	SpacesAfter=\s\s
+8	Fructuosus	Fructuosus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	_
+9	de	de	ADP	R-	_	10	case	_	_
+10	Giru	Girus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	4	nmod	_	_
+11	Marcelli	Marcellus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	SpacesAfter=\s\s
+12	Cresconius	Cresconius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	_
+13	Tharasensis	Tharasensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	SpacesAfter=\s\s
+14	Maximus	Maximus	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+15	Sillitanus	Sillitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	_
+16	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	conj	_	SpacesAfter=\s\s
+17	Uigilius	Uigilius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	19	nsubj	_	_
+18	Hizirzadensis	Hizirzadensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	19	advmod	_	_
+19	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	conj	_	SpacesAfter=\s\s
+20	Uictor	Uictor	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	_
+21	Municipensis	Municipensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	SpacesAfter=\s\s
+22	Seruus	Seruus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	20	conj	_	_
+23	Arsicaritanus	Arsicaritanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	22	flat:name	_	SpacesAfter=\s\s
+24	Felix	Felix	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	20	conj	_	_
+25	Casae	Casus	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	26	amod	_	SpacesAfter=\s\s
+26	Nigrensis	Nigrensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	24	appos	_	SpacesAfter=\s\s
+27	Donatianus	Donatianus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	28	amod	_	_
+28	Uegeselitanus	Uegeselitanus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	20	conj	_	SpacesAfter=\s\s
+29	Pudentius	Pudentius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	20	conj	_	_
+30	Madaurensis	Madaurensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	20	conj	_	SpacesAfter=\s\s
+31	Donatus	donatus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	33	amod	_	_
+32	Rusticianensis	Rusticianensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	33	amod	_	SpacesAfter=\s\s
+33	Donatus	donatus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	_
+34	Uilla	Uilla	DET	Pd	Case=Nom|Gender=Fem|Number=Sing	33	det	_	SpacesAfter=\s\s
+35	Regensis	Regensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	36	amod	_	SpacesAfter=\s\s
+36	Crescens	Crescens	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	33	conj	_	_
+37	Buffadensis	Buffadensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	38	advmod	_	_
+38	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	33	conj	_	SpacesAfter=\s\s
+39	Adeodatus	Adeodatus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	41	advmod	_	_
+40	Sistronianensis	Sistronianensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	39	conj	_	_
+41	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	33	conj	_	SpacesAfter=\s\s
+42	Rusticus	Rusticus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	41	nsubj	_	_
+43	Tipasensis	Tipasensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	44	amod	_	SpacesAfter=\s\s
+44	Simplicius	Simplicius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	42	flat:name	_	_
+45	Tibilitanus	Tibilitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	42	flat:name	_	SpacesAfter=\s\s
+46	Stephanus	Stephanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	42	appos	_	_
+47	Sinitensis	Sinitensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	48	amod	_	SpacesAfter=\s\s
+48	Pascentius	Pascentius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	46	flat:name	_	_
+49	Cathaquensis	Cathaquensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	51	amod	_	_
+50	Corsica	Corsica	PROPN	Ne	Case=Abl|Gender=Fem|Number=Sing	49	iobj	_	SpacesAfter=\s\s
+51	Donatianus	Donatianus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	42	appos	_	_
+52	Teglatensis	Teglatensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	53	amod	_	SpacesAfter=\s\s
+53	Cresconius	Cresconius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	42	appos	_	_
+54	Zabensis	Zabensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	55	amod	_	SpacesAfter=\s\s
+55	Antonianus	Antonianus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	42	appos	_	_
+
+# sent_id = 25
+# text = Mustitanus Reparatus Tubuniensis Anastasius Aquae Nouensis Uictorinus Babrensis prbt Felix Tebestinus Domninus
+1	Mustitanus	Mustitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	nsubj:pass	_	SpacesAfter=\s\s
+2	Reparatus	Reparatus	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	9	advcl	_	_
+3	Tubuniensis	Tubuniensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	SpacesAfter=\s\s\s\s
+4	Anastasius	Anastasius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+5	Aquae	aqua	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	7	amod	_	SpacesAfter=\s\s
+6	Nouensis	Nouensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	SpacesAfter=\s\s
+7	Uictorinus	Uictorinus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	_
+8	Babrensis	Babrensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	advmod	_	_
+9	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\s\s
+10	Felix	Felix	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+11	Tebestinus	Tebestinus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	10	flat:name	_	SpacesAfter=\s\s
+12	Domninus	Domninus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	10	appos	_	_
+
+# sent_id = 26
+# text = Moxoritanus metallo Secundus Tamogaziensis prbt Uictorinus Legiensis Quoduultdeus Respectensis Ianuarius Uelefitanus Benenatus Mazacensis prbt Donatus Iugurensis prbt Uictor Cirtensis prbt Pardalius Macomadiensis Ianuarius
+1	Moxoritanus	Moxoritanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+2	metallo	metallum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	5	obl	_	SpacesAfter=\s\s
+3	Secundus	secundus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	nmod	_	_
+4	Tamogaziensis	Tamogaziensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+5	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\s\s
+6	Uictorinus	Uictorinus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	advmod	_	_
+7	Legiensis	Legiensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	conj	_	SpacesAfter=\s\s
+8	Quoduultdeus	Quoduultdeus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	conj	_	_
+9	Respectensis	Respectensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	conj	_	SpacesAfter=\s\s
+10	Ianuarius	Ianuarius	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	Uelefitanus	Uelefitanus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	SpacesAfter=\s\s
+12	Benenatus	Benenatus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+13	Mazacensis	Mazacensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	14	advmod	_	_
+14	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	SpacesAfter=\s\s
+15	Donatus	donatus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	17	nsubj	_	_
+16	Iugurensis	Iugurensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
+17	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	SpacesAfter=\s\s
+18	Uictor	Uictor	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	_
+19	Cirtensis	Cirtensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	_
+20	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	SpacesAfter=\s\s
+21	Pardalius	Pardalius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+22	Macomadiensis	Macomadiensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	23	amod	_	SpacesAfter=\s\s
+23	Ianuarius	Ianuarius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	21	appos	_	_
+
+# sent_id = 27
+# text = Legensis prbt Quoduultdeus a Turres
+1	Legensis	Legensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	advmod	_	_
+2	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\s\s
+3	Quoduultdeus	Quoduultdeus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+4	a	ab	ADP	R-	_	5	case	_	_
+5	Turres	turris	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	2	obl	_	_
+
+# sent_id = 28
+# text = Concordi Maximus Lamfuensis prbt Marcellinus Uagrautensis Domnicosus Tigisitanus Donatus Gilbensis Fortunius Regianensis prbt Donatus Silensis Uictor Gaudiabensis Ianuarianus
+1	Concordi	Concor	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	2	nsubj	_	SpacesAfter=\s\s
+2	Maximus	Maximus	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	_	_
+3	Lamfuensis	Lamfuensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	advmod	_	_
+4	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\s\s
+5	Marcellinus	Marcellinus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+6	Uagrautensis	Uagrautensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	SpacesAfter=\s\s
+7	Domnicosus	Domnicosus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	_
+8	Tigisitanus	Tigisitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	SpacesAfter=\s\s
+9	Donatus	donatus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+10	Gilbensis	Gilbensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	SpacesAfter=\s\s
+11	Fortunius	Fortunius	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+12	Regianensis	Regianensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	13	advmod	_	_
+13	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	parataxis	_	SpacesAfter=\s\s
+14	Donatus	donatus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+15	Silensis	Silensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	SpacesAfter=\s\s
+16	Uictor	Uictor	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	14	conj	_	_
+17	Gaudiabensis	Gaudiabensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	14	conj	_	SpacesAfter=\s\s
+18	Ianuarianus	Ianuarianus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	14	conj	_	_
+
+# sent_id = 29
+# text = Masculitanus Ianuarius Centuriensis Felix Suauensis Crescentianus Germaniensis Annibonius Uadesitanus Ianuarius Gaurianensis prbt Fortunatianus Naratcatensis Maximus Lamiggigensis Felix Garbensis prbt Iulius Uagarmelitanus
+1	Masculitanus	Masculitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	SpacesAfter=\s\s
+2	Ianuarius	Ianuarius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+3	Centuriensis	Centuriensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	SpacesAfter=\s\s
+4	Felix	Felix	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+5	Suauensis	Suauensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	SpacesAfter=\s\s
+6	Crescentianus	Crescentianus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+7	Germaniensis	Germaniensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	SpacesAfter=\s\s
+8	Annibonius	Annibonius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+9	Uadesitanus	Uadesitanus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	SpacesAfter=\s\s
+10	Ianuarius	Ianuarius	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+11	Gaurianensis	Gaurianensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	advmod	_	_
+12	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	advcl	_	SpacesAfter=\s\s
+13	Fortunatianus	Fortunatianus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	Naratcatensis	Naratcatensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	15	advmod	_	SpacesAfter=\s\s
+15	Maximus	Maximus	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+16	Lamiggigensis	Lamiggigensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	19	advmod	_	SpacesAfter=\s\s\s\s
+17	Felix	Felix	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	19	nsubj	_	_
+18	Garbensis	Garbensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	19	advmod	_	_
+19	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	parataxis	_	SpacesAfter=\s\s
+20	Iulius	Iulius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	19	conj	_	_
+21	Uagarmelitanus	Uagarmelitanus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	20	appos	_	SpacesAfter=\s\s
+
+# sent_id = 30
+# text = Ponticanus Formensis prbt Uictor
+1	Ponticanus	Ponticanus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	Formensis	Formensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	amod	_	_
+3	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\s\s
+4	Uictor	Uictor	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	xcomp	_	_
+
+# sent_id = 31
+# text = de Turres Ammeniarum Seruus Belesasensis Honoratus Fatensis
+1	de	de	ADP	R-	_	2	case	_	_
+2	Turres	turris	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	0	root	_	_
+3	Ammeniarum	Ammeniarus	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	2	conj	_	SpacesAfter=\s\s
+4	Seruus	Seruus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	_
+5	Belesasensis	Belesasensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	conj	_	SpacesAfter=\s\s
+6	Honoratus	Honoratus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	_
+7	Fatensis	Fatensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	conj	_	SpacesAfter=\s\s
+
+# sent_id = 32
+# text = Mensor Formensis Peregrinus Muliensis Gedalius Ospitensis Fulgentius Uagadensis prbt Secundinus Lamasbensis
+1	Mensor	Mensor	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+2	Formensis	Formensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	amod	_	SpacesAfter=\s\s
+3	Peregrinus	peregrinus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
+4	Muliensis	Muliensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	conj	_	SpacesAfter=\s\s
+5	Gedalius	Gedalius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
+6	Ospitensis	Ospitensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	conj	_	SpacesAfter=\s\s
+7	Fulgentius	Fulgentius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
+8	Uagadensis	Uagadensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	conj	_	_
+9	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\s\s
+10	Secundinus	Secundinus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+11	Lamasbensis	Lamasbensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	SpacesAfter=\s\s
+
+# sent_id = 33
+# text = Crescentius Tacaratensis Benenatus
+1	Crescentius	Crescentius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	Tacaratensis	Tacaratensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	SpacesAfter=\s\s
+3	Benenatus	Benenatus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+
+# sent_id = 34
+# text = Mileuitanus
+1	Mileuitanus	Mileuitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\s\s
+
+# sent_id = 35
+# text = Quoduultdeus Ullitanus Proficius Seleucianensis prbt Proficius Uadensis prbt Ianuarius Tagastensis prbt Donatus Maximianensis Adeodatus Zaradtensis prbt Felicianus de Giru Tarasi Cardelus Lamiggigensis Flauianus Uico Pacensis Sunt numero CXXV
+1	Quoduultdeus	Quoduultdeus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	Ullitanus	Ullitanus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	SpacesAfter=\s\s
+3	Proficius	Proficius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	_
+4	Seleucianensis	Seleucianensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	advmod	_	_
+5	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	advcl	_	SpacesAfter=\s\s
+6	Proficius	Proficius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+7	Uadensis	Uadensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	advmod	_	_
+8	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	SpacesAfter=\s\s
+9	Ianuarius	Ianuarius	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	Tagastensis	Tagastensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	advmod	_	_
+11	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	parataxis	_	SpacesAfter=\s\s
+12	Donatus	donatus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	_
+13	Maximianensis	Maximianensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	SpacesAfter=\s\s
+14	Adeodatus	Adeodatus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+15	Zaradtensis	Zaradtensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+16	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\s\s
+17	Felicianus	Felicianus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	25	nsubj	_	_
+18	de	de	ADP	R-	_	19	case	_	_
+19	Giru	Girus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	25	obl	_	_
+20	Tarasi	Tarasi	SCONJ	G-	_	25	mark	_	SpacesAfter=\s\s
+21	Cardelus	Cardelus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	25	nsubj	_	_
+22	Lamiggigensis	Lamiggigensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	21	amod	_	SpacesAfter=\s\s
+23	Flauianus	Flauianus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	21	appos	_	_
+24	Uico	Uicus	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	23	iobj	_	SpacesAfter=\s\s
+25	Pacensis	Pacensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	16	conj	_	SpacesAfter=\s\s
+26	Sunt	sum	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	cop	_	_
+27	numero	numerus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	28	obl	_	_
+28	CXXV	expressCxxon	ADV	Df	_	25	advmod	_	SpacesAfter=\s\s\s\s
+
+# sent_id = 36
+# text = Nomina episcoporum prouinciae Byzacenae Uassinassensis
+1	Nomina	nomen	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	5	nsubj:pass	_	_
+2	episcoporum	episcopus	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	1	nmod	_	_
+3	prouinciae	prouincia	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+4	Byzacenae	Byzacene	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	SpacesAfter=\s\s\s
+5	Uassinassensis	Uassinassendo	VERB	V-	Aspect=Perf|Case=Abl|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+
+# sent_id = 37
+# text = Et Aquis Liberatus Amudarsensis prbt Mansuetus Afufeniensis Pascasius Septimuniciensis Hortulanus Benefensis Uictorinus Ancusensis Euodius Mididitanus Terentianus Tubulbacensis Rogatianus Ualentinianensis Bonifatius Masclianensis Uictorinus Seuerianensis Uictor Narensis Leontius Decorianensis Seruusdei Tambeitanus Laetus Neptitanus Felix Custrensis prbt Flauianus Bulelianensis Decimus Theuzitanus Seruandus Putiensis Restitutus Thagamutensis
+1	Et	et	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	discourse	_	_
+2	Aquis	aqua	ADJ	Px	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	SpacesAfter=\s\s
+3	Liberatus	liberatus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+4	Amudarsensis	Amudarsensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	advmod	_	_
+5	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\s\s
+6	Mansuetus	mansuetus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	34	nsubj	_	_
+7	Afufeniensis	Afufeniensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	SpacesAfter=\s\s\s\s
+8	Pascasius	Pascasius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	6	flat:name	_	_
+9	Septimuniciensis	Septimuniciensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	SpacesAfter=\s\s
+10	Hortulanus	hortulanus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	appos	_	_
+11	Benefensis	Benefensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	34	advmod	_	SpacesAfter=\s\s
+12	Uictorinus	Uictorinus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	conj	_	_
+13	Ancusensis	Ancusensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	conj	_	SpacesAfter=\s\s
+14	Euodius	Euodius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	11	conj	_	_
+15	Mididitanus	Mididitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	11	conj	_	SpacesAfter=\s\s
+16	Terentianus	Terentianus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	conj	_	_
+17	Tubulbacensis	Tubulbacensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	conj	_	SpacesAfter=\s\s
+18	Rogatianus	Rogatianus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	conj	_	_
+19	Ualentinianensis	Ualentinianensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	conj	_	SpacesAfter=\s\s
+20	Bonifatius	Bonifatius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	11	conj	_	_
+21	Masclianensis	Masclianensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	conj	_	SpacesAfter=\s\s
+22	Uictorinus	Uictorinus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	conj	_	_
+23	Seuerianensis	Seuerianensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	conj	_	SpacesAfter=\s\s
+24	Uictor	Uictor	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	11	conj	_	_
+25	Narensis	Narensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	conj	_	SpacesAfter=\s\s
+26	Leontius	Leontius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	11	conj	_	_
+27	Decorianensis	Decorianensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	conj	_	SpacesAfter=\s\s
+28	Seruusdei	Seruusdeus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	29	nmod	_	_
+29	Tambeitanus	Tambeitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	11	conj	_	SpacesAfter=\s\s
+30	Laetus	Laetus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	11	conj	_	_
+31	Neptitanus	Neptitanus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	11	conj	_	SpacesAfter=\s\s
+32	Felix	Felix	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	11	conj	_	_
+33	Custrensis	Custrensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	conj	_	_
+34	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	SpacesAfter=\s\s
+35	Flauianus	Flauianus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	37	advmod	_	_
+36	Bulelianensis	Bulelianensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	37	advmod	_	SpacesAfter=\s\s
+37	Decimus	decimus	ADJ	Mo	Case=Nom|Gender=Masc|Number=Sing	6	appos	_	_
+38	Theuzitanus	Theuzitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	37	conj	_	SpacesAfter=\s\s
+39	Seruandus	Seruandus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	37	conj	_	_
+40	Putiensis	Putiensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	41	advmod	_	SpacesAfter=\s\s
+41	Restitutus	restituo	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	37	conj	_	_
+42	Thagamutensis	Thagamutensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	37	conj	_	SpacesAfter=\s\s
+
+# sent_id = 38
+# text = Praesidius Sufetulensis in exil Eustratius Sufetanus Secundinus Garrianensis prbt
+1	Praesidius	Praesidius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+2	Sufetulensis	Sufetulensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	appos	_	_
+3	in	in	ADP	R-	_	4	case	_	_
+4	exil	exil	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	9	obl	_	SpacesAfter=\s\s
+5	Eustratius	Eustratius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	_
+6	Sufetanus	Sufetanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	SpacesAfter=\s\s
+7	Secundinus	Secundinus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	_
+8	Garrianensis	Garrianensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	conj	_	_
+9	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\s\s\s
+
+# sent_id = 39
+# text = Praefectianus Abaradirensis prbt Sabinicus Octauiensis Adelfius Mactaritanus
+1	Praefectianus	Praefectianus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	Abaradirensis	Abaradirensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	amod	_	_
+3	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\s\s
+4	Sabinicus	Sabinicus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+5	Octauiensis	Octauiensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	SpacesAfter=\s\s
+6	Adelfius	Adelfius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	flat:name	_	_
+7	Mactaritanus	Mactaritanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	SpacesAfter=\s\s
+
+# sent_id = 40
+# text = Restitutus Aquiaben Antacius Medianensis Mensius Turrensis Filtiosus
+1	Restitutus	restituo	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+2	Aquiaben	Aquiabe	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	1	iobj	_	SpacesAfter=\s\s
+3	Antacius	Antacius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	nsubj:pass	_	_
+4	Medianensis	Medianensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	SpacesAfter=\s\s
+5	Mensius	Mensius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	appos	_	_
+6	Turrensis	Turrensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	SpacesAfter=\s\s
+7	Filtiosus	Filtiosus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	appos	_	_
+
+# sent_id = 41
+# text = Aggaritanus Fastidiosus
+1	Aggaritanus	Aggaritanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\s\s\s\s
+2	Fastidiosus	Fastidiosus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+
+# sent_id = 42
+# text = Egnatiensis Germanus Paradamiensis Donatus Ermianensis Pascasius
+1	Egnatiensis	Egnatiensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	SpacesAfter=\s\s
+2	Germanus	Germani	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj:pass	_	_
+3	Paradamiensis	Paradamiensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	xcomp	_	SpacesAfter=\s\s
+4	Donatus	donatus	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+5	Ermianensis	Ermianensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	advcl	_	SpacesAfter=\s\s
+6	Pascasius	Pascasius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+
+# sent_id = 43
+# text = Tenitanus Domninus Tarazensis Hilarinus Trofimianensis Fortunatianus
+1	Tenitanus	Tenitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\s\s
+2	Domninus	Domninus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+3	Tarazensis	Tarazensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	SpacesAfter=\s\s
+4	Hilarinus	Hilarinus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+5	Trofimianensis	Trofimianensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	SpacesAfter=\s\s
+6	Fortunatianus	Fortunatianus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+
+# sent_id = 44
+# text = LeptiMinensis Honoratus Tagariatanus Albinus Octauensis Aurelius FeradiMaiensis Felix Crepedulensis Cyprianus
+1	Lepti	Leptus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+2	Minensis	Minensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	SpacesAfter=\s\s
+3	Honoratus	Honoratus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+4	Tagariatanus	Tagariatanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	SpacesAfter=\s\s
+5	Albinus	Albinus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	flat:name	_	_
+6	Octauensis	Octauendo	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	SpacesAfter=\s\s
+7	Aurelius	Aurelius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	_
+8	Feradi	Feradus	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+9	Maiensis	Maiensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	advmod	_	SpacesAfter=\s\s
+10	Felix	Felix	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	appos	_	_
+11	Crepedulensis	Crepedulensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	advmod	_	SpacesAfter=\s\s
+12	Cyprianus	Cyprianus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	advmod	_	_
+
+# sent_id = 45
+# text = Unuzibirensis Innocentius Muzucensis Possidius Massimanensis non occurrit Uictor Uitensis non occurrit Uictorinus Scebatianensis Adeodatus Pederodianensis Athenius Circinitanus Florentinus Tuziritanus
+1	Unuzibirensis	Unuzibirendo	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	SpacesAfter=\s\s
+2	Innocentius	Innocentius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+3	Muzucensis	Muzucensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	SpacesAfter=\s\s
+4	Possidius	Possidius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	_
+5	Massimanensis	Massimanensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	appos	_	_
+6	non	non	ADV	Df	Polarity=Neg	7	advmod	_	_
+7	occurrit	occurro	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	advcl	_	SpacesAfter=\s\s
+8	Uictor	Uictor	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
+9	Uitensis	Uitensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+10	non	non	ADV	Df	Polarity=Neg	11	advmod	_	_
+11	occurrit	occurro	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\s\s
+12	Uictorinus	Uictorinus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
+13	Scebatianensis	Scebatianensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	SpacesAfter=\s\s
+14	Adeodatus	Adeodatus	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	12	acl	_	_
+15	Pederodianensis	Pederodianensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	SpacesAfter=\s\s
+16	Athenius	Athenius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	12	conj	_	_
+17	Circinitanus	Circinitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	16	flat:name	_	SpacesAfter=\s\s
+18	Florentinus	Florentinus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	12	conj	_	_
+19	Tuziritanus	Tuziritanus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	12	conj	_	SpacesAfter=\s\s
+
+# sent_id = 46
+# text = Uindicianus Marazanensis Adelfius Mattaritanus Adeodatus Praecausensis Restitutus
+1	Uindicianus	Uindicianus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	nsubj:pass	_	_
+2	Marazanensis	Marazanensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	amod	_	SpacesAfter=\s\s
+3	Adelfius	Adelfius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
+4	Mattaritanus	Mattaritanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	flat:name	_	SpacesAfter=\s\s
+5	Adeodatus	Adeodatus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
+6	Praecausensis	Praecausensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	SpacesAfter=\s\s
+7	Restitutus	restituo	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+
+# sent_id = 47
+# text = Aquis Albensium Felix Irpinianensis Uictorinus Usulensis Habetdeum Tamallumensis Concordius Cululitanus Seruus Menefessitanus Quintianus CasulisCarianensis Restitutus Acolitanus Uindemialis Capsensis
+1	Aquis	aqua	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	0	root	_	SpacesAfter=\s\s
+2	Albensium	Albensius	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	1	obj:dir	_	SpacesAfter=\s\s
+3	Felix	Felix	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+4	Irpinianensis	Irpinianensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	SpacesAfter=\s\s
+5	Uictorinus	Uictorinus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	appos	_	_
+6	Usulensis	Usulensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	SpacesAfter=\s\s
+7	Habetdeum	Habetdeus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	3	appos	_	_
+8	Tamallumensis	Tamallumensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	SpacesAfter=\s\s
+9	Concordius	Concordius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	conj	_	_
+10	Cululitanus	Cululitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	conj	_	SpacesAfter=\s\s
+11	Seruus	Seruus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	conj	_	_
+12	Menefessitanus	Menefessitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	conj	_	SpacesAfter=\s\s
+13	Quintianus	Quintianus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	conj	_	_
+14	Casulis	Casulus	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	7	conj	_	SpaceAfter=No
+15	Carianensis	Carianensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	conj	_	SpacesAfter=\s\s
+16	Restitutus	restituo	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	7	conj	_	_
+17	Acolitanus	Acolitanus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	conj	_	SpacesAfter=\s\s
+18	Uindemialis	Uindemialis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+19	Capsensis	Capsensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	conj	_	SpacesAfter=\s\s\s\s
+
+# sent_id = 48
+# text = Quoduultdeus Durensis prbt Eliodorus Cufrutensis Marcellinus Tasbaltensis Fortunatianus Cilitanus Honoratus Tiziensis Bonifatius Foratianensis Seruius Arsuritanus Felix Forontonianensis Succensianus Febianensis Iulianus Uararitanus Bonifatius Frontonianensis Secundianus Mimianensis in exil Donatus Boanensis Bonifatius Maraguiensis Pirasius Nationensis Faustus Praesidiensis Rusticus Tetcitanus Primianus Gurgitensis Bonifatius Filacensis
+1	Quoduultdeus	Quoduultdeus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	Durensis	Durensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	advmod	_	_
+3	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\s\s
+4	Eliodorus	Eliodorus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	advmod	_	_
+5	Cufrutensis	Cufrutensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	advmod	_	SpacesAfter=\s\s
+6	Marcellinus	Marcellinus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+7	Tasbaltensis	Tasbaltensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	SpacesAfter=\s\s
+8	Fortunatianus	Fortunatianus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	appos	_	_
+9	Cilitanus	Cilitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	6	flat:name	_	SpacesAfter=\s\s
+10	Honoratus	Honoratus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	appos	_	_
+11	Tiziensis	Tiziensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	SpacesAfter=\s\s
+12	Bonifatius	Bonifatius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	6	appos	_	_
+13	Foratianensis	Foratianensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	14	advmod	_	SpacesAfter=\s\s
+14	Seruius	Seruius	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	6	appos	_	_
+15	Arsuritanus	Arsuritanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	14	conj	_	SpacesAfter=\s\s
+16	Felix	Felix	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	14	conj	_	_
+17	Forontonianensis	Forontonianensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	14	conj	_	SpacesAfter=\s\s
+18	Succensianus	Succensianus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	appos	_	_
+19	Febianensis	Febianensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	18	conj	_	SpacesAfter=\s\s
+20	Iulianus	Iulianus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	18	conj	_	_
+21	Uararitanus	Uararitanus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	18	conj	_	SpacesAfter=\s\s
+22	Bonifatius	Bonifatius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	18	conj	_	_
+23	Frontonianensis	Frontonianensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	18	conj	_	SpacesAfter=\s\s
+24	Secundianus	Secundianus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	18	conj	_	_
+25	Mimianensis	Mimianensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	18	conj	_	_
+26	in	in	ADP	R-	_	27	case	_	_
+27	exil	exil	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	18	conj	_	SpacesAfter=\s\s
+28	Donatus	donatus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	27	nmod	_	_
+29	Boanensis	Boanensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	18	conj	_	SpacesAfter=\s\s
+30	Bonifatius	Bonifatius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	18	conj	_	_
+31	Maraguiensis	Maraguiensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	18	conj	_	SpacesAfter=\s\s
+32	Pirasius	Pirasius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	18	conj	_	_
+33	Nationensis	Nationensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	18	conj	_	SpacesAfter=\s\s
+34	Faustus	Faustus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	18	conj	_	_
+35	Praesidiensis	Praesidiensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	18	conj	_	SpacesAfter=\s\s
+36	Rusticus	Rusticus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	18	conj	_	_
+37	Tetcitanus	Tetcitanus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	18	conj	_	SpacesAfter=\s\s
+38	Primianus	Primianus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	18	conj	_	_
+39	Gurgitensis	Gurgitensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	18	conj	_	SpacesAfter=\s\s
+40	Bonifatius	Bonifatius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	18	conj	_	_
+41	Filacensis	Filacensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	18	conj	_	SpacesAfter=\s\s
+
+# sent_id = 49
+# text = Honoratus Macrianensis prbt Frumentius Teleptensis
+1	Honoratus	Honoratus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	Macrianensis	Macrianensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	amod	_	_
+3	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\s\s
+4	Frumentius	Frumentius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	iobj	_	_
+5	Teleptensis	Teleptensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	SpacesAfter=\s\s
+
+# sent_id = 50
+# text = Honorius Oppennensis Fortunatianus Tagarbalensis Simplicius Carcabianensis Donatus Rufinianensis Liberatus Aquarum Regiarum prbt Uictorianus Quaestorianensis Rufinianus Uictorianensis Maximus Gummitanus Peregrinus Materianensis Fortunatus Mozotcoritanus Pacatus
+1	Honorius	Honorius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
+2	Oppennensis	Oppennensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	advmod	_	SpacesAfter=\s\s
+3	Fortunatianus	Fortunatianus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	conj	_	_
+4	Tagarbalensis	Tagarbalensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	conj	_	SpacesAfter=\s\s
+5	Simplicius	Simplicius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	_
+6	Carcabianensis	Carcabianensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	conj	_	SpacesAfter=\s\s
+7	Donatus	donatus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	_
+8	Rufinianensis	Rufinianensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	conj	_	SpacesAfter=\s\s
+9	Liberatus	liberatus	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	conj	_	_
+10	Aquarum	aquarus	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	9	obj:dir	_	_
+11	Regiarum	Regiarus	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	10	flat:name	_	_
+12	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	advcl	_	SpacesAfter=\s\s
+13	Uictorianus	Uictorianus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	17	advmod	_	_
+14	Quaestorianensis	Quaestorianensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	13	conj	_	SpacesAfter=\s\s
+15	Rufinianus	Rufinianus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	13	conj	_	_
+16	Uictorianensis	Uictorianensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	13	conj	_	SpacesAfter=\s\s
+17	Maximus	Maximus	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+18	Gummitanus	Gummitanus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	23	nsubj:pass	_	SpacesAfter=\s\s
+19	Peregrinus	peregrinus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	18	conj	_	_
+20	Materianensis	Materianensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	18	conj	_	SpacesAfter=\s\s
+21	Fortunatus	Fortunatus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	18	conj	_	_
+22	Mozotcoritanus	Mozotcoritanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	18	conj	_	SpacesAfter=\s\s\s\s
+23	Pacatus	Pacatus	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	17	conj	_	_
+
+# sent_id = 51
+# text = Uico Ateriensis Proficius Sublectinus Saturus Irensis Mangentius Ticualtensis Uillaticus Auzegerensis Cresconius Temonianensis prbt Paulus
+1	Uico	Uicus	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	13	iobj	_	SpacesAfter=\s\s
+2	Ateriensis	Ateriensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	SpacesAfter=\s\s
+3	Proficius	Proficius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+4	Sublectinus	Sublectinus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	flat:name	_	SpacesAfter=\s\s
+5	Saturus	Saturus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	appos	_	_
+6	Irensis	Irensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	SpacesAfter=\s\s
+7	Mangentius	Mangentius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	appos	_	_
+8	Ticualtensis	Ticualtensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	SpacesAfter=\s\s
+9	Uillaticus	Uillaticus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	appos	_	_
+10	Auzegerensis	Auzegerensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	SpacesAfter=\s\s
+11	Cresconius	Cresconius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	appos	_	_
+12	Temonianensis	Temonianensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	13	advmod	_	_
+13	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\s\s
+14	Paulus	Paulus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+
+# sent_id = 52
+# text = TurreBlandinus prbt Restitutus Segermitanus in exil Uictor Gauuaritanus Donatianus Aeliensis Stephanus Ruspensis Uinitor Talaptulensis Hortensius Autentensis Tertullus Iuncensis Eusebius Iubaltianensis prbt Seruitius Unuricopolitanus Donatus Aggaritanus Uigilius Tapsitanus Sunt numero CVII
+1	TurreBlandinus	TurreBlandinus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\s\s
+3	Restitutus	restitutus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	Segermitanus	Segermitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+5	in	in	ADP	R-	_	6	case	_	_
+6	exil	exil	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	2	obl	_	SpacesAfter=\s\s
+7	Uictor	Uictor	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	21	nsubj	_	_
+8	Gauuaritanus	Gauuaritanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	conj	_	SpacesAfter=\s\s
+9	Donatianus	Donatianus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	conj	_	_
+10	Aeliensis	Aeliensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	conj	_	SpacesAfter=\s\s
+11	Stephanus	Stephanus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	conj	_	_
+12	Ruspensis	Ruspensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	conj	_	SpacesAfter=\s\s
+13	Uinitor	Uinitor	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	conj	_	_
+14	Talaptulensis	Talaptulensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	conj	_	SpacesAfter=\s\s
+15	Hortensius	Hortensius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	conj	_	_
+16	Autentensis	Autentensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	conj	_	SpacesAfter=\s\s
+17	Tertullus	Tertullus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	conj	_	_
+18	Iuncensis	Iuncensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	conj	_	SpacesAfter=\s\s
+19	Eusebius	Eusebius	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	conj	_	_
+20	Iubaltianensis	Iubaltianensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	conj	_	_
+21	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	SpacesAfter=\s\s
+22	Seruitius	Seruitius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	29	nsubj	_	_
+23	Unuricopolitanus	Unuricopolitanus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	24	nsubj:pass	_	SpacesAfter=\s\s
+24	Donatus	donatus	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	29	advcl	_	_
+25	Aggaritanus	Aggaritanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	29	nsubj	_	SpacesAfter=\s\s
+26	Uigilius	Uigilius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	25	flat:name	_	_
+27	Tapsitanus	Tapsitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	25	flat:name	_	SpacesAfter=\s\s
+28	Sunt	sum	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	29	cop	_	_
+29	numero	numerus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	2	conj	_	_
+30	CVII	Cvius	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	29	nmod	_	SpacesAfter=\s\s
+
+# sent_id = 53
+# text = Et cathedrae quae episcopos non habuerunt Madassuma Dionisiana Sulianis Orrea Caelia Cunculiana Ticibus Sunt numero v Nomina episcoporum Maur Caesariensis 1 Glorinus Iuncensis Tiberianus Quizensis Uictor Sufaritanus Syrus Corniculanensis Lucius Itensis Honoratus Timicitanus Donatus Nouicensis prbt Patera Milianensis Reparatus Giru Montensis Auus Altabensis Donatus Panatoriensis Martialis Columnatensis Subdatius Sucardensis Subitanus Idensis prbt Donatus Tifiltensis Felicianus Idensis
+1	Et	et	CCONJ	C-	_	14	cc	_	_
+2	cathedrae	cathedra	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	14	nsubj	_	_
+3	quae	qui	PRON	Pr	Case=Nom|Gender=Fem|Number=Plur|PronType=Rel	6	nsubj	_	_
+4	episcopos	episcopus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	6	obj:dir	_	_
+5	non	non	ADV	Df	Polarity=Neg	6	advmod	_	_
+6	habuerunt	habeo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	acl	_	SpacesAfter=\s\s
+7	Madassuma	Madassuma	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	14	obl	_	SpacesAfter=\s\s
+8	Dionisiana	Dionisiana	ADJ	A-	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	SpacesAfter=\s\s
+9	Sulianis	Sulianes	ADJ	A-	Case=Abl|Degree=Pos|Number=Plur	7	amod	_	_
+10	Orrea	Orrea	PROPN	Ne	Case=Abl|Gender=Fem|Number=Sing	14	obl	_	_
+11	Caelia	Caelias	PROPN	Ne	Case=Abl|Gender=Fem|Number=Sing	10	flat:name	_	SpacesAfter=\s\s
+12	Cunculiana	Cunculiana	ADJ	A-	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	SpacesAfter=\s\s
+13	Ticibus	ticibus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	10	appos	_	_
+14	Sunt	sum	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+15	numero	numerus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	14	obl	_	_
+16	v	v	ADV	Df	_	17	advmod	_	SpacesAfter=\s\s\s\s\s\s
+17	Nomina	nomina	PROPN	Ne	Case=Abl|Gender=Fem|Number=Sing	15	nmod	_	_
+18	episcoporum	episcopus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	15	nmod	_	_
+19	Maur	Maur	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	14	obj:dir	_	_
+20	Caesariensis	Caesariensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	SpacesAfter=\s\s
+21	1	1	NUM	Ma	_	19	nummod	_	_
+22	Glorinus	Glorinus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	19	conj	_	_
+23	Iuncensis	Iuncensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	SpacesAfter=\s\s
+24	Tiberianus	Tiberianus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	19	conj	_	_
+25	Quizensis	Quizensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	26	amod	_	SpacesAfter=\s\s
+26	Uictor	Uictor	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	24	appos	_	_
+27	Sufaritanus	Sufaritanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	24	flat:name	_	SpacesAfter=\s\s
+28	Syrus	Syrus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	24	appos	_	_
+29	Corniculanensis	Corniculanensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	36	advmod	_	SpacesAfter=\s\s
+30	Lucius	Lucius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	36	nsubj	_	_
+31	Itensis	Itensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	32	amod	_	SpacesAfter=\s\s
+32	Honoratus	Honoratus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	30	appos	_	_
+33	Timicitanus	Timicitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	30	flat:name	_	SpacesAfter=\s\s
+34	Donatus	donatus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	30	appos	_	_
+35	Nouicensis	Nouicensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	36	advmod	_	_
+36	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	acl	_	SpacesAfter=\s\s
+37	Patera	Patera	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	39	amod	_	_
+38	Milianensis	Milianensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	39	amod	_	SpacesAfter=\s\s
+39	Reparatus	Reparatus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	52	nsubj	_	_
+40	Giru	Girus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	39	nmod	_	SpacesAfter=\s\s
+41	Montensis	Montensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	39	conj	_	SpacesAfter=\s\s
+42	Auus	Auus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	41	advmod	_	_
+43	Altabensis	Altabensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	44	amod	_	SpacesAfter=\s\s
+44	Donatus	donatus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	39	conj	_	_
+45	Panatoriensis	Panatoriensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	52	advmod	_	SpacesAfter=\s\s
+46	Martialis	Martialis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	45	conj	_	_
+47	Columnatensis	Columnatensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	45	conj	_	SpacesAfter=\s\s
+48	Subdatius	Subdatius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	45	conj	_	_
+49	Sucardensis	Sucardensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	45	conj	_	SpacesAfter=\s\s
+50	Subitanus	Subitanus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	45	conj	_	_
+51	Idensis	Idensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	45	conj	_	_
+52	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	36	conj	_	SpacesAfter=\s\s
+53	Donatus	donatus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	19	appos	_	_
+54	Tifiltensis	Tifiltensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	53	amod	_	SpacesAfter=\s\s
+55	Felicianus	Felicianus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	53	amod	_	_
+56	Idensis	Idensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	53	amod	_	SpacesAfter=\s\s
+
+# sent_id = 54
+# text = Onesimus Fidolomensis Uictor Taborentensis Uerecundus Nouensis Stephanus Zucabaritanus Apocorius Caesariensis Felix Rusubiritanus Donatus Subbaritanus Ianuarius Aquensis Martianus
+1	Onesimus	Onesimus	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Fidolomensis	Fidolomensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	advmod	_	SpacesAfter=\s\s
+3	Uictor	Uictor	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	13	nsubj:pass	_	_
+4	Taborentensis	Taborentensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	SpacesAfter=\s\s
+5	Uerecundus	Uerecundus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+6	Nouensis	Nouensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	SpacesAfter=\s\s
+7	Stephanus	Stephanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	_
+8	Zucabaritanus	Zucabaritanus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	SpacesAfter=\s\s
+9	Apocorius	Apocorius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	_
+10	Caesariensis	Caesariensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	conj	_	SpacesAfter=\s\s
+11	Felix	Felix	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	_
+12	Rusubiritanus	Rusubiritanus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	SpacesAfter=\s\s
+13	Donatus	donatus	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	conj	_	_
+14	Subbaritanus	Subbaritanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	SpacesAfter=\s\s
+15	Ianuarius	Ianuarius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	14	flat:name	_	_
+16	Aquensis	Aquensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	SpacesAfter=\s\s
+17	Martianus	Martianus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	14	appos	_	_
+
+# sent_id = 55
+# text = Murus Tagensis prbt Claudius Uagalitanus Passitanus Tigisitanus Salo Fallabensis Donatianus Usinadensis Paulus
+1	Murus	murus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	SpacesAfter=\s\s
+2	Tagensis	Tagensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	advmod	_	_
+3	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\s\s
+4	Claudius	Claudius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+5	Uagalitanus	Uagalitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	flat:name	_	SpacesAfter=\s\s
+6	Passitanus	Passitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	flat:name	_	_
+7	Tigisitanus	Tigisitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	SpacesAfter=\s\s
+8	Salo	Salus	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	7	flat:name	_	_
+9	Fallabensis	Fallabendo	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	advmod	_	SpacesAfter=\s\s
+10	Donatianus	Donatianus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	appos	_	_
+11	Usinadensis	Usinadensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	SpacesAfter=\s\s
+12	Paulus	Paulus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	_
+
+# sent_id = 56
+# text = Flumen Zeritanus Nicetius Castello Minoritanus Restitutus Florianensis
+1	Flumen	flumen	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	SpacesAfter=\s\s
+2	Zeritanus	Zeritanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\s\s
+3	Nicetius	Nicetius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_	_
+4	Castello	castellus	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	6	iobj	_	SpacesAfter=\s\s
+5	Minoritanus	Minoritanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	flat:name	_	SpacesAfter=\s\s\s\s
+6	Restitutus	restituo	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	7	advcl	_	_
+7	Florianensis	Florianensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	appos	_	SpacesAfter=\s\s
+
+# sent_id = 57
+# text = Mensius AlaMiliarensis Maxentius Tigamibenensis prbt Urbanus Amaurensis prbt Crescens Sestensis prbt Donatus
+1	Mensius	Mensius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+2	Ala	ala	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	SpaceAfter=No
+3	Miliarensis	Miliarensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	SpacesAfter=\s\s
+4	Maxentius	Maxentius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+5	Tigamibenensis	Tigamibenensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	advmod	_	_
+6	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\s\s
+7	Urbanus	Urbanus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+8	Amaurensis	Amaurensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+9	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	parataxis	_	SpacesAfter=\s\s
+10	Crescens	Crescens	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
+11	Sestensis	Sestensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	advmod	_	_
+12	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	SpacesAfter=\s\s
+13	Donatus	donatus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+
+# sent_id = 58
+# text = Ternamusensis Fortis Caput Cillensis Ianuarius Nasbincensis prbt Palladius Bacanariensis Ualens UillaeNouensis Passinatus Masuccabensis prbt Longinus Pamariensis Honorius Benepotensis Burco Uardimissensis prbt Felix Ambiensis Emilius Mediensis Arator Catulensis Caecilius Minnensis Lucidus Cartennitanus Uictor Regiensis Rogatianus Uannidensis prbt
+1	Ternamusensis	Ternamusensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	21	advmod	_	SpacesAfter=\s\s
+2	Fortis	fortis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	21	advmod	_	_
+3	Caput	caput	SCONJ	G-	_	7	mark	_	SpacesAfter=\s\s
+4	Cillensis	Cillensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	advmod	_	SpacesAfter=\s\s
+5	Ianuarius	Ianuarius	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+6	Nasbincensis	Nasbincensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	advmod	_	_
+7	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	advcl	_	SpacesAfter=\s\s
+8	Palladius	Palladius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	21	nsubj	_	_
+9	Bacanariensis	Bacanariensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	advmod	_	SpacesAfter=\s\s
+10	Ualens	Ualeo	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+11	UillaeNouensis	UillaeNouensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	SpacesAfter=\s\s
+12	Passinatus	Passinatus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
+13	Masuccabensis	Masuccabensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+14	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	advcl	_	SpacesAfter=\s\s
+15	Longinus	Longinus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	21	advmod	_	_
+16	Pamariensis	Pamariensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	17	advmod	_	SpacesAfter=\s\s
+17	Honorius	Honorius	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	15	conj	_	_
+18	Benepotensis	Benepotensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	21	advmod	_	SpacesAfter=\s\s
+19	Burco	Burco	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	18	iobj	_	_
+20	Uardimissensis	Uardimissensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	18	conj	_	_
+21	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\s\s
+22	Felix	Felix	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	21	nsubj	_	_
+23	Ambiensis	Ambiensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	SpacesAfter=\s\s
+24	Emilius	Emilius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	22	flat:name	_	_
+25	Mediensis	Mediensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	26	amod	_	SpacesAfter=\s\s
+26	Arator	Arator	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	22	appos	_	_
+27	Catulensis	Catulensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	28	amod	_	SpacesAfter=\s\s
+28	Caecilius	Caecilius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	22	appos	_	_
+29	Minnensis	Minnensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	30	amod	_	SpacesAfter=\s\s
+30	Lucidus	Lucidus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	22	appos	_	_
+31	Cartennitanus	Cartennitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	30	flat:name	_	SpacesAfter=\s\s
+32	Uictor	Uictor	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	36	nsubj	_	_
+33	Regiensis	Regiensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	32	amod	_	SpacesAfter=\s\s
+34	Rogatianus	Rogatianus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	32	amod	_	_
+35	Uannidensis	Uannidensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	36	advmod	_	_
+36	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	conj	_	SpacesAfter=\s\s
+
+# sent_id = 59
+# text = Primus Caprensis
+1	Primus	primus	ADJ	Mo	Case=Nom|Gender=Masc|Number=Sing	2	advmod	_	_
+2	Caprensis	Caprensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\s\s
+
+# sent_id = 60
+# text = Metcun Rusuccuritanus Rufus Sfasferiensis
+1	Metcun	Metcun	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	Rusuccuritanus	Rusuccuritanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	SpacesAfter=\s\s
+3	Rufus	rufus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+4	Sfasferiensis	Sfasferiensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	appos	_	SpacesAfter=\s\s
+
+# sent_id = 61
+# text = Eusebius Obbitanus Securus Timidanensis Donatus Frontensis Uictor Icositanus
+1	Eusebius	Eusebius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	Obbitanus	Obbitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	SpacesAfter=\s\s
+3	Securus	Securus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+4	Timidanensis	Timidanendo	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	SpacesAfter=\s\s
+5	Donatus	donatus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+6	Frontensis	Frontensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	SpacesAfter=\s\s
+7	Uictor	Uictor	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+8	Icositanus	Icositanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	SpacesAfter=\s\s
+
+# sent_id = 62
+# text = Quoduultdeus Tablensis prbt Restitutus Lapidiensis prbt Donatus Uoncariensis Bonifatius Rusguniensis Uenantius Oppido Nouensis prbt Mattasius
+1	Quoduultdeus	Quoduultdeus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	Tablensis	Tablensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	advmod	_	_
+3	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	SpacesAfter=\s\s
+4	Restitutus	restitutus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	Lapidiensis	Lapidiensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	advmod	_	_
+6	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\s\s
+7	Donatus	donatus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
+8	Uoncariensis	Uoncariensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	SpacesAfter=\s\s\s\s\s\s
+9	Bonifatius	Bonifatius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	appos	_	_
+10	Rusguniensis	Rusguniensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	SpacesAfter=\s\s
+11	Uenantius	Uenantius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	appos	_	_
+12	Oppido	oppidum	ADV	Df	_	13	advmod	_	SpacesAfter=\s\s
+13	Nouensis	Nouensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	14	advmod	_	_
+14	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	parataxis	_	SpacesAfter=\s\s
+15	Mattasius	Mattasius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+
+# sent_id = 63
+# text = CastelliAbaritanus Felix
+1	CastelliAbaritanus	CastelliAbaritanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\s\s
+2	Felix	Felix	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+
+# sent_id = 64
+# text = AquisSirensis Uictor Caltadriensis prbt Crescens Tigauitanus Idonius Busaditanus Gellianus
+1	AquisSirensis	AquisSirensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	SpacesAfter=\s\s
+2	Uictor	Uictor	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+3	Caltadriensis	Caltadriensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+4	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\s\s
+5	Crescens	Crescens	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+6	Tigauitanus	Tigauitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	SpacesAfter=\s\s
+7	Idonius	Idonius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	_
+8	Busaditanus	Busaditanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	SpacesAfter=\s\s
+9	Gellianus	Gellianus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	appos	_	_
+
+# sent_id = 65
+# text = Reperitanus Ingenuus Ubadensis Petrus
+1	Reperitanus	Reperitanus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\s\s
+2	Ingenuus	Ingenuus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+3	Ubadensis	Ubadendo	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	appos	_	SpacesAfter=\s\s
+4	Petrus	Petrus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nmod	_	_
+
+# sent_id = 66
+# text = Oboritanus Faustus Castra Seuerianensis Uitalis CastraNouensis Petrus Castellanus prbt Quintasius Mutecitanus Paulinus Rubicariensis Pascasius Mammillensis Tacanus Albulensis Emptacius Siccesitanus Talasius Gratianopolitanus Uictor Manaccenseritanus prbt Pannonius Bitensis Felix Flenucletensis prbt Campanus Bidensis Ualentinus Castelli Mediani Romanus Sufaritanus Secundus Maurianensis Reparatus Uulturiensis Lucius Maturbensis prbt Caecilius Balianensis Rogatus Sereddelitanus
+1	Oboritanus	Oboritanus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	29	nsubj	_	SpacesAfter=\s\s
+2	Faustus	Faustus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	nmod	_	_
+3	Castra	castra	ADJ	Ps	Case=Nom|Gender=Fem|Number=Sing|Person=1|Poss=Yes	29	advmod	_	SpacesAfter=\s\s
+4	Seuerianensis	Seuerianensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	advmod	_	SpacesAfter=\s\s
+5	Uitalis	Uitalis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+6	CastraNouensis	CastraNouensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	advmod	_	SpacesAfter=\s\s
+7	Petrus	Petrus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+8	Castellanus	Castellanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	flat:name	_	_
+9	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	29	advcl	_	SpacesAfter=\s\s
+10	Quintasius	Quintasius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	29	nsubj	_	_
+11	Mutecitanus	Mutecitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	10	flat:name	_	SpacesAfter=\s\s
+12	Paulinus	Paulinus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	10	flat:name	_	_
+13	Rubicariensis	Rubicariensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	SpacesAfter=\s\s
+14	Pascasius	Pascasius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	10	appos	_	_
+15	Mammillensis	Mammillensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	16	advmod	_	SpacesAfter=\s\s
+16	Tacanus	Tacanus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	appos	_	_
+17	Albulensis	Albulensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	16	conj	_	SpacesAfter=\s\s
+18	Emptacius	Emptacius	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	_
+19	Siccesitanus	Siccesitanus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	10	appos	_	SpacesAfter=\s\s
+20	Talasius	Talasius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	10	appos	_	_
+21	Gratianopolitanus	Gratianopolitanus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	SpacesAfter=\s\s
+22	Uictor	Uictor	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	10	appos	_	_
+23	Manaccenseritanus	Manaccenseritanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	24	nsubj	_	_
+24	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	29	advcl	_	SpacesAfter=\s\s
+25	Pannonius	Pannonius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	10	appos	_	_
+26	Bitensis	Bitensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	25	amod	_	SpacesAfter=\s\s
+27	Felix	Felix	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	29	nsubj	_	_
+28	Flenucletensis	Flenucletensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	29	advmod	_	_
+29	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\s\s
+30	Campanus	Campanus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	appos	_	_
+31	Bidensis	Bidensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	30	amod	_	SpacesAfter=\s\s
+32	Ualentinus	Ualentinus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	10	appos	_	_
+33	Castelli	castellus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	32	nmod	_	_
+34	Mediani	Medianus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	33	flat:name	_	SpacesAfter=\s\s
+35	Romanus	Romanus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	32	conj	_	_
+36	Sufaritanus	Sufaritanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	35	nmod	_	SpacesAfter=\s\s
+37	Secundus	secundus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	32	conj	_	_
+38	Maurianensis	Maurianensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	32	conj	_	SpacesAfter=\s\s
+39	Reparatus	Reparatus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	43	advmod	_	_
+40	Uulturiensis	Uulturiensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	43	advmod	_	SpacesAfter=\s\s
+41	Lucius	Lucius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	43	nsubj	_	_
+42	Maturbensis	Maturbensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	43	advmod	_	_
+43	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	29	conj	_	SpacesAfter=\s\s
+44	Caecilius	Caecilius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	10	appos	_	_
+45	Balianensis	Balianensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	47	amod	_	SpacesAfter=\s\s
+46	Rogatus	rogatus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	47	amod	_	_
+47	Sereddelitanus	Sereddelitanus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	44	appos	_	SpacesAfter=\s\s\s\s
+
+# sent_id = 67
+# text = Mingin Nouensis prbt Reparatus Castelli Tatroportensis Filo Arsinnaritanus Bassinus Elefantariensis prbt Patera Catabitanus Uincemalos Baparensis Reparatus Tipasitanus prbt Romanus Tamadensis prbt Uictor Uoncarianensis Maddanius Murconensis Crispinus Tabadcarensis Quoduultdeus Subbulensis prbt Dauid Tadamatensis Candidianus Catrensis prbt Reparatus Cissitanus Poequarius Tasaccurensis prbt Quintus Tabuniensis prbt Maximus Tuscamiensis Auxilius Gunugitanus prbt Reparatus Sitensis Saturninus Uissalsensis prbt Felix Maxitensis prbt Gaius Adsinnadensis prbt Crescens Satafensis prbt Saturninus Sertensis prbt Uictor Numidensis prbt Cerealis
+1	Mingin	Mingin	PROPN	Ne	_	3	iobj	_	_
+2	Nouensis	Nouensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	advmod	_	_
+3	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	advcl	_	SpacesAfter=\s\s
+4	Reparatus	Reparatus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
+5	Castelli	castellus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	SpacesAfter=\s\s
+6	Tatroportensis	Tatroportensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	SpacesAfter=\s\s
+7	Filo	Filum	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	_
+8	Arsinnaritanus	Arsinnaritanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	SpacesAfter=\s\s
+9	Bassinus	Bassinus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	_
+10	Elefantariensis	Elefantariensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	advmod	_	_
+11	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	SpacesAfter=\s\s
+12	Patera	Patera	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
+13	Catabitanus	Catabitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	SpacesAfter=\s\s
+14	Uincemalos	Uincemali	DET	Pd	Case=Acc|Gender=Masc|Number=Plur	17	det	_	_
+15	Baparensis	Baparensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	SpacesAfter=\s\s
+16	Reparatus	Reparatus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+17	Tipasitanus	Tipasitanus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	_
+18	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	30	advcl	_	SpacesAfter=\s\s
+19	Romanus	Romanus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	21	nsubj	_	_
+20	Tamadensis	Tamadensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	_
+21	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	30	advcl	_	SpacesAfter=\s\s
+22	Uictor	Uictor	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	30	nsubj	_	_
+23	Uoncarianensis	Uoncarianensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	SpacesAfter=\s\s
+24	Maddanius	Maddanius	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	_
+25	Murconensis	Murconensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	26	amod	_	SpacesAfter=\s\s
+26	Crispinus	Crispinus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	22	appos	_	_
+27	Tabadcarensis	Tabadcarensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	30	advmod	_	SpacesAfter=\s\s
+28	Quoduultdeus	Quoduultdeus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	27	conj	_	_
+29	Subbulensis	Subbulensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	27	conj	_	_
+30	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\s\s
+31	Dauid	Dauid	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	40	obj:dir	_	_
+32	Tadamatensis	Tadamatensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	40	advmod	_	SpacesAfter=\s\s
+33	Candidianus	Candidianus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	32	conj	_	_
+34	Catrensis	Catrensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	32	conj	_	_
+35	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	32	conj	_	SpacesAfter=\s\s
+36	Reparatus	Reparatus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	32	conj	_	_
+37	Cissitanus	Cissitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	32	conj	_	SpacesAfter=\s\s
+38	Poequarius	Poequarius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	32	conj	_	_
+39	Tasaccurensis	Tasaccurensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	32	conj	_	_
+40	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	68	advcl	_	SpacesAfter=\s\s
+41	Quintus	Quintus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	43	nsubj	_	_
+42	Tabuniensis	Tabuniensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	43	advmod	_	_
+43	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	40	conj	_	SpacesAfter=\s\s
+44	Maximus	Maximus	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	53	advcl	_	_
+45	Tuscamiensis	Tuscamiensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	46	amod	_	SpacesAfter=\s\s
+46	Auxilius	Auxilius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	53	nsubj	_	_
+47	Gunugitanus	Gunugitanus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	48	nsubj	_	_
+48	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	46	acl	_	SpacesAfter=\s\s
+49	Reparatus	Reparatus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	48	advmod	_	_
+50	Sitensis	Sitensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	51	amod	_	SpacesAfter=\s\s
+51	Saturninus	Saturninus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	46	appos	_	_
+52	Uissalsensis	Uissalsensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	53	advmod	_	_
+53	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	40	conj	_	SpacesAfter=\s\s
+54	Felix	Felix	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	56	nsubj	_	_
+55	Maxitensis	Maxitensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	56	advmod	_	_
+56	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	40	conj	_	SpacesAfter=\s\s
+57	Gaius	Gaius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	59	nsubj	_	_
+58	Adsinnadensis	Adsinnadensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	59	advmod	_	_
+59	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	40	conj	_	SpacesAfter=\s\s
+60	Crescens	Crescens	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	62	nsubj	_	_
+61	Satafensis	Satafensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	62	advmod	_	_
+62	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	40	conj	_	SpacesAfter=\s\s
+63	Saturninus	Saturninus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	65	nsubj	_	_
+64	Sertensis	Sertensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	65	advmod	_	_
+65	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	40	conj	_	SpacesAfter=\s\s
+66	Uictor	Uictor	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	68	nsubj	_	_
+67	Numidensis	Numidensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	66	amod	_	_
+68	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	30	parataxis	_	SpacesAfter=\s\s
+69	Cerealis	Cerealis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	68	advmod	_	_
+
+# sent_id = 68
+# text = CastelloBipensis Lucius Tamazucensis
+1	CastelloBipensis	CastelloBipensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\s\s
+2	Lucius	Lucius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+3	Tamazucensis	Tamazucensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	appos	_	SpacesAfter=\s\s
+
+# sent_id = 69
+# text = Sunt
+1	Sunt	sum	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = 70
+# text = N cxx et cathedrae quae episcopos non habuerunt
+1	N	ne	ADV	Du	PronType=Int	0	root	_	_
+2	cxx	cxx	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	SpacesAfter=\s\s\s\s\s
+3	et	et	CCONJ	C-	_	2	cc	_	_
+4	cathedrae	cathedra	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	2	conj	_	_
+5	quae	qui	PRON	Pr	Case=Nom|Gender=Fem|Number=Plur|PronType=Rel	8	nsubj	_	_
+6	episcopos	episcopus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	8	obj:dir	_	_
+7	non	non	ADV	Df	Polarity=Neg	8	advmod	_	_
+8	habuerunt	habeo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	acl	_	SpacesAfter=\s\s
+
+# sent_id = 71
+# text = Maiucensis Maiucensis Nabalensis Tingariensis
+1	Maiucensis	Maiucensis	VERB	V-	Aspect=Perf|Case=Abl|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+2	Maiucensis	Maiucensis	VERB	V-	Aspect=Perf|Case=Abl|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	4	advcl	_	SpacesAfter=\s\s
+3	Nabalensis	Nabalensum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Plur	2	nsubj:pass	_	_
+4	Tingariensis	Tingariensis	VERB	V-	Aspect=Perf|Case=Abl|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	1	conj	_	SpacesAfter=\s\s
+
+# sent_id = 72
+# text = Tubunensis Oboritanus
+1	Tubunensis	Tubunensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	Oboritanus	Oboritanus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\s\s
+
+# sent_id = 73
+# text = N m Nomina episcoporum prouin Maur
+1	N	ne	ADV	Df	_	2	advmod	_	_
+2	m	m	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\s\s\s\s\s
+3	Nomina	nomina	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	_
+4	episcoporum	episcopus	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	3	nmod	_	_
+5	prouin	proui(n)	ADV	Df	_	6	advmod	_	_
+6	Maur	Maur	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	conj	_	_
+
+# sent_id = 74
+# text = Sitif Rufinus Tamallumensis Donatus Sitifensis Maximus
+1	Sitif	Sitif	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	obj:dir	_	SpacesAfter=\s\s\s
+2	Rufinus	Rufinus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+3	Tamallumensis	Tamallumensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	appos	_	SpacesAfter=\s\s
+4	Donatus	donatus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	_
+5	Sitifensis	Sitifensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	SpacesAfter=\s\s
+6	Maximus	Maximus	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = 75
+# text = Cobiensis Domitianus Igilgitanus Honorius Aquae Albensis Festus Satafensis Uictor Horrensis Maximus Thubusubditanus Uictor Ierafitanus
+1	Cobiensis	Cobiensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	SpacesAfter=\s\s
+2	Domitianus	Domitianus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
+3	Igilgitanus	Igilgitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	SpacesAfter=\s\s
+4	Honorius	Honorius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	flat:name	_	_
+5	Aquae	aqua	DET	Px	Case=Nom|Gender=Fem|Number=Plur	3	det	_	SpacesAfter=\s\s
+6	Albensis	Albensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	conj	_	SpacesAfter=\s\s
+7	Festus	Festus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	_
+8	Satafensis	Satafensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	conj	_	SpacesAfter=\s\s
+9	Uictor	Uictor	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	_
+10	Horrensis	Horrensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	conj	_	SpacesAfter=\s\s
+11	Maximus	Maximus	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+12	Thubusubditanus	Thubusubditanus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	SpacesAfter=\s\s
+13	Uictor	Uictor	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	_
+14	Ierafitanus	Ierafitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	13	appos	_	SpacesAfter=\s\s
+
+# sent_id = 76
+# text = Uadius Lesbitanus Pacatus Equizotensis Felix Castellanus prbt Constantius Gegitanus Uictor Eminentianensis Saturnius Sociensis prbt Iacobus Lemellefensis Cresciturus Cellensis prbt Emeritus Macrensis prbt Redux NouaLicianensis Argentius Zallatensis Uindemius Lemfoctensis Auus Ficensis Restitutus Macrianensis prbt Uitalis Assafensis Uictor FlumenPiscensis Inuentinus Maronanensis Romanus Molicunzensis Uictorinus Serteitanus prbt Montanus Cedamusensis Clemens Thamagristensis Adeodatus Priuatensis Rogatus Parteniensis Uillaticus Mozotensis
+1	Uadius	Uadius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
+2	Lesbitanus	Lesbitanus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	SpacesAfter=\s\s
+3	Pacatus	Pacatus	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	acl	_	_
+4	Equizotensis	Equizotensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	appos	_	SpacesAfter=\s\s
+5	Felix	Felix	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+6	Castellanus	Castellanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	_
+7	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	advcl	_	SpacesAfter=\s\s
+8	Constantius	Constantius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+9	Gegitanus	Gegitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	8	flat:name	_	SpacesAfter=\s\s
+10	Uictor	Uictor	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+11	Eminentianensis	Eminentianensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	SpacesAfter=\s\s
+12	Saturnius	Saturnius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+13	Sociensis	Sociensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+14	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\s\s
+15	Iacobus	Iacob	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	19	nsubj	_	_
+16	Lemellefensis	Lemellefensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	SpacesAfter=\s\s
+17	Cresciturus	Cresciturus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	15	flat:name	_	_
+18	Cellensis	Cellensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	19	advmod	_	_
+19	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	advcl	_	SpacesAfter=\s\s
+20	Emeritus	Emeritus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	22	advmod	_	_
+21	Macrensis	Macrensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	22	advmod	_	_
+22	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	conj	_	SpacesAfter=\s\s
+23	Redux	Redux	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	34	nsubj	_	_
+24	Noua	Nouis	DET	Px	Case=Nom|Gender=Fem|Number=Sing	23	det	_	SpaceAfter=No
+25	Licianensis	Licianensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	23	amod	_	SpacesAfter=\s\s
+26	Argentius	Argentius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	23	appos	_	_
+27	Zallatensis	Zallatensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	28	advmod	_	SpacesAfter=\s\s
+28	Uindemius	Uindemius	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	23	appos	_	_
+29	Lemfoctensis	Lemfoctensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	28	conj	_	SpacesAfter=\s\s
+30	Auus	Auus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	34	advmod	_	_
+31	Ficensis	Ficensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	30	conj	_	SpacesAfter=\s\s
+32	Restitutus	restituo	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	30	conj	_	_
+33	Macrianensis	Macrianensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	30	conj	_	_
+34	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	conj	_	SpacesAfter=\s\s
+35	Uitalis	Uitalis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	36	advmod	_	_
+36	Assafensis	Assafensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	37	amod	_	SpacesAfter=\s\s\s\s
+37	Uictor	Uictor	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	46	nsubj	_	_
+38	Flumen	flumen	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	46	obj:dir	_	SpaceAfter=No
+39	Piscensis	Piscensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	38	appos	_	SpacesAfter=\s\s
+40	Inuentinus	Inuentinus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	38	appos	_	_
+41	Maronanensis	Maronanensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	42	amod	_	SpacesAfter=\s\s
+42	Romanus	Romanus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	38	appos	_	_
+43	Molicunzensis	Molicunzensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	45	amod	_	SpacesAfter=\s\s
+44	Uictorinus	Uictorinus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	45	amod	_	_
+45	Serteitanus	Serteitanus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	38	appos	_	_
+46	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	acl	_	SpacesAfter=\s\s
+47	Montanus	Montanus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	48	advmod	_	_
+48	Cedamusensis	Cedamusensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	37	appos	_	SpacesAfter=\s\s
+49	Clemens	clemens	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	48	conj	_	_
+50	Thamagristensis	Thamagristensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	48	conj	_	SpacesAfter=\s\s
+51	Adeodatus	Adeodatus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	52	advmod	_	_
+52	Priuatensis	Priuatensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	48	conj	_	SpacesAfter=\s\s
+53	Rogatus	rogo	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	54	advmod	_	_
+54	Parteniensis	Parteniensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	48	conj	_	SpacesAfter=\s\s
+55	Uillaticus	Uillaticus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	56	advmod	_	_
+56	Mozotensis	Mozotensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	48	conj	_	SpacesAfter=\s\s
+
+# sent_id = 77
+# text = Honoratus Tamascaniensis prbt Iustus Acufidensis prbt Emilius Asuoremixtensis Uzulus Thuccensis Aufidius Suristensis Uictorinus Perdicensis Possessor Zabensis Pascasius Salditanus Flauianus Uamallensis sunt n XLIIII Nomina episcoporum prouin Tripolitanae Callippides
+1	Honoratus	Honoratus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	Tamascaniensis	Tamascaniensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	amod	_	_
+3	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	SpacesAfter=\s\s
+4	Iustus	iustus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+5	Acufidensis	Acufidensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+6	prbt	prbo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\s\s
+7	Emilius	Emilius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	_
+8	Asuoremixtensis	Asuoremixtensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	appos	_	SpacesAfter=\s\s
+9	Uzulus	Uzulus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	appos	_	_
+10	Thuccensis	Thuccensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	SpacesAfter=\s\s
+11	Aufidius	Aufidius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	appos	_	_
+12	Suristensis	Suristensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	appos	_	SpacesAfter=\s\s
+13	Uictorinus	Uictorinus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	conj	_	_
+14	Perdicensis	Perdicensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	conj	_	SpacesAfter=\s\s
+15	Possessor	Possessor	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	12	conj	_	_
+16	Zabensis	Zabensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	conj	_	SpacesAfter=\s\s
+17	Pascasius	Pascasius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	12	conj	_	_
+18	Salditanus	Salditanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	12	conj	_	SpacesAfter=\s\s
+19	Flauianus	Flauianus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	conj	_	_
+20	Uamallensis	Uamallendo	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	advcl	_	_
+21	sunt	sum	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	cop	_	_
+22	n	ne	ADV	Du	PronType=Int	23	advmod	_	_
+23	XLIIII	Xliiius	ADV	Df	_	20	advmod	_	SpacesAfter=\s\s\s\s
+24	Nomina	nomina	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	23	nsubj	_	_
+25	episcoporum	episcopus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	24	nmod	_	_
+26	prouin	proui(n)	ADV	Df	_	28	advmod	_	_
+27	Tripolitanae	Tripolitanas	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	28	nmod	_	SpacesAfter=\s\s
+28	Callippides	Callippides	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	24	conj	_	_
+
+# sent_id = 78
+# text = Lepti Magnensis Leo Sabratensis Faustinus Girbitanus
+1	Lepti	Leptus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	SpacesAfter=\s\s
+2	Magnensis	Magnensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	SpacesAfter=\s\s
+3	Leo	leus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+4	Sabratensis	Sabratensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	SpacesAfter=\s\s
+5	Faustinus	Faustinus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	appos	_	_
+6	Girbitanus	Girbitanus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\s\s
+
+# sent_id = 79
+# text = Cresconius Oeensis Seruilius Tacapitanus sunt n v Nomina episcoporum insulae Sardiniae Lucifer Calaritanus Martinianus de Foro Traiani Bonifatius de Sanafer Macarius
+1	Cresconius	Cresconius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+2	Oeensis	Oeensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	SpacesAfter=\s\s
+3	Seruilius	Seruilius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+4	Tacapitanus	Tacapitanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+5	sunt	sum	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
+6	n	ne	ADV	Du	PronType=Int	7	advmod	_	_
+7	v	v	ADV	Df	_	8	advmod	_	SpacesAfter=\s\s\s\s\s
+8	Nomina	nomina	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	4	appos	_	_
+9	episcoporum	episcopus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	_
+10	insulae	insula	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+11	Sardiniae	Sardinia	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	SpacesAfter=\s\s\s
+12	Lucifer	Lucifer	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	8	conj	_	_
+13	Calaritanus	Calaritanus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	8	conj	_	SpacesAfter=\s\s
+14	Martinianus	Martinianus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	8	conj	_	_
+15	de	de	ADP	R-	_	16	case	_	_
+16	Foro	forum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	8	conj	_	_
+17	Traiani	Traiani	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	SpacesAfter=\s\s
+18	Bonifatius	Bonifatius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	8	conj	_	_
+19	de	de	ADP	R-	_	21	case	_	_
+20	Sanafer	Sanafer	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	21	amod	_	SpacesAfter=\s\s
+21	Macarius	Macarius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	8	conj	_	_
+
+# sent_id = 80
+# text = de Minorica Uitalis Sulcitanus Felix de Turribus Helias de Maiorica Opilio de Ebuso sunt n VIII
+1	de	de	ADP	R-	_	2	case	_	_
+2	Minorica	Minorica	PROPN	Ne	Case=Abl|Gender=Fem|Number=Sing	15	obl	_	SpacesAfter=\s\s\s\s\s\s
+3	Uitalis	Uitalum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	Sulcitanus	Sulcitanus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	SpacesAfter=\s\s
+5	Felix	Felix	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	_
+6	de	de	ADP	R-	_	7	case	_	_
+7	Turribus	turris	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	8	nmod	_	SpacesAfter=\s\s
+8	Helias	Helias	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	_
+9	de	de	ADP	R-	_	10	case	_	_
+10	Maiorica	Maiorica	PROPN	Ne	Case=Abl|Gender=Fem|Number=Sing	4	nmod	_	SpacesAfter=\s\s
+11	Opilio	Opilius	PROPN	Ne	Case=Abl|Gender=Neut|Number=Sing	10	flat:name	_	_
+12	de	de	ADP	R-	_	13	case	_	_
+13	Ebuso	Ebusus	ADJ	A-	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing	15	advmod	_	_
+14	sunt	sum	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	cop	_	_
+15	n	ne	ADV	Df	_	0	root	_	_
+16	VIII	viius	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	15	nsubj	_	SpacesAfter=\s\s\s\s
+
+# sent_id = 81
+# text = Ac sic fiunt omnes episcopi diuersarum prouinciarum numero CCCCLXVI
+1	Ac	atque	CCONJ	C-	_	3	cc	_	_
+2	sic	sic	ADV	Df	_	3	advmod	_	_
+3	fiunt	fio	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	omnes	omnis	DET	Px	Case=Nom|Gender=Masc|Number=Plur	5	det	_	_
+5	episcopi	episcopio	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
+6	diuersarum	diuersus	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	_
+7	prouinciarum	prouincia	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	_
+8	numero	numerus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	3	obl	_	SpacesAfter=\s\s
+9	CCCCLXVI	CCCCLXVI	ADJ	A-	Case=Abl|Degree=Pos|Number=Sing	8	amod	_	SpacesAfter=\s\s
+
+# sent_id = 82
+# text = Ex quibus perierunt n LXXXVIII id est de proconsular numr m de prouinc &#x3; Numidiae numr XXXIII de prouinc Maurit Caesar numr XXXII permanserunt numr CCCLXXVIII Corsica relegati numr XLVI
+1	Ex	ex	ADP	R-	_	2	case	_	_
+2	quibus	qui	PRON	Pr	Case=Abl|Gender=Masc|Number=Plur|PronType=Rel	3	obl	_	_
+3	perierunt	pereo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	n	ne	ADV	Df	_	3	advmod	_	_
+5	LXXXVIII	Lxxxviius	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	20	nsubj	_	_
+6	id	is	PRON	Pp	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+7	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	SpacesAfter=\s\s
+8	de	de	ADP	R-	_	9	case	_	_
+9	proconsular	proconsular	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	20	obj:dir	_	_
+10	numr	numr	ADV	Df	Degree=Pos	11	advmod	_	_
+11	m	m	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	20	obl	_	SpacesAfter=\s\s
+12	de	de	ADP	R-	_	13	case	_	_
+13	prouinc	prouinc	ADV	Df	_	20	advmod	_	_
+14	&#x3;	&#x3;	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	20	obj:dir	_	_
+15	Numidiae	Numidia	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
+16	numr	numr	ADV	Df	Degree=Pos	20	advmod	_	_
+17	XXXIII	Xxxiius	ADV	Df	_	20	advmod	_	SpacesAfter=\s\s
+18	de	de	ADP	R-	_	19	case	_	_
+19	prouinc	prouinc	ADV	Df	_	20	advmod	_	_
+20	Maurit	Maurio	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+21	Caesar	Caesar	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	24	nsubj	_	_
+22	numr	numr	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	24	obj:dir	_	_
+23	XXXII	Xxxius	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	24	nsubj	_	SpacesAfter=\s\s
+24	permanserunt	permaneo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	_
+25	numr	numr	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	22	appos	_	_
+26	CCC	Ccc	ADV	Df	_	29	advmod	_	SpaceAfter=No
+27	LXXVIII	Lxxviius	ADV	Df	_	29	advmod	_	SpacesAfter=\s\s
+28	Corsica	Corsica	PROPN	Ne	Case=Abl|Gender=Fem|Number=Sing	29	iobj	_	_
+29	relegati	relego	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	25	acl	_	_
+30	numr	numr	ADV	Df	Degree=Pos	31	advmod	_	_
+31	XLVI	XLVI	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	29	conj	_	SpacesAfter=\s\s
+
+# sent_id = 83
+# text = Hic relegati numr CCCII Fugerunt numr XXVIII
+1	Hic	hic	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+2	relegati	relego	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	5	advcl	_	_
+3	numr	numr	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+4	CCCII	Cccius	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	SpacesAfter=\s\s
+5	Fugerunt	fugio	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	numr	numr	ADV	Df	Degree=Pos	7	advmod	_	_
+7	XXVIII	Xxviius	ADV	Df	_	5	advmod	_	SpacesAfter=\s\s
+
+# sent_id = 84
+# text = Passus numr i Confessor num i
+1	Passus	patior	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
+2	numr	numr	ADV	Df	Degree=Pos	3	advmod	_	_
+3	i	is	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	1	amod	_	SpacesAfter=\s\s
+4	Confessor	Confessor	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
+5	num	num	ADV	Du	PronType=Int	6	advmod	_	_
+6	i	is	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	1	conj	_	SpacesAfter=\s\s\s\s\s\s\n
+

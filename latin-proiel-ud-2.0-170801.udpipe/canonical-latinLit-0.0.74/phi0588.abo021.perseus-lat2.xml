@@ -1,0 +1,530 @@
+# newdoc id = /Users/mycomputer/Documents/ud-pipe/latin/02-extractTextDirectlyForProiel-CAN/phi0588.abo021.perseus-lat2.xml
+# newpar
+# sent_id = 1
+# text = Hi fere fuerunt Graecae gentis duces qui memoria digni videantur praeter reges namque eos attingere noluimus quod omnium res gestae separatim sunt relatae neque tamen ii admodum sunt multi
+1	Hi	hic	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	0	root	_	SpacesBefore=\s\s\s\s\s
+2	fere	fere	ADV	Df	_	1	advmod	_	_
+3	fuerunt	sum	AUX	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	cop	_	_
+4	Graecae	Graecus	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	gentis	gens	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+6	duces	dux	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	1	nsubj	_	_
+7	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	10	nsubj:pass	_	_
+8	memoria	memoria	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	10	obl	_	_
+9	digni	dignus	ADJ	A-	Case=Abl|Degree=Pos|Number=Sing	10	advmod	_	_
+10	videantur	video	VERB	V-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	6	acl	_	_
+11	praeter	praeter	ADP	R-	_	12	case	_	_
+12	reges	rex	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	16	obl	_	_
+13	namque	namque	ADV	Df	_	15	advmod	_	_
+14	eos	is	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	15	obj:dir	_	_
+15	attingere	attingo	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	16	xcomp	_	_
+16	noluimus	nolo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	10	advcl	_	_
+17	quod	quod	SCONJ	G-	_	20	mark	_	_
+18	omnium	omnis	DET	Px	Case=Gen|Gender=Masc|Number=Plur	19	det	_	_
+19	res	res	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	20	nsubj	_	_
+20	gestae	gero	VERB	V-	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	16	advcl	_	_
+21	separatim	separatim	ADV	Df	_	23	advmod	_	_
+22	sunt	sum	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	aux:pass	_	_
+23	relatae	refero	VERB	V-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	16	conj	_	SpacesAfter=\s\s
+24	ne	ne	ADV	Df	Polarity=Neg	30	advmod	_	SpaceAfter=No
+25	que	que	CCONJ	C-	_	23	cc	_	_
+26	tamen	tamen	ADV	Df	_	30	discourse	_	_
+27	ii	is	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	30	nsubj	_	_
+28	admodum	admodum	ADV	Df	_	30	advmod	_	_
+29	sunt	sum	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	30	cop	_	_
+30	multi	multus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	23	conj	_	_
+
+# sent_id = 2
+# text = Lacedaemonius autem Agesilaus nomine non potestate fuit rex sicut ceteri Spartani
+1	Lacedaemonius	Lacedaemonius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	autem	autem	ADV	Df	_	1	discourse	_	_
+3	Agesilaus	Agesilaus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+4	nomine	nomen	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	6	nmod	_	_
+5	non	non	ADV	Df	Polarity=Neg	6	advmod	_	_
+6	potestate	potestas	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	3	appos	_	_
+7	fuit	sum	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	_
+8	rex	rex	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+9	sicut	sicut	ADV	Df	_	6	advcl	_	_
+10	ceteri	ceterus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	11	amod	_	_
+11	Spartani	Spartani	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	_
+
+# sent_id = 3
+# text = ex iis vero qui dominatum imperio tenuerunt excellentissimi fuerunt ut nos iudicamus
+1	ex	ex	ADP	R-	_	2	case	_	_
+2	iis	is	PRON	Pp	Case=Abl|Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	obl	_	_
+3	vero	vero	ADV	Df	_	7	discourse	_	_
+4	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj:pass	_	_
+5	dominatum	dominatum	VERB	V-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	7	nsubj	_	_
+6	imperio	imperium	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	5	obl	_	_
+7	tenuerunt	teneo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+8	excellentissimi	excellentus	ADJ	A-	Case=Nom|Degree=Sup|Gender=Masc|Number=Plur	7	ccomp	_	_
+9	fuerunt	sum	AUX	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	cop	_	_
+10	ut	ut	SCONJ	G-	_	12	mark	_	_
+11	nos	nos	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	12	obj:dir	_	_
+12	iudicamus	iudico	VERB	V-	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	_
+
+# sent_id = 4
+# text = Persarum
+1	Persarum	Persarus	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = 5
+# text = Cyrus et Darius Hystaspi filius quorum uterque privatus virtute regnum est adeptus prior horum apud Massagetas in proelio cecidit Darius senectute diem obiit supremum tres sunt
+1	Cyrus	Cyrus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	12	nsubj:pass	_	_
+2	et	et	CCONJ	C-	_	1	cc	_	_
+3	Darius	Darius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
+4	Hystaspi	Hystaspus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+5	filius	filius	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	appos	_	_
+6	quorum	qui	PRON	Pr	Case=Gen|Gender=Masc|Number=Plur|PronType=Rel	7	det	_	_
+7	uterque	uterque	ADJ	Px	Case=Nom|Gender=Masc|Number=Sing	8	nsubj:pass	_	_
+8	privatus	privatus	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	acl	_	_
+9	virtute	virtus	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	8	iobj	_	_
+10	regnum	regnum	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	12	nsubj:pass	_	_
+11	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	aux:pass	_	_
+12	adeptus	adeo	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+13	prior	prior	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	19	nsubj	_	_
+14	horum	hic	ADJ	Pd	Case=Gen|Gender=Neut|Number=Plur	13	nmod	_	_
+15	apud	apud	ADP	R-	_	16	case	_	_
+16	Massagetas	Massagetas	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	19	obl	_	_
+17	in	in	ADP	R-	_	18	case	_	_
+18	proelio	proelium	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	19	obl	_	_
+19	cecidit	cado	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	advcl	_	_
+20	Darius	Darius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	23	nsubj	_	_
+21	senectute	senectuo	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	23	obl	_	_
+22	diem	dies	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	21	nmod	_	_
+23	obiit	obeo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	acl	_	_
+24	supremum	supremum	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	26	iobj	_	SpacesAfter=\s\s
+25	tres	tres	NUM	Ma	Case=Acc|Gender=Fem,Masc|Number=Plur	24	nummod	_	_
+26	sunt	sum	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	aux:pass	_	_
+
+# sent_id = 6
+# text = praeterea eiusdem gentis Xerxes et duo Artaxerxae Macrochir cognomine et Mnemon Xerxi maxime est illustre quod maximis post hominum memoriam exercitibus terra marique bellum intulit Graeciae
+1	praeterea	praeterea	ADV	Df	_	12	advmod	_	_
+2	eiusdem	idem	DET	Pd	Case=Gen|Number=Sing	3	det	_	_
+3	gentis	gens	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+4	Xerxes	Xerxes	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	12	xcomp	_	_
+5	et	et	CCONJ	C-	_	4	cc	_	_
+6	duo	duo	NUM	Ma	Case=Nom|Gender=Masc|Number=Plur	8	nummod	_	_
+7	Artaxerxae	Artaxerxa	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+8	Macrochir	Macrochir	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	4	conj	_	_
+9	cognomine	cognomen	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	8	appos	_	_
+10	et	et	CCONJ	C-	_	9	cc	_	_
+11	Mnemon	Mnemon	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	9	conj	_	_
+12	Xerxi	Xergo	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+13	maxime	magis	ADV	Df	Degree=Sup	14	advmod	_	_
+14	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	aux:pass	_	_
+15	illustre	illustris	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	12	nsubj:pass	_	_
+16	quod	qui	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	25	nsubj	_	_
+17	maximis	magnus	ADJ	A-	Case=Abl|Degree=Sup|Number=Plur	18	advmod	_	_
+18	post	post	ADP	R-	_	20	case	_	_
+19	hominum	homo	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	20	nmod	_	_
+20	memoriam	memoria	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	25	obl	_	_
+21	exercitibus	exercitus	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	22	iobj	_	_
+22	terra	terra	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	25	nsubj	_	_
+23	marique	marusque	ADV	Df	Degree=Pos	25	advmod	_	_
+24	bellum	bellum	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	25	obj:dir	_	_
+25	intulit	infero	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	15	acl	_	_
+26	Graeciae	Graecia	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	25	iobj	_	SpacesAfter=\s\s
+
+# sent_id = 7
+# text = at Macrochir
+1	at	at	ADV	Df	_	2	discourse	_	_
+2	Macrochir	Macrochir	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+
+# sent_id = 8
+# text = praecipuam habet laudem amplissimae pulcherrimaeque corporis formae quam incredibili ornavit virtute belli namque illo Perses nemo manu fuit fortior
+1	praecipuam	praecipua	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obj:dir	_	_
+2	habet	habeo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	laudem	laus	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	conj	_	_
+4	amplissimae	amplus	ADJ	A-	Case=Nom|Degree=Sup|Gender=Fem|Number=Plur	2	advmod	_	_
+5	pulcherrimae	pulcherrimus	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	4	conj	_	SpaceAfter=No
+6	que	que	CCONJ	C-	_	4	cc	_	_
+7	corporis	corpus	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	4	conj	_	_
+8	formae	forma	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+9	quam	quam#1	ADV	Df	_	11	advmod	_	_
+10	incredibili	incredibilis	ADJ	A-	Case=Abl|Degree=Pos|Number=Sing	9	obj:dir	_	_
+11	ornavit	orno	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
+12	virtute	virtus	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	11	obl	_	_
+13	belli	bellum	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+14	nam	nam	ADV	Df	_	21	discourse	_	SpaceAfter=No
+15	que	que	CCONJ	C-	_	4	cc	_	_
+16	illo	ille	ADJ	Pd	Case=Abl|Gender=Masc|Number=Sing	21	iobj	_	_
+17	Perses	Perses	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	21	nsubj	_	_
+18	nemo	nemo	ADJ	Px	Case=Nom|Gender=Fem,Masc|Number=Sing	21	nsubj	_	_
+19	manu	manus	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	21	obl	_	_
+20	fuit	sum	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	21	cop	_	_
+21	fortior	fortis	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Fem,Masc|Number=Sing	4	conj	_	_
+
+# sent_id = 9
+# text = Mnemon autem iustitiae fama floruit
+1	Mnemon	Mnemon	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+2	autem	autem	ADV	Df	_	5	discourse	_	_
+3	iustitiae	iustitia	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+4	fama	fama	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+5	floruit	floreo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = 10
+# text = nam cum matris suae scelere amisisset uxorem tantum indulsit dolori ut eum pietas vinceret ex his duo eodem nomine morbo naturae debitum reddiderunt tertius ab Artabano praefecto ferro interemptus est
+1	nam	nam	ADV	Df	_	9	discourse	_	_
+2	cum	cum	SCONJ	G-	_	6	mark	_	_
+3	matris	mater	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+4	suae	suus	ADJ	Pt	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	3	nmod	_	_
+5	scelere	scelus	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	6	obl	_	_
+6	amisisset	amiso	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	9	advcl	_	_
+7	uxorem	uxor	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	9	obj:dir	_	_
+8	tantum	tantum	ADV	Df	_	9	advmod	_	_
+9	indulsit	indulgeo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+10	dolori	dolor	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	9	iobj	_	_
+11	ut	ut	SCONJ	G-	_	14	mark	_	_
+12	eum	is	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obj:dir	_	_
+13	pietas	pietas	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	_
+14	vinceret	vinco	VERB	V-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	23	advcl	_	SpacesAfter=\s\s
+15	ex	ex	ADP	R-	_	16	case	_	_
+16	his	hic	ADJ	Pd	Case=Abl|Gender=Masc|Number=Plur	17	nmod	_	_
+17	duo	duo	NUM	Ma	Case=Nom|Gender=Masc|Number=Plur	23	nsubj	_	_
+18	eodem	idem	DET	Pd	Case=Abl|Gender=Masc,Neut|Number=Sing	19	det	_	_
+19	nomine	nomen	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	23	obl	_	_
+20	morbo	morbus	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	23	iobj	_	_
+21	naturae	natura	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	_
+22	debitum	debeo	VERB	V-	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	23	advcl	_	_
+23	reddiderunt	reddo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	ccomp	_	_
+24	tertius	tertius	ADJ	Mo	Case=Nom|Gender=Masc|Number=Sing	23	nsubj	_	_
+25	ab	ab	ADP	R-	_	26	case	_	_
+26	Artabano	Artabanus	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	23	obl	_	_
+27	praefecto	praefectus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	28	obl	_	_
+28	ferro	ferro	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	23	advcl	_	_
+29	interemptus	interembo	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	9	conj	_	_
+30	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	29	aux:pass	_	SpacesAfter=\s\s
+
+# sent_id = 11
+# text = Ex Macedonum autem gente duo multo ceteros antecesserunt rerum gestarum gloria Philippus Amyntae filius et
+1	Ex	ex	ADP	R-	_	2	case	_	_
+2	Macedonum	Macedonus	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+3	autem	autem	ADV	Df	_	8	discourse	_	_
+4	gente	gens	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	8	obl	_	_
+5	duo	duo	NUM	Ma	Case=Nom|Gender=Masc|Number=Plur	4	nummod	_	_
+6	multo	multo	ADV	Df	_	7	advmod	_	_
+7	ceteros	ceterus	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	8	advmod	_	_
+8	antecesserunt	antecesso	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9	rerum	res	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	11	nmod	_	_
+10	gestarum	gestae	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	9	amod	_	_
+11	gloria	gloria	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	8	obl	_	_
+12	Philippus	Philippus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+13	Amyntae	Amyntus	DET	Pd	Case=Nom|Gender=Fem|Number=Plur	14	det	_	_
+14	filius	filius	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	12	appos	_	_
+15	et	et	CCONJ	C-	_	8	cc	_	_
+
+# sent_id = 12
+# text = Alexander
+1	Alexander	Alexander	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = 13
+# text = Magnus horum alter Babylone morbo consumptus est Philippus Aegiis a Pausania cum spectatum ludos iret iuxta theatrum occisus est unus Epirotes Pyrrhus
+1	Magnus	magnus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	advmod	_	_
+2	horum	hic	ADJ	Pd	Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
+3	alter	alter	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	nsubj:pass	_	_
+4	Babylone	Babylon	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	5	nmod	_	_
+5	morbo	morbus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	6	obl	_	_
+6	consumptus	consumo	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	15	advcl	_	_
+7	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux:pass	_	_
+8	Philippus	Philippus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	_
+9	Aegiis	Aegium	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	15	obl	_	_
+10	a	ab	ADP	R-	_	11	case	_	_
+11	Pausania	Pausania	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	15	obl	_	_
+12	cum	cum	ADP	R-	_	13	case	_	_
+13	spectatum	spectatus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	15	obl	_	_
+14	ludos	ludus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	15	obj:dir	_	_
+15	iret	eo	VERB	V-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+16	iuxta	iuxta	ADP	R-	_	17	case	_	_
+17	theatrum	theatrum	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	15	obl	_	_
+18	occisus	occido#1	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	15	conj	_	_
+19	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	aux:pass	_	SpacesAfter=\s\s
+20	unus	unus	NUM	Ma	Case=Nom|Gender=Masc|Number=Sing	21	nummod	_	_
+21	Epirotes	Epiroth	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	18	nsubj:pass	_	_
+22	Pyrrhus	Pyrrhus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	21	flat:name	_	_
+
+# sent_id = 14
+# text = qui cum populo Romano bellavit is cum Argos oppidum oppugnaret in Peloponneso lapide ictus interiit unus item Siculus Dionysius prior
+1	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	10	nsubj	_	_
+2	cum	cum	SCONJ	G-	_	5	mark	_	_
+3	populo	populus	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	5	iobj	_	_
+4	Romano	Romanus	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc,Neut|Number=Sing	3	amod	_	_
+5	bellavit	bello	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	advcl	_	_
+6	is	is	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+7	cum	cum	ADP	R-	_	8	case	_	_
+8	Argos	Argus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	10	obl	_	_
+9	oppidum	oppidum	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	10	obj:dir	_	_
+10	oppugnaret	oppugno	VERB	V-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	15	nsubj	_	_
+11	in	in	ADP	R-	_	12	case	_	_
+12	Peloponneso	Peloponnesus	PROPN	Ne	Case=Abl|Gender=Fem|Number=Sing	14	obl	_	_
+13	lapide	lapis	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	14	obl	_	_
+14	ictus	ictus	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	15	advcl	_	_
+15	interiit	intereo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+16	unus	unus	NUM	Ma	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	_
+17	item	item	ADV	Df	_	20	advmod	_	_
+18	Siculus	Siculus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	_
+19	Dionysius	Dionysius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	18	flat:name	_	_
+20	prior	prior	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Fem,Masc|Number=Plur	16	appos	_	_
+
+# sent_id = 15
+# text = nam et manu fortis et belli peritus fuit et id quod in tyranno non facile reperitur minime libidinosus non luxuriosus non avarus nullius denique rei cupidus nisi singularis perpetuique imperii ob eamque rem crudelis
+1	nam	nam	ADV	Df	_	7	discourse	_	_
+2	et	et	CCONJ	C-	_	3	cc	_	_
+3	manu	manus	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	7	obl	_	_
+4	fortis	fortis	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+5	et	et	CCONJ	C-	_	4	cc	_	_
+6	belli	bellum	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	4	conj	_	_
+7	peritus	peritus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	_
+8	fuit	sum	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	_
+9	et	et	CCONJ	C-	_	7	cc	_	_
+10	id	is	PRON	Pp	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	conj	_	_
+11	quod	qui	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	16	nsubj:pass	_	_
+12	in	in	ADP	R-	_	13	case	_	_
+13	tyranno	tyrannus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	16	obl	_	_
+14	non	non	ADV	Df	Polarity=Neg	15	advmod	_	_
+15	facile	facile	ADV	Df	Degree=Pos	16	advmod	_	_
+16	reperitur	reperio	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	10	acl	_	_
+17	minime	parum	ADV	Df	Degree=Sup	18	advmod	_	_
+18	libidinosus	libidinosus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	27	xcomp	_	_
+19	non	non	ADV	Df	Polarity=Neg	20	advmod	_	_
+20	luxuriosus	luxuriodo	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	18	conj	_	_
+21	non	non	ADV	Df	Polarity=Neg	22	advmod	_	_
+22	avarus	avarus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	18	conj	_	_
+23	nullius	nullus	DET	Px	Case=Gen|Gender=Masc|Number=Sing	25	det	_	_
+24	denique	denique	ADV	Df	_	26	advmod	_	_
+25	rei	res	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	26	iobj	_	_
+26	cupidus	cupidus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	18	conj	_	_
+27	nisi	nisi	ADV	Df	_	10	acl	_	_
+28	singularis	singularis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	30	amod	_	_
+29	perpetuique	perpetuique	ADV	Df	_	28	advmod	_	_
+30	imperii	imperium	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	27	nsubj	_	_
+31	ob	ob	ADP	R-	_	34	case	_	_
+32	eam	is	PRON	Pp	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	34	det	_	SpaceAfter=No
+33	que	que	CCONJ	C-	_	31	cc	_	_
+34	rem	res	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	35	obl	_	_
+35	crudelis	crudelis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	30	amod	_	_
+
+# sent_id = 16
+# text = nam dum id studuit munire nullius pepercit vitae quem eius insidiatorem putaret
+1	nam	nam	ADV	Df	_	7	discourse	_	_
+2	dum	dum	SCONJ	G-	_	4	mark	_	_
+3	id	is	PRON	Pp	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj:dir	_	_
+4	studuit	studeo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	advcl	_	_
+5	munire	munio	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	xcomp	_	_
+6	nullius	nullus	DET	Px	Case=Gen|Gender=Masc|Number=Sing	8	det	_	_
+7	pepercit	parco	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+8	vitae	vita	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	7	iobj	_	_
+9	quem	qui	PRON	Pr	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	12	obj:dir	_	_
+10	eius	is	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	det	_	_
+11	insidiatorem	insidiator	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	12	obj:dir	_	_
+12	putaret	puto	VERB	V-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	acl	_	SpacesAfter=\s\s
+
+# sent_id = 17
+# text = hic cum virtute tyrannidem sibi peperisset magna retinuit felicitate
+1	hic	hic	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+2	cum	cum	SCONJ	G-	_	6	mark	_	_
+3	virtute	virtus	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	6	obl	_	_
+4	tyrannidem	tyrannides	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	obj:dir	_	_
+5	sibi	se	PRON	Pk	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	iobj	_	_
+6	peperisset	pario	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	8	advcl	_	_
+7	magna	magnus	ADJ	A-	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+8	retinuit	retineo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9	felicitate	felicitas	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	8	obl	_	_
+
+# sent_id = 18
+# text = maior enim annos sexaginta natus decessit florente regno neque in tam multis annis cuiusquam ex sua stirpe funus vidit cum ex tribus uxoribus liberos procreasset multique ei nati essent nepotes Fuerunt praeterea magni reges ex amicis Alexandri Magni qui post obitum eius imperia ceperunt in eis Antigonus
+1	maior	magnus	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	6	nsubj	_	_
+2	enim	enim	ADV	Df	_	6	discourse	_	_
+3	annos	annus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	5	obl	_	_
+4	sexaginta	sexaginta	NUM	Ma	_	3	nummod	_	_
+5	natus	nascor	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	advcl	_	_
+6	decessit	decedo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	florente	florens	VERB	V-	Case=Abl|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	_
+8	regno	regnum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	7	nsubj	_	_
+9	ne	ne	ADV	Df	Polarity=Neg	20	advmod	_	SpaceAfter=No
+10	que	que	CCONJ	C-	_	7	cc	_	_
+11	in	in	ADP	R-	_	14	case	_	_
+12	tam	tam	ADV	Df	_	13	advmod	_	_
+13	multis	multus	ADJ	A-	Case=Abl|Degree=Pos|Gender=Masc|Number=Plur	14	amod	_	_
+14	annis	annus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	20	obl	_	_
+15	cuiusquam	quisquam	DET	Px	Case=Gen|Gender=Masc|Number=Sing	19	det	_	_
+16	ex	ex	ADP	R-	_	19	case	_	_
+17	sua	suus	ADJ	Pt	Case=Acc|Gender=Neut|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	19	nmod	_	_
+18	stirpe	stirpes	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	_
+19	funus	funus	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	20	obj:dir	_	_
+20	vidit	video	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	_
+21	cum	cum	SCONJ	G-	_	26	mark	_	_
+22	ex	ex	ADP	R-	_	24	case	_	_
+23	tribus	tres	NUM	Ma	Case=Abl|Gender=Masc|Number=Plur	24	nummod	_	_
+24	uxoribus	uxor	NOUN	Nb	Case=Abl|Gender=Fem|Number=Plur	26	obl	_	_
+25	liberos	liber	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	26	obj:dir	_	_
+26	procreasset	procreo	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	20	advcl	_	_
+27	multique	multique	ADV	Df	_	29	advmod	_	_
+28	ei	is	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	iobj	_	_
+29	nati	nascor	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	26	conj	_	_
+30	essent	sum	AUX	V-	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	29	aux:pass	_	_
+31	nepotes	nepossum	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	20	conj	_	SpacesAfter=\s\s
+32	Fuerunt	sum	AUX	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	31	cop	_	_
+33	praeterea	praeterea	ADV	Df	_	31	advmod	_	_
+34	magni	magnus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	35	amod	_	_
+35	reges	rex	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	_
+36	ex	ex	ADP	R-	_	37	case	_	_
+37	amicis	amicus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	35	nmod	_	_
+38	Alexandri	Alexander	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	37	nmod	_	_
+39	Magni	magnus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	6	iobj	_	_
+40	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	45	nsubj	_	_
+41	post	post	ADP	R-	_	42	case	_	_
+42	obitum	obitus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	45	obl	_	_
+43	eius	is	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	42	det	_	_
+44	imperia	imperium	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	45	obl	_	_
+45	ceperunt	capio	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	39	acl	_	_
+46	in	in	ADP	R-	_	47	case	_	_
+47	eis	is	PRON	Pp	Case=Abl|Gender=Masc|Number=Plur|Person=3|PronType=Prs	45	obl	_	_
+48	Antigonus	Antigonus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	45	nsubj	_	_
+
+# sent_id = 19
+# text = et huius filius Demetrius Lysimachus Seleucus
+1	et	et	CCONJ	C-	_	0	root	_	_
+2	huius	hic	DET	Pd	Case=Gen|Gender=Masc|Number=Sing	3	det	_	_
+3	filius	filius	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+4	Demetrius	Demetrius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nmod	_	_
+5	Lysimachus	Lysimachus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	appos	_	_
+6	Seleucus	Seleucus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	_
+
+# sent_id = 20
+# text = Ptolemaeus ex his Antigonus in proelio cum adversus Seleucum et Lysimachum dimicaret occisus est pari leto affectus est Lysimachus ab Seleuco
+1	Ptolemaeus	Ptolemaeus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	17	nsubj:pass	_	SpacesAfter=\s\s
+2	ex	ex	ADP	R-	_	3	case	_	_
+3	his	hic	ADJ	Pd	Case=Abl|Gender=Masc|Number=Plur	4	nmod	_	_
+4	Antigonus	Antigonus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+5	in	in	ADP	R-	_	6	case	_	_
+6	proelio	proelium	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	13	obl	_	_
+7	cum	cum	SCONJ	G-	_	12	mark	_	_
+8	adversus	adversus	ADP	R-	_	9	case	_	_
+9	Seleucum	Seleucus	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	12	obl	_	_
+10	et	et	CCONJ	C-	_	9	cc	_	_
+11	Lysimachum	Lysimachus	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	9	conj	_	_
+12	dimicaret	dimico	VERB	V-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	advcl	_	_
+13	occisus	occido#1	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	17	advcl	_	_
+14	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	aux:pass	_	_
+15	pari	par	ADJ	A-	Case=Abl|Degree=Pos|Number=Sing	16	amod	_	_
+16	leto	letum	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	17	obl	_	_
+17	affectus	afficio	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+18	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	aux:pass	_	_
+19	Lysimachus	Lysimachus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	17	nsubj:pass	_	_
+20	ab	ab	ADP	R-	_	21	case	_	_
+21	Seleuco	Seleucus	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	17	obl	_	_
+
+# sent_id = 21
+# text = namque societate dissoluta bellum inter se gesserunt
+1	namque	namque	ADV	Df	_	3	advmod	_	_
+2	societate	societas	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	3	nsubj:pass	_	_
+3	dissoluta	dissolvo	VERB	V-	Aspect=Perf|Case=Abl|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	7	advcl	_	_
+4	bellum	bellum	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	7	obj:dir	_	_
+5	inter	inter	ADP	R-	_	6	case	_	_
+6	se	se	PRON	Pk	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	7	obl	_	_
+7	gesserunt	gero	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\s\s
+
+# sent_id = 22
+# text = at Demetrius cum filiam suam Seleuco in matrimonium dedisset neque eo magis fida inter eos amicitia manere potuisset captus bello in custodia socer generi periit a morbo neque ita multo post Seleucus a Ptolemaeo Cerauno dolo interfectus est quem ille a patre expulsum
+1	at	at	ADV	Df	_	9	discourse	_	_
+2	Demetrius	Demetrius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+3	cum	cum	ADP	R-	_	4	case	_	_
+4	filiam	filia	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	9	obl	_	_
+5	suam	suus	ADJ	Pt	Case=Acc|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	4	nmod	_	_
+6	Seleuco	Seleucus	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	9	iobj	_	_
+7	in	in	ADP	R-	_	8	case	_	_
+8	matrimonium	matrimonium	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	9	obl	_	_
+9	dedisset	do	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	0	root	_	_
+10	ne	ne	ADV	Df	Polarity=Neg	13	advmod	_	SpaceAfter=No
+11	que	que	CCONJ	C-	_	9	cc	_	_
+12	eo	eo#2	ADV	Df	_	19	advmod	_	_
+13	magis	magis	ADV	Df	Degree=Cmp	19	advmod	_	_
+14	fida	fida	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	19	nsubj	_	_
+15	inter	inter	ADP	R-	_	16	case	_	_
+16	eos	is	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	18	obl	_	_
+17	amicitia	amicitia	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	18	iobj	_	_
+18	manere	maneo	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	19	xcomp	_	_
+19	potuisset	possum	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	9	conj	_	_
+20	captus	capio	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	19	conj	_	_
+21	bello	bellum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	20	obl	_	_
+22	in	in	ADP	R-	_	23	case	_	_
+23	custodia	custodia	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	20	obl	_	_
+24	socer	socer	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	26	nsubj	_	_
+25	generi	genus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	24	nmod	_	_
+26	periit	pereo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	19	conj	_	_
+27	a	ab	ADP	R-	_	28	case	_	_
+28	morbo	morbus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	39	obl:agent	_	SpacesAfter=\s\s
+29	ne	ne	ADV	Df	Polarity=Neg	31	advmod	_	SpaceAfter=No
+30	que	que	CCONJ	C-	_	28	cc	_	_
+31	ita	ita	ADV	Df	_	39	advmod	_	_
+32	multo	multo	ADV	Df	_	33	advmod	_	_
+33	post	post	ADP	R-	_	39	advmod	_	_
+34	Seleucus	Seleucus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	39	nsubj:pass	_	_
+35	a	ab	ADP	R-	_	36	case	_	_
+36	Ptolemaeo	Ptolemaeus	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	39	obl:agent	_	_
+37	Cerauno	Ceraunus	NUM	Ma	Case=Abl|Gender=Masc,Neut|Number=Sing	38	nummod	_	_
+38	dolo	dolus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	39	obl	_	_
+39	interfectus	interficio	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	19	conj	_	_
+40	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	39	aux:pass	_	_
+41	quem	qui	PRON	Pr	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	45	nsubj:pass	_	_
+42	ille	ille	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	33	appos	_	_
+43	a	ab	ADP	R-	_	44	case	_	_
+44	patre	pater	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	45	obl:agent	_	_
+45	expulsum	expulsus	VERB	V-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	42	acl	_	_
+
+# sent_id = 23
+# text = Alexandrea alienarum opum indigentem receperat
+1	Alexandrea	Alexandrea	PROPN	Ne	Case=Abl|Gender=Fem|Number=Sing	5	iobj	_	_
+2	alienarum	alienus	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	3	amod	_	_
+3	opum	opus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obj:dir	_	_
+4	indigentem	indigeo	VERB	V-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	advcl	_	_
+5	receperat	recipio	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = 24
+# text = ipse autem Ptolemaeus cum vivus filio regnum tradidisset ab illo eodem vita privatus dicitur
+1	ipse	ipse	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	3	det	_	_
+2	autem	autem	ADV	Df	_	14	discourse	_	_
+3	Ptolemaeus	Ptolemaeus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	14	nsubj:pass	_	_
+4	cum	cum	SCONJ	G-	_	8	mark	_	_
+5	vivus	vivus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+6	filio	filius	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	5	iobj	_	_
+7	regnum	regnum	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_
+8	tradidisset	trado	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	14	advcl	_	_
+9	ab	ab	ADP	R-	_	10	case	_	_
+10	illo	ille	ADJ	Pd	Case=Abl|Gender=Masc|Number=Sing	13	obl:agent	_	_
+11	eodem	idem	DET	Pd	Case=Abl|Gender=Masc,Neut|Number=Sing	12	det	_	_
+12	vita	vita	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	13	obl	_	_
+13	privatus	privatus	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	14	advcl	_	_
+14	dicitur	dico	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpacesAfter=\s\s\s
+
+# sent_id = 25
+# text = De quibus quoniam satis dictum putamus
+1	De	de	ADP	R-	_	2	case	_	_
+2	quibus	qui	PRON	Pr	Case=Abl|Gender=Masc|Number=Plur|PronType=Rel	6	obl	_	_
+3	quoniam	quoniam	SCONJ	G-	_	6	mark	_	_
+4	satis	satis	ADV	Df	Degree=Pos	5	advmod	_	_
+5	dictum	dico	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	xcomp	_	_
+6	putamus	puto	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = 26
+# text = non incommodum videtur non praeterire Hamilcarem et Hannibalem quos et animi magnitudine et calliditate omnes in Africa natos praestitisse constat
+1	non	non	ADV	Df	Polarity=Neg	3	advmod	_	_
+2	incommodum	incommodum	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj:pass	_	_
+3	videtur	video	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	20	nsubj	_	_
+4	non	non	ADV	Df	Polarity=Neg	5	advmod	_	_
+5	praeterire	praetereo	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	_
+6	Hamilcarem	Hamilcar	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	19	obj:dir	_	_
+7	et	et	CCONJ	C-	_	6	cc	_	_
+8	Hannibalem	Hannibalis	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	6	conj	_	_
+9	quos	qui	PRON	Pr	Case=Acc|Gender=Masc|Number=Plur|PronType=Rel	18	nsubj:pass	_	_
+10	et	et	CCONJ	C-	_	12	cc	_	_
+11	animi	animus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	_
+12	magnitudine	magnitudo	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	18	obl	_	_
+13	et	et	CCONJ	C-	_	12	cc	_	_
+14	calliditate	calliditas	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	12	conj	_	_
+15	omnes	omnis	DET	Px	Case=Nom|Gender=Fem|Number=Plur	12	det	_	_
+16	in	in	ADP	R-	_	17	case	_	_
+17	Africa	Africa	PROPN	Ne	Case=Abl|Gender=Fem|Number=Sing	18	obl	_	_
+18	natos	nascor	VERB	V-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	6	acl	_	_
+19	praestitisse	praestito	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	20	xcomp	_	_
+20	constat	consto	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\s\s\s\s\n
+

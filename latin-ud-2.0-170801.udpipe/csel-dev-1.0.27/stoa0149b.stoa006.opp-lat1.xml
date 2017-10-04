@@ -1,0 +1,955 @@
+# newdoc id = /Users/mycomputer/Documents/ud-pipe/latin/02-extractTextDirectly-CSEL/stoa0149b.stoa006.opp-lat1.xml
+# newpar
+# sent_id = 1
+# text = c . LIBRI TRES ADUERSUM UALENTE ET UKSACIUM ex Collectaneis Antiarianis Parisinis et Appendice (Libro I ad Constantium) per coniecturam dispositi.
+1	c	que1	CCONJ	c--------	_	28	advmod	_	SpacesBefore=\s\s\s\s
+2	.	PERIOD1	PUNCT	u--------	_	28	punct	_	_
+3	LIBRI	liber4	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+4	TRES	tres1	NUM	m--------	_	5	nummod	_	_
+5	ADUE	Adue	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	28	nsubj	_	SpaceAfter=No
+6	RSU	Rsus2	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	10	obj	_	SpaceAfter=No
+7	M	M1	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	9	obj	_	_
+8	U	us2	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+9	ALENTE	Alens1	VERB	v-spp-mb-	Case=Abl|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	10	advcl	_	_
+10	ET	et1	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	28	advcl	_	_
+11	U	us2	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	28	advmod	_	SpaceAfter=No
+12	KSACIU	Ksacius2	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	28	advmod	_	SpaceAfter=No
+13	M	M1	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	28	advmod	_	SpacesAfter=\s\s\s
+14	ex	ex	ADP	r--------	_	17	case	_	_
+15	Collectaneis	Collectaneus1	ADJ	a-p---nb-	Case=Abl|Gender=Neut|Number=Plur	17	amod	_	_
+16	Antiarianis	Antiarianus1	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	_
+17	Parisinis	Parisen1	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	_
+18	et	et1	CCONJ	c--------	_	13	cc	_	_
+19	Appendice	Appendicus2	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	13	conj	_	_
+20	(	(	PUNCT	u--------	_	28	punct	_	SpaceAfter=No
+21	Libro	liber4	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	28	advmod	_	_
+22	I	us1	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	_
+23	ad	ad1	ADP	r--------	_	24	case	_	_
+24	Constantium	Constantium	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	28	obl	_	SpaceAfter=No
+25	)	RPAREN1	PUNCT	u--------	_	24	punct	_	_
+26	per	per1	ADP	r--------	_	27	case	_	_
+27	coniecturam	coniectura	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	28	obl	_	_
+28	dispositi	dispono1	VERB	v1sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+29	.	punc1	PUNCT	u--------	_	28	punct	_	SpacesAfter=\s\s\s\s\s\s
+
+# sent_id = 2
+# text = LIBER I (scriptus a.
+1	LIBE	Libs1	VERB	v2spma---	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	R	r1	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+3	I	us1	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	SpacesAfter=\s\s\s
+4	(scriptus	(scripio1	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	2	amod	_	_
+5	a	ab1	ADP	r--------	_	1	advmod	_	SpaceAfter=No
+6	.	punc1	PUNCT	u--------	_	1	punct	_	_
+
+# sent_id = 3
+# text = 356).
+1	356	356	NUM	m--------	_	0	root	_	SpaceAfter=No
+2	)	RPAREN1	PUNCT	u--------	_	1	punct	_	SpaceAfter=No
+3	.	punc1	PUNCT	u--------	_	1	punct	_	SpacesAfter=\s\s
+
+# sent_id = 4
+# text = Praefatio = Series B I (supra p.
+1	Praefatio	Praefatio	ADV	d--------	_	3	advmod	_	_
+2	=	=	SYM	_	_	3	advmod	_	_
+3	Series	Series1	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	0	root	_	_
+4	B	b1	ADP	r--------	_	5	case	_	_
+5	I	us1	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	3	obl	_	_
+6	(supra	(supra1	ADP	r--------	_	7	case	_	_
+7	p.	publicus	ADJ	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing	5	amod	_	_
+
+# sent_id = 5
+# text = 98&#x14;102).
+1	98&#x14;102	98&#x14;102	ADV	d--------	_	2	advmod	_	SpaceAfter=No
+2	)	RPAREN1	PUNCT	u--------	_	0	root	_	SpaceAfter=No
+3	.	punc1	PUNCT	u--------	_	2	punct	_	SpacesAfter=\s\s
+
+# sent_id = 6
+# text = De synodo Arelatensi et de exsilio Paulini episcopi Treuirensis (deest, cf.
+1	De	de	ADP	r--------	_	2	case	_	_
+2	synodo	synodo1	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	10	obl	_	_
+3	Arelatensi	Arelatensum1	ADJ	a-s---fbp	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+4	et	et1	CCONJ	c--------	_	10	advmod	_	_
+5	de	de1	ADP	r--------	_	6	case	_	_
+6	exsilio	exsilium1	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	10	obl	_	_
+7	Paulini	Paulinus1	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+8	episcopi	episcopio1	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+9	Treuirensis	Treuirenses1	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	10	obj	_	_
+10	(deest	(desum1	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+11	,	comma1	PUNCT	u--------	_	10	punct	_	_
+12	cf.	cfpunc1	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	10	obj	_	_
+
+# sent_id = 7
+# text = Studien 1 83).
+1	Studien	Studien1	ADV	d--------	_	2	advmod	_	_
+2	1	1	NUM	m--------	_	0	root	_	_
+3	83	83	NUM	m--------	_	2	nummod	_	SpaceAfter=No
+4	)	RPAREN1	PUNCT	u--------	_	2	punct	_	SpaceAfter=No
+5	.	punc1	PUNCT	u--------	_	2	punct	_	_
+
+# sent_id = 8
+# text = &#x17;&#x17;&#x17; &#x17;&#x17; &#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; Epistula synodi Sardicensis Orientalium cum symbolo et nominibus episcoporum, qui subscripserunt (c.
+1	&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;	SYM	_	_	6	advmod	_	_
+2	&#x17;&#x17;	&#x17;&#x17;	SYM	_	_	6	advmod	_	_
+3	&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;	SYM	_	_	6	advmod	_	_
+4	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	6	advmod	_	SpacesAfter=\s\s
+5	Epistula	Epistulum	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	6	amod	_	_
+6	synodi	synodio	VERB	v--pnp---	Tense=Pres|VerbForm=Inf|Voice=Pass	0	root	_	_
+7	Sardicensis	Sardicenses1	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	6	nsubj	_	_
+8	Orientalium	Orientalium1	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	6	obj	_	_
+9	cum	cum1	ADP	r--------	_	10	case	_	_
+10	symbolo	symbolus	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	6	obl	_	_
+11	et	et1	CCONJ	c--------	_	10	cc	_	_
+12	nominibus	nomen1	NOUN	n-p---nb-	Case=Abl|Gender=Neut|Number=Plur	10	conj	_	_
+13	episcoporum	episcopum1	NOUN	n-p---ng-	Case=Gen|Gender=Neut|Number=Plur	12	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	u--------	_	16	punct	_	_
+15	qui	qui1	PRON	p-p---mn-	Case=Nom|Gender=Masc|Number=Plur	16	nsubj	_	_
+16	subscripserunt	subscripsero1	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl	_	_
+17	(c	(c1	ADV	d--------	_	16	advmod	_	SpaceAfter=No
+18	.	punc1	PUNCT	u--------	_	6	punct	_	_
+
+# sent_id = 9
+# text = 9 est decurtatum;
+1	9	9	NUM	m--------	_	2	nummod	_	_
+2	est	sum1	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
+3	decurtatum	decurto	VERB	v-srppma-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+4	;	punc1	PUNCT	u--------	_	3	punct	_	_
+
+# sent_id = 10
+# text = deest narratio de Paulo episcopo Constantinopolitano, d.
+1	deest	desum1	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	narratio	narratio	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	_
+3	de	de1	ADP	r--------	_	4	case	_	_
+4	Paulo	paulum1	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	6	nmod	_	_
+5	episcopo	episcopus	ADJ	a-s---mb-	Case=Abl|Gender=Masc|Number=Sing	4	amod	_	_
+6	Constantinopolitano	Constantinopolitanus	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	1	advmod	_	SpaceAfter=No
+7	,	comma1	PUNCT	u--------	_	1	punct	_	_
+8	d	d1	ADP	r--------	_	9	case	_	SpaceAfter=No
+9	.	punc1	PUNCT	u--------	_	1	punct	_	_
+
+# sent_id = 11
+# text = Studien I 184) &#x14; Ser.
+1	Studien	Studien1	ADV	d--------	_	2	advmod	_	_
+2	I	eo1	VERB	v2spma---	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	184	184	NUM	m--------	_	2	advmod	_	SpaceAfter=No
+4	)	RPAREN1	PUNCT	u--------	_	2	punct	_	_
+5	&#x14;	&#x14;	PUNCT	u--------	_	2	punct	_	_
+6	Ser	Ser	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	SpaceAfter=No
+7	.	punc1	PUNCT	u--------	_	2	punct	_	_
+
+# sent_id = 12
+# text = A IV (supra p. 48-78).
+1	A	ab	ADP	r--------	_	2	case	_	_
+2	IV	IV	NUM	m-----mg-	Case=Gen|Gender=Masc	0	root	_	_
+3	(supra	(suprum1	ADP	r--------	_	4	case	_	_
+4	p.	publicus	ADJ	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing	2	amod	_	_
+5	48-78	48-78	ADV	d--------	_	4	advmod	_	SpaceAfter=No
+6	)	RPAREN1	PUNCT	u--------	_	2	punct	_	SpaceAfter=No
+7	.	punc1	PUNCT	u--------	_	2	punct	_	_
+
+# sent_id = 13
+# text = &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17; Uaria ex actis synodi Sardicensis Occidentalium, duae epistulae Ualentis et Ursacii, symbolum Nicaenum una cum textu narratiuo (n.
+1	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	8	advmod	_	_
+2	&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	8	advmod	_	_
+3	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	8	advmod	_	_
+4	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	8	advmod	_	SpacesAfter=\s\s
+5	Uaria	Uarium	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	8	nsubj	_	_
+6	ex	ex1	ADP	r--------	_	7	case	_	_
+7	actis	actus	ADJ	a-p---mb-	Case=Abl|Gender=Masc|Number=Plur	8	obl	_	_
+8	synodi	synodio	VERB	v--pnp---	Tense=Pres|VerbForm=Inf|Voice=Pass	0	root	_	_
+9	Sardicensis	Sardicenses1	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	8	obj	_	_
+10	Occidentalium	Occidentalium1	ADJ	a-p---mg-	Case=Gen|Gender=Masc|Number=Plur	9	amod	_	SpaceAfter=No
+11	,	,	PUNCT	u--------	_	8	punct	_	_
+12	duae	duus1	ADJ	a-s---fg-	Case=Gen|Gender=Fem|Number=Sing	13	amod	_	_
+13	epistulae	epistula	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
+14	Ualentis	Ualentum1	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+15	et	et1	CCONJ	c--------	_	14	cc	_	_
+16	Ursacii	Ursacium	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	14	conj	_	SpaceAfter=No
+17	,	,	PUNCT	u--------	_	8	punct	_	_
+18	symbolum	symbolus1	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	24	nmod	_	_
+19	Nicaenum	Nicaenus1	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	18	nmod	_	_
+20	una	unus	NUM	m-s---fn-	Case=Nom|Gender=Fem|Number=Sing	24	nummod	_	_
+21	cum	cum1	ADP	r--------	_	22	case	_	_
+22	textu	textus2	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	24	obl	_	_
+23	narratiuo	narrativus	ADJ	a-s---mb-	Case=Abl|Gender=Masc|Number=Sing	22	amod	_	_
+24	(n	(n1	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	8	conj	_	SpaceAfter=No
+25	.	punc1	PUNCT	u--------	_	8	punct	_	_
+
+# sent_id = 14
+# text = 9 c. 1 est decurtatum;
+1	9	9	NUM	m--------	_	4	nummod	_	_
+2	c	que1	CCONJ	c--------	_	1	advmod	_	SpaceAfter=No
+3	.	PERIOD1	PUNCT	u--------	_	1	punct	_	_
+4	1	1	NUM	m--------	_	5	nummod	_	_
+5	est	sum1	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	_
+6	decurtatum	decurto	VERB	v-srppma-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+7	;	punc1	PUNCT	u--------	_	6	punct	_	_
+
+# sent_id = 15
+# text = uidetur enim deesse symbolum Sirmiense atque initium refutationis, cf. supra p. 146.
+1	uidetur	uido1	VERB	v3sfip---	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	enim	enim	SCONJ	c--------	_	1	advmod	_	_
+3	deesse	desum1	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	1	xcomp	_	_
+4	symbolum	symbolus1	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
+5	Sirmiense	Sirmiense	ADV	d--------	_	1	advmod	_	_
+6	atque	atque1	CCONJ	c--------	_	5	cc	_	_
+7	initium	initium1	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	5	conj	_	_
+8	refutationis	refutatio	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	u--------	_	1	punct	_	_
+10	cf	cf	ADV	d--------	_	1	advmod	_	SpaceAfter=No
+11	.	punc1	PUNCT	u--------	_	1	punct	_	_
+12	supra	supra1	ADP	r--------	_	13	case	_	_
+13	p.	puintus	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	1	obl	_	_
+14	146	146	NUM	m--------	_	13	nummod	_	SpaceAfter=No
+15	.	punc1	PUNCT	u--------	_	1	punct	_	_
+
+# sent_id = 16
+# text = praeterea excidit ante primam epistulam synodi certe textus Hilarii, quo dispositionem textus narratiui insequentis indicabat, cf.
+1	praeterea	praeterea1	ADV	d--------	_	2	advmod	_	_
+2	excidit	excido1	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ante	ante1	ADP	r--------	_	5	case	_	_
+4	primam	primus1	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	5	amod	_	_
+5	epistulam	epistula	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	_
+6	synodi	synodus1	VERB	v--pnp---	Tense=Pres|VerbForm=Inf|Voice=Pass	8	xcomp	_	_
+7	certe	certus1	ADV	d--------	_	8	advmod	_	_
+8	textus	tesceo1	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	2	obj	_	_
+9	Hilarii	Hilarium1	ADJ	a-s---md-	Case=Dat|Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No
+10	,	,	PUNCT	u--------	_	11	punct	_	_
+11	quo	qui1	SCONJ	c--------	_	16	mark	_	_
+12	dispositionem	dispositio	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	16	obj	_	_
+13	textus	tesceo1	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	16	obj	_	_
+14	narratiui	narratiui1	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	15	obj	_	_
+15	insequentis	insequeo	VERB	v-ppp-ma-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part	13	amod	_	_
+16	indicabat	indico2	VERB	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	SpaceAfter=No
+17	,	comma1	PUNCT	u--------	_	16	punct	_	_
+18	cf	cf	ADV	d--------	_	2	advmod	_	SpaceAfter=No
+19	.	punc1	PUNCT	u--------	_	2	punct	_	_
+
+# sent_id = 17
+# text = Studien I 97) = Ser.
+1	Studien	Studien1	ADV	d--------	_	2	advmod	_	_
+2	I	eo1	VERB	v2spma---	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	97	97	NUM	m--------	_	2	advmod	_	SpaceAfter=No
+4	)	RPAREN1	PUNCT	u--------	_	2	punct	_	_
+5	=	=	SYM	_	_	2	punct	_	_
+6	Ser	Ser	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	SpaceAfter=No
+7	.	punc1	PUNCT	u--------	_	2	punct	_	_
+
+# sent_id = 18
+# text = B 11 (supra p. 103-154).
+1	B	b1	ADV	d--------	_	2	advmod	_	_
+2	11	11	NUM	m--------	_	0	root	_	_
+3	(supra	(suprum1	ADP	r--------	_	4	case	_	_
+4	p.	publicus	ADJ	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing	2	amod	_	_
+5	103-154	103-154	ADV	d--------	_	2	advmod	_	SpaceAfter=No
+6	)	RPAREN1	PUNCT	u--------	_	2	punct	_	SpaceAfter=No
+7	.	punc1	PUNCT	u--------	_	2	punct	_	SpacesAfter=\s\s
+
+# sent_id = 19
+# text = Oratio synodi Sardicensis Occidentalium ad Constantium imperatorem una cum textu narratiuo = Liber, qui uulgo dicitur I ad Constantium imperatorem, 1-7 (supra p.
+1	Oratio	oratio1	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	18	nsubj	_	_
+2	synodi	synodio	ADJ	a-p---mn-	Case=Nom|Gender=Masc|Number=Plur	1	amod	_	_
+3	Sardicensis	Sardicenses1	VERB	v2spsa---	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	18	advcl	_	_
+4	Occidentalium	Occidentalium1	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
+5	ad	ad1	ADP	r--------	_	6	case	_	_
+6	Constantium	Constantium	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	18	obl	_	_
+7	imperatorem	imperator	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	6	nmod	_	_
+8	una	unus	NUM	m-s---fb-	Case=Abl|Gender=Fem|Number=Sing	9	nummod	_	_
+9	cum	cum1	ADP	r--------	_	10	case	_	_
+10	textu	textus2	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	18	obl	_	_
+11	narratiuo	narrativus	ADJ	a-s---mb-	Case=Abl|Gender=Masc|Number=Sing	10	amod	_	_
+12	=	=	SYM	_	_	18	advmod	_	_
+13	Liber	liber1	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	SpaceAfter=No
+14	,	,	PUNCT	u--------	_	17	punct	_	_
+15	qui	qui1	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	17	nsubj	_	_
+16	uulgo	uulgus	ADV	d--------	_	17	advmod	_	_
+17	dicitur	dico2	VERB	v3spip---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	13	acl	_	_
+18	I	us1	VERB	v2spma---	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+19	ad	ad	ADP	r--------	_	20	case	_	_
+20	Constantium	Constantium	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	18	obl	_	_
+21	imperatorem	imperator	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	20	nmod	_	SpaceAfter=No
+22	,	,	PUNCT	u--------	_	18	punct	_	_
+23	1-7	1-7	ADV	d--------	_	24	advmod	_	_
+24	(supra	(supra1	ADP	r--------	_	25	case	_	_
+25	p.	publicus	ADJ	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing	18	obl	_	_
+
+# sent_id = 20
+# text = 181-186).
+1	181-186	181-186	ADV	d--------	_	2	advmod	_	SpaceAfter=No
+2	)	RPAREN1	PUNCT	u--------	_	0	root	_	SpaceAfter=No
+3	.	punc1	PUNCT	u--------	_	2	punct	_	SpacesAfter=\s\s
+
+# sent_id = 21
+# text = I)e synodo Mediolanensi:
+1	I)e	I)e	ADV	d--------	_	2	advmod	_	_
+2	synodo	synodo1	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	Mediolanensi	Mediolanensum1	VERB	v-prppmn-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	2	xcomp	_	SpaceAfter=No
+4	:	punc1	PUNCT	u--------	_	2	punct	_	_
+
+# sent_id = 22
+# text = textus narratiuus (decurtatus in fine, cf. Studien I 149) = Liber, qui uulgo dicitur 1 ad Constantium, 8 (supra p. 186 sq.
+1	textus	tesceo1	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	3	obj	_	_
+2	narratiuus	narratiuus	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	1	amod	_	_
+3	(decurtatus	(decurto	VERB	v-srppmn-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	18	advcl	_	_
+4	in	in1	ADP	r--------	_	5	case	_	_
+5	fine	fen	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
+6	,	,	PUNCT	u--------	_	3	punct	_	_
+7	cf	cf	ADV	d--------	_	3	advmod	_	SpaceAfter=No
+8	.	PERIOD1	PUNCT	u--------	_	3	punct	_	_
+9	Studien	Studien1	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	_
+10	I	us1	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+11	149	149	NUM	m--------	_	3	advmod	_	SpaceAfter=No
+12	)	)	PUNCT	u--------	_	3	punct	_	_
+13	=	=	SYM	_	_	18	advmod	_	_
+14	Liber	liber1	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	SpaceAfter=No
+15	,	,	PUNCT	u--------	_	18	punct	_	_
+16	qui	qui1	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	_
+17	uulgo	uulgo1	ADV	d--------	_	18	advmod	_	_
+18	dicitur	dico2	VERB	v3spip---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+19	1	1	NUM	m--------	_	21	nummod	_	_
+20	ad	ad1	ADP	r--------	_	21	case	_	_
+21	Constantium	Constantium	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	18	obl	_	SpaceAfter=No
+22	,	comma1	PUNCT	u--------	_	18	punct	_	_
+23	8	8	NUM	m--------	_	24	nummod	_	_
+24	(supra	(supra1	ADP	r--------	_	26	case	_	_
+25	p.	publicus	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	26	amod	_	_
+26	186	186	NUM	m--------	_	18	conj	_	_
+27	sq	sq	ADV	d--------	_	26	advmod	_	SpaceAfter=No
+28	.	punc1	PUNCT	u--------	_	18	punct	_	SpaceAfter=No
+
+# sent_id = 23
+# text = ).
+1	)	RPAREN1	PUNCT	u--------	_	0	root	_	SpaceAfter=No
+2	.	punc1	PUNCT	u--------	_	1	punct	_	_
+
+# sent_id = 24
+# text = &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; \'
+1	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	4	punct	_	_
+2	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	4	punct	_	_
+3	&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;	SYM	_	_	4	punct	_	_
+4	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	0	root	_	_
+5	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	7	advmod	_	_
+6	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	7	advmod	_	SpacesAfter=\s\s\s\s
+7	\	\	PUNCT	u--------	_	4	punct	_	SpaceAfter=No
+8	'	QUOTE1	PUNCT	u--------	_	7	punct	_	SpaceAfter=No
+
+# sent_id = 25
+# text = LIBER II (scriptus hieme 359/360).
+1	LIBE	Libs1	VERB	v2spma---	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	R	r1	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+3	II	is1	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	SpacesAfter=\s\s\s
+4	(scriptus	(scripio1	VERB	v-srppmn-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	advcl	_	_
+5	hieme	hiems	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	4	advmod	_	_
+6	359	359	NUM	m--------	_	5	nummod	_	SpaceAfter=No
+7	/360	/360	ADV	d--------	_	6	advmod	_	SpaceAfter=No
+8	)	RPAREN1	PUNCT	u--------	_	4	punct	_	SpaceAfter=No
+9	.	punc1	PUNCT	u--------	_	1	punct	_	_
+
+# sent_id = 26
+# text = &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; De Liberio episcopo Romano:
+1	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	3	case	_	SpacesAfter=\s\s
+2	De	de1	ADP	r--------	_	3	case	_	_
+3	Liberio	Liberium1	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	0	root	_	_
+4	episcopo	episcopo1	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	3	advmod	_	_
+5	Romano	Romanus	ADJ	a-s---mb-	Case=Abl|Gender=Masc|Number=Sing	4	amod	_	SpaceAfter=No
+6	:	punc1	PUNCT	u--------	_	3	punct	_	_
+
+# sent_id = 27
+# text = Epistula dubia Liberio ad Orientales episcopos Studens paci una cum textu narratiuo (deest textus narratiuus epistulae praemissus, cf.
+1	Epistula	Epistulum	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	17	obj	_	_
+2	dubia	dubius1	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	3	amod	_	_
+3	Liberio	Liberium1	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	17	obj	_	_
+4	ad	ad	ADP	r--------	_	5	case	_	_
+5	Orientales	Orientalis	ADJ	a-p---map	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	17	obl	_	_
+6	episcopos	episcopos1	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	17	nsubj	_	_
+7	Studens	Studens1	VERB	v-spp-mn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	17	advcl	_	_
+8	paci	pax1	ADJ	a-s---mg-	Case=Gen|Gender=Masc|Number=Sing	9	amod	_	_
+9	una	unus	NUM	m-s---fn-	Case=Nom|Gender=Fem|Number=Sing	17	nsubj	_	_
+10	cum	cum1	ADP	r--------	_	11	case	_	_
+11	textu	textus2	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	17	obl	_	_
+12	narratiuo	narrativus	ADJ	a-s---mb-	Case=Abl|Gender=Masc|Number=Sing	11	amod	_	_
+13	(deest	(desum1	ADP	r--------	_	14	case	_	_
+14	textus	tesceo1	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	17	obl	_	_
+15	narratiuus	narratiuus1	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	16	amod	_	_
+16	epistulae	epistula	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	17	nsubj	_	_
+17	praemissus	praemitto	VERB	v-srppmn-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+18	,	comma1	PUNCT	u--------	_	17	punct	_	_
+19	cf	cf	ADV	d--------	_	17	advmod	_	SpaceAfter=No
+20	.	punc1	PUNCT	u--------	_	17	punct	_	_
+
+# sent_id = 28
+# text = Studien I 167) = Series B III (supra p. 155 sq.
+1	Studien	Studien1	ADV	d--------	_	2	advmod	_	_
+2	I	us1	VERB	v2spma---	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	167	167	NUM	m--------	_	2	advmod	_	SpaceAfter=No
+4	)	)	PUNCT	u--------	_	2	punct	_	_
+5	=	=	SYM	_	_	6	case	_	_
+6	Series	Series1	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	2	nsubj	_	_
+7	B	b1	ADP	r--------	_	8	case	_	_
+8	III	III	NUM	m-----fa-	Case=Acc|Gender=Fem	6	nmod	_	_
+9	(supra	(supra1	ADP	r--------	_	11	case	_	_
+10	p.	publicus	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	11	amod	_	_
+11	155	155	NUM	m--------	_	8	nummod	_	_
+12	sq	sq	ADV	d--------	_	11	advmod	_	SpaceAfter=No
+13	.	punc1	PUNCT	u--------	_	6	punct	_	SpaceAfter=No
+
+# sent_id = 29
+# text = ).
+1	)	RPAREN1	PUNCT	u--------	_	0	root	_	SpaceAfter=No
+2	.	punc1	PUNCT	u--------	_	1	punct	_	SpacesAfter=\s\s\s
+
+# sent_id = 30
+# text = Epistula Liberii ad Constantium imperatorem Obsecro = Ser.
+1	Epistula	epistula	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	5	nmod	_	_
+2	Liberii	Liberium1	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+3	ad	ad	ADP	r--------	_	4	case	_	_
+4	Constantium	Constantium	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	5	nmod	_	_
+5	imperatorem	imperatos1	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	_
+6	Obsecro	Obsecer2	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	7	iobj	_	_
+7	=	=	SYM	_	_	0	root	_	SpacesAfter=\s\s
+8	Ser	Ser	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	SpaceAfter=No
+9	.	punc1	PUNCT	u--------	_	7	punct	_	_
+
+# sent_id = 31
+# text = A VII (supra p.
+1	A	ab	ADP	r--------	_	2	case	_	_
+2	VII	VII	NUM	m-----fa-	Case=Acc|Gender=Fem	3	nmod	_	_
+3	(supra	(suprum1	ADP	r--------	_	4	case	_	_
+4	p.	publicus	ADJ	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = 32
+# text = 89-93).
+1	89-93	89-93	ADV	d--------	_	2	advmod	_	SpaceAfter=No
+2	)	RPAREN1	PUNCT	u--------	_	0	root	_	SpaceAfter=No
+3	.	punc1	PUNCT	u--------	_	2	punct	_	_
+
+# sent_id = 33
+# text = &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17; Epistulae Liberii Quamuis sub, Nolo te rex parte), Inter haec (ex parte) et epistulae dubiae Pro deifico, Quia scio, Non doceo una cum textu narratiuo = Ser.
+1	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	11	advmod	_	_
+2	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	11	advmod	_	_
+3	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	11	advmod	_	_
+4	&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;	SYM	_	_	11	advmod	_	_
+5	&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;	SYM	_	_	11	advmod	_	SpacesAfter=\s\s
+6	Epistulae	epistula	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+7	Liberii	Liberium1	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+8	Quamuis	quamvis	ADJ	a-p---nb-	Case=Abl|Gender=Neut|Number=Plur	7	amod	_	_
+9	sub	sub	ADP	r--------	_	10	case	_	SpaceAfter=No
+10	,	comma1	PUNCT	u--------	_	11	punct	_	_
+11	Nolo	nolum1	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+12	te	tu1	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	15	obj	_	_
+13	rex	rex1	ADP	r--------	_	14	case	_	_
+14	parte	pars1	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	15	obl	_	SpaceAfter=No
+15	)	RPAREN1	PUNCT	u--------	_	11	punct	_	SpaceAfter=No
+16	,	comma1	PUNCT	u--------	_	11	punct	_	_
+17	Inter	inter1	ADP	r--------	_	18	case	_	_
+18	haec	hic1	PRON	p-p---na-	Case=Acc|Gender=Neut|Number=Plur	11	obl	_	SpacesAfter=\s\s
+19	(ex	(ex1	ADP	r--------	_	20	case	_	_
+20	parte	pars1	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
+21	)	RPAREN1	PUNCT	u--------	_	11	punct	_	_
+22	et	et	CCONJ	c--------	_	11	cc	_	_
+23	epistulae	epistula	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	25	nmod	_	_
+24	dubiae	dubius1	ADJ	a-s---fg-	Case=Gen|Gender=Fem|Number=Sing	23	amod	_	_
+25	Pro	prum	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	26	obj	_	_
+26	deifico	deifico2	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	11	conj	_	SpaceAfter=No
+27	,	comma1	PUNCT	u--------	_	28	punct	_	_
+28	Quia	quia	SCONJ	c--------	_	29	mark	_	_
+29	scio	scio1	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	38	advcl	_	SpaceAfter=No
+30	,	comma1	PUNCT	u--------	_	29	punct	_	_
+31	Non	non1	ADV	d--------	_	38	advmod	_	_
+32	doceo	doceo	ADV	d--------	_	38	advmod	_	SpacesAfter=\s\s
+33	una	unus	NUM	m-s---fn-	Case=Nom|Gender=Fem|Number=Sing	38	nummod	_	_
+34	cum	cum1	ADP	r--------	_	35	case	_	_
+35	textu	textus2	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	38	obl	_	_
+36	narratiuo	narrativus	ADJ	a-s---mb-	Case=Abl|Gender=Masc|Number=Sing	35	amod	_	_
+37	=	=	SYM	_	_	38	case	_	_
+38	Ser	Ser	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	SpaceAfter=No
+39	.	punc1	PUNCT	u--------	_	38	punct	_	_
+
+# sent_id = 34
+# text = B VII (supra p. 164&#x14;173).
+1	B	b1	ADV	d--------	_	3	advmod	_	_
+2	VII	VII	NUM	m-----fa-	Case=Acc|Gender=Fem	3	nummod	_	_
+3	(supra	(suprum1	ADP	r--------	_	0	root	_	_
+4	p.	publicus	ADJ	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing	5	amod	_	_
+5	164&#x14;173	164&#x14;173	ADV	d--------	_	3	advmod	_	SpaceAfter=No
+6	)	RPAREN1	PUNCT	u--------	_	3	punct	_	SpaceAfter=No
+7	.	punc1	PUNCT	u--------	_	3	punct	_	_
+
+# sent_id = 35
+# text = &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; De synodi Ariminensis et Seleuciensis:
+1	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	6	case	_	_
+2	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	6	case	_	_
+3	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	6	case	_	SpacesAfter=\s\s
+4	De	de1	ADP	r--------	_	6	case	_	_
+5	synodi	synodus1	ADJ	a-p---mn-	Case=Nom|Gender=Masc|Number=Plur	6	amod	_	_
+6	Ariminensis	Ariminenses1	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	0	root	_	_
+7	et	et1	CCONJ	c--------	_	6	cc	_	_
+8	Seleuciensis	Seleucienses1	VERB	v-prppmb-	Aspect=Perf|Case=Abl|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	6	conj	_	SpaceAfter=No
+9	:	punc1	PUNCT	u--------	_	6	punct	_	SpacesAfter=\s\s
+
+# sent_id = 36
+# text = Epistula Constantii imperatoris ad episcopos synodi Ariminensis = Ser.
+1	Epistula	Epistulum	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	7	obj	_	_
+2	Constantii	Constantius	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+3	imperatoris	imperator1	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	ad	ad	ADP	r--------	_	5	case	_	_
+5	episcopos	episcopos1	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	7	obl	_	_
+6	synodi	synodio	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	Ariminensis	Ariminenses1	VERB	v-prppmb-	Aspect=Perf|Case=Abl|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	8	advcl	_	_
+8	=	=	SYM	_	_	0	root	_	_
+9	Ser	Ser	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	SpaceAfter=No
+10	.	punc1	PUNCT	u--------	_	8	punct	_	_
+
+# sent_id = 37
+# text = A VIII (supra p. 93 sq.
+1	A	ab	ADP	r--------	_	2	case	_	_
+2	VIII	VIII	NUM	m-----fa-	Case=Acc|Gender=Fem	0	root	_	_
+3	(supra	(supra1	ADP	r--------	_	4	case	_	_
+4	p.	publicus	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	5	amod	_	_
+5	93	93	NUM	m--------	_	2	nummod	_	_
+6	sq	sq	ADV	d--------	_	2	advmod	_	SpaceAfter=No
+7	.	punc1	PUNCT	u--------	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 38
+# text = ).
+1	)	RPAREN1	PUNCT	u--------	_	0	root	_	SpaceAfter=No
+2	.	punc1	PUNCT	u--------	_	1	punct	_	_
+
+# sent_id = 39
+# text = &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; Ex actis synodi Ariminensis:
+1	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	2	case	_	SpacesAfter=\s\s
+2	Ex	ex	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	actis	ago1	VERB	v-prppfb-	Aspect=Perf|Case=Abl|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	2	nmod	_	_
+4	synodi	synodio	ADJ	a-p---mn-	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
+5	Ariminensis	Ariminenses1	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	3	obj	_	SpaceAfter=No
+6	:	punc1	PUNCT	u--------	_	2	punct	_	_
+
+# sent_id = 40
+# text = Definitio episcoporum homousianorum, textus narratiuus, damnatio haereticorum = Ser.
+1	Definitio	Definitium1	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
+2	episcoporum	episcopus	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
+3	homousianorum	homousianum1	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	SpaceAfter=No
+4	,	comma1	PUNCT	u--------	_	5	punct	_	_
+5	textus	tesceo1	VERB	v-srppmn-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	advcl	_	_
+6	narratiuus	narratiuus1	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No
+7	,	comma1	PUNCT	u--------	_	6	punct	_	_
+8	damnatio	damnatius	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
+9	haereticorum	haereticum1	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	_
+10	=	=	SYM	_	_	0	root	_	_
+11	Ser	Ser	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	SpaceAfter=No
+12	.	punc1	PUNCT	u--------	_	10	punct	_	_
+
+# sent_id = 41
+# text = A IX (supra p. 95&#x14;97).
+1	A	ab	ADP	r--------	_	2	case	_	_
+2	IX	Ix	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	(supra	(supra1	ADP	r--------	_	4	case	_	_
+4	p.	publicus	ADJ	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing	2	amod	_	_
+5	95&#x14;97	95&#x14;97	ADV	d--------	_	4	advmod	_	SpaceAfter=No
+6	)	RPAREN1	PUNCT	u--------	_	2	punct	_	SpaceAfter=No
+7	.	punc1	PUNCT	u--------	_	2	punct	_	_
+
+# sent_id = 42
+# text = &#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17; &#x17;&#x17;&#x17; &#x17;&#x17;&#x17; &#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17; &#x17; x Epistula synodi Ariminensis ad Constantium imperatorem et gesta Nicaena una cum textu narratiuo (sequebatur forte symbolum Nicaena Thraciae propositum, cf. Studien I 76 sq.
+1	&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	29	advmod	_	_
+2	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	29	advmod	_	_
+3	&#x17;&#x17;	&#x17;&#x17;	SYM	_	_	29	advmod	_	_
+4	&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;	SYM	_	_	29	advmod	_	_
+5	&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;	SYM	_	_	29	advmod	_	_
+6	&#x17;	&#x17;	SYM	_	_	29	advmod	_	_
+7	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	29	advmod	_	_
+8	&#x17;	&#x17;	SYM	_	_	29	advmod	_	_
+9	&#x17;	&#x17;	SYM	_	_	29	advmod	_	_
+10	x	x1	NUM	m--------	_	11	nummod	_	SpacesAfter=\s\s
+11	Epistula	Epistulum	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	12	obj	_	_
+12	synodi	synodio	VERB	v--pnp---	Tense=Pres|VerbForm=Inf|Voice=Pass	25	xcomp	_	_
+13	Ariminensis	Ariminenses1	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	12	nsubj	_	_
+14	ad	ad	ADP	r--------	_	16	case	_	_
+15	Constantium	Constantium	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	16	nmod	_	_
+16	imperatorem	imperator	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	12	obl	_	_
+17	et	et1	CCONJ	c--------	_	12	cc	_	_
+18	gesta	gesta	ADJ	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing	19	amod	_	_
+19	Nicaena	Nicaena	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	24	advmod	_	_
+20	una	unus	NUM	m-s---fb-	Case=Abl|Gender=Fem|Number=Sing	22	nummod	_	_
+21	cum	cum1	ADP	r--------	_	22	case	_	_
+22	textu	textus2	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	24	obl	_	_
+23	narratiuo	narrativus	ADJ	a-s---mb-	Case=Abl|Gender=Masc|Number=Sing	22	amod	_	_
+24	(sequebatur	(sequebor	VERB	v3siip---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	12	conj	_	_
+25	forte	fors	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	29	nsubj	_	_
+26	symbolum	symbolus1	ADV	d--------	_	29	advmod	_	_
+27	Nicaena	Nicaenus1	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	29	advmod	_	_
+28	Thraciae	Thracia	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	27	nmod	_	_
+29	propositum	proposo	VERB	v-srppnn-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+30	,	comma1	PUNCT	u--------	_	29	punct	_	_
+31	cf	cf	ADV	d--------	_	29	advmod	_	SpaceAfter=No
+32	.	PERIOD1	PUNCT	u--------	_	29	punct	_	_
+33	Studien	Studien1	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	35	obj	_	_
+34	I	us1	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	33	nmod	_	_
+35	76	76	NUM	m--------	_	29	conj	_	_
+36	sq	sq	ADV	d--------	_	35	advmod	_	SpaceAfter=No
+37	.	punc1	PUNCT	u--------	_	29	punct	_	SpaceAfter=No
+
+# sent_id = 43
+# text = ) = Ser.
+1	)	RPAREN1	PUNCT	u--------	_	2	punct	_	_
+2	=	=	SYM	_	_	0	root	_	_
+3	Ser	Ser	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	SpaceAfter=No
+4	.	punc1	PUNCT	u--------	_	2	punct	_	_
+
+# sent_id = 44
+# text = A V supra p. 78&#x14;86).
+1	A	ab	ADP	r--------	_	2	case	_	_
+2	V	V	NUM	m-----mg-	Case=Gen|Gender=Masc	0	root	_	_
+3	supra	supra1	ADP	r--------	_	4	case	_	_
+4	p.	publicus	ADJ	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing	2	amod	_	_
+5	78&#x14;86	78&#x14;86	ADV	d--------	_	4	advmod	_	SpaceAfter=No
+6	)	RPAREN1	PUNCT	u--------	_	2	punct	_	SpaceAfter=No
+7	.	punc1	PUNCT	u--------	_	2	punct	_	_
+
+# sent_id = 45
+# text = &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17; Epistula episcoporum Arianorum, qui synodo Ariminen.
+1	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	3	case	_	_
+2	&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	3	case	_	SpacesAfter=\s\s
+3	Epistula	Epistulum	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+4	episcoporum	episcopum1	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
+5	Arianorum	Arianus	ADJ	a-p---mg-	Case=Gen|Gender=Masc|Number=Plur	4	amod	_	SpaceAfter=No
+6	,	comma1	PUNCT	u--------	_	8	punct	_	_
+7	qui	qui1	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+8	synodo	synodo1	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl	_	_
+9	Ariminen	Ariminen1	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	SpaceAfter=No
+10	.	punc1	PUNCT	u--------	_	3	punct	_	_
+
+# sent_id = 46
+# text = i inter-   erant, ad Constantium imperatorem = Ser.
+1	i	eo1	VERB	v2spma---	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	inter-	inter-	ADV	d--------	_	1	advmod	_	_
+3	 	 	SYM	_	_	1	advmod	_	_
+4	erant	sum1	VERB	v3piia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	cop	_	SpaceAfter=No
+5	,	comma1	PUNCT	u--------	_	1	punct	_	_
+6	ad	ad1	ADP	r--------	_	7	case	_	_
+7	Constantium	Constantium	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	9	obl	_	_
+8	imperatorem	imperator	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	7	nmod	_	_
+9	=	=	SYM	_	_	1	punct	_	_
+10	Ser	Ser	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	SpaceAfter=No
+11	.	punc1	PUNCT	u--------	_	9	punct	_	_
+
+# sent_id = 47
+# text = A VI (supra p. 87 sq.
+1	A	ab	ADP	r--------	_	5	case	_	_
+2	VI	sex	NUM	m--------	_	5	nummod	_	_
+3	(supra	(suprum1	ADP	r--------	_	4	case	_	_
+4	p.	publicus	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	2	amod	_	_
+5	87	87	NUM	m--------	_	0	root	_	_
+6	sq	sq	ADV	d--------	_	5	advmod	_	SpaceAfter=No
+7	.	punc1	PUNCT	u--------	_	5	punct	_	SpaceAfter=No
+
+# sent_id = 48
+# text = ).
+1	)	RPAREN1	PUNCT	u--------	_	0	root	_	SpaceAfter=No
+2	.	punc1	PUNCT	u--------	_	1	punct	_	_
+
+# sent_id = 49
+# text = &#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17; Epistula legatorum synodi Seleuciensis ad legatos synodi Ariminensis una cum textu narratiuo (ante epistulam excidit textus narratiuus, qui \'librum Ualentis et Ualentis\'
+1	&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	18	advmod	_	_
+2	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	18	advmod	_	_
+3	&#x17;	&#x17;	SYM	_	_	18	advmod	_	SpacesAfter=\s\s
+4	Epistula	Epistulum	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	18	nsubj	_	_
+5	legatorum	legatus	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	_
+6	synodi	synodio	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	Seleuciensis	Seleucienses1	VERB	v-prppmb-	Aspect=Perf|Case=Abl|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	18	advcl	_	_
+8	ad	ad1	ADP	r--------	_	9	case	_	_
+9	legatos	lego2	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	18	obl	_	_
+10	synodi	synodus1	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+11	Ariminensis	Ariminenses1	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	18	obj	_	_
+12	una	unus	NUM	m-s---fb-	Case=Abl|Gender=Fem|Number=Sing	14	nummod	_	_
+13	cum	cum1	ADP	r--------	_	14	case	_	_
+14	textu	textus2	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	18	obl	_	_
+15	narratiuo	narrativus	ADJ	a-s---mb-	Case=Abl|Gender=Masc|Number=Sing	14	amod	_	_
+16	(ante	(ante1	ADP	r--------	_	17	case	_	_
+17	epistulam	epistula	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	18	obl	_	_
+18	excidit	excido1	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+19	textus	tesceo1	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	_
+20	narratiuus	narratiuus	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	19	amod	_	SpaceAfter=No
+21	,	comma1	PUNCT	u--------	_	27	punct	_	_
+22	qui	qui1	PRON	p-p---mn-	Case=Nom|Gender=Masc|Number=Plur	27	nsubj	_	_
+23	\'librum	\'liber4	NOUN	n-p---fg-	Case=Gen|Gender=Fem|Number=Plur	24	nmod	_	_
+24	Ualentis	Ualentum1	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	27	nmod	_	_
+25	et	et1	CCONJ	c--------	_	24	cc	_	_
+26	Ualentis	Ualentum1	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	24	conj	_	SpaceAfter=No
+27	\	\	PUNCT	u--------	_	19	acl	_	SpaceAfter=No
+28	'	QUOTE1	PUNCT	u--------	_	27	punct	_	_
+
+# sent_id = 50
+# text = interpretabatur, cf. Studien Illlsq.
+1	interpretabatur	interpretabor	VERB	v3siip---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	u--------	_	1	punct	_	_
+3	cf	cf	ADV	d--------	_	1	advmod	_	SpaceAfter=No
+4	.	PERIOD1	PUNCT	u--------	_	1	punct	_	_
+5	Studien	Studien1	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	_
+6	Illlsq	Illlsq	ADV	d--------	_	1	advmod	_	SpaceAfter=No
+7	.	punc1	PUNCT	u--------	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 51
+# text = ) = Ser.
+1	)	RPAREN1	PUNCT	u--------	_	2	punct	_	_
+2	=	=	SYM	_	_	0	root	_	_
+3	Ser	Ser	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	SpaceAfter=No
+4	.	punc1	PUNCT	u--------	_	2	punct	_	_
+
+# sent_id = 52
+# text = B VIII (supra p. 174&#x14;177).
+1	B	b1	ADV	d--------	_	2	advmod	_	_
+2	VIII	VIII	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
+3	(supra	(supra1	ADP	r--------	_	4	case	_	_
+4	p.	publicus	ADJ	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing	2	amod	_	_
+5	174&#x14;177	174&#x14;177	ADV	d--------	_	4	advmod	_	SpaceAfter=No
+6	)	RPAREN1	PUNCT	u--------	_	2	punct	_	SpaceAfter=No
+7	.	punc1	PUNCT	u--------	_	2	punct	_	_
+
+# sent_id = 53
+# text = x &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; LIBER III .(scriptus a.
+1	x	x1	NUM	m--------	_	2	nummod	_	_
+2	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	6	advmod	_	_
+3	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	6	advmod	_	_
+4	&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	6	advmod	_	_
+5	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	6	advmod	_	SpacesAfter=\s\s\s\s
+6	LIBE	Libs1	VERB	v2spma---	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+7	R	r1	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+8	III	III	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	SpacesAfter=\s\s\s
+9	.(scriptus	.(scripio1	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	7	amod	_	_
+10	a	ab1	ADP	r--------	_	11	case	_	SpaceAfter=No
+11	.	punc1	PUNCT	u--------	_	6	punct	_	_
+
+# sent_id = 54
+# text = 367).
+1	367	367	NUM	m--------	_	0	root	_	SpaceAfter=No
+2	)	RPAREN1	PUNCT	u--------	_	1	punct	_	SpaceAfter=No
+3	.	punc1	PUNCT	u--------	_	1	punct	_	_
+
+# sent_id = 55
+# text = x &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; Epistula synodi Parisiensis ad episcopos Orientales = Ser.
+1	x	x1	NUM	m--------	_	2	nummod	_	_
+2	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	10	advmod	_	_
+3	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	10	advmod	_	_
+4	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	10	advmod	_	_
+5	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	10	advmod	_	_
+6	&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	10	advmod	_	_
+7	&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;	SYM	_	_	10	advmod	_	_
+8	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	10	advmod	_	SpacesAfter=\s\s
+9	Epistula	Epistulum	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	10	amod	_	_
+10	synodi	synodio	VERB	v--pnp---	Tense=Pres|VerbForm=Inf|Voice=Pass	0	root	_	_
+11	Parisiensis	Parisienses1	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	10	obj	_	_
+12	ad	ad1	ADP	r--------	_	13	case	_	_
+13	episcopos	episcopi	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	10	obl	_	_
+14	Orientales	Orientalis1	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	_
+15	=	=	SYM	_	_	16	case	_	_
+16	Ser	Ser	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	SpaceAfter=No
+17	.	punc1	PUNCT	u--------	_	16	punct	_	_
+
+# sent_id = 56
+# text = A I (supra p.
+1	A	ab	ADP	r--------	_	2	case	_	_
+2	I	us1	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
+3	(supra	(supra1	ADP	r--------	_	4	case	_	_
+4	p.	publicus	ADJ	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing	2	amod	_	_
+
+# sent_id = 57
+# text = 43&#x14;46).
+1	43&#x14;46	43&#x14;46	ADV	d--------	_	2	advmod	_	SpaceAfter=No
+2	)	RPAREN1	PUNCT	u--------	_	0	root	_	SpaceAfter=No
+3	.	punc1	PUNCT	u--------	_	2	punct	_	_
+
+# sent_id = 58
+# text = &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;x Epistula Eusebii episcopi Uercellensis ad Gregorium episcopum Eliberitanum = Ser.
+1	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;x	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;x1	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	SpacesAfter=\s\s\s
+2	Epistula	Epistulum	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	_
+3	Eusebii	Eusebius	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
+4	episcopi	episcopio1	VERB	v--pnp---	Tense=Pres|VerbForm=Inf|Voice=Pass	0	root	_	_
+5	Uercellensis	Uercellenses1	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	4	obj	_	_
+6	ad	ad	ADP	r--------	_	7	case	_	_
+7	Gregorium	Gregorium	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	_
+8	episcopum	episcopus	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	9	nmod	_	_
+9	Eliberitanum	Eliberitanus	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	11	obj	_	_
+10	=	=	SYM	_	_	11	case	_	_
+11	Ser	Ser	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	SpaceAfter=No
+12	.	punc1	PUNCT	u--------	_	11	punct	_	_
+
+# sent_id = 59
+# text = A II (supra p, 46 sq.
+1	A	ab	ADP	r--------	_	2	case	_	_
+2	II	is1	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
+3	(supra	(suprum1	ADP	r--------	_	4	case	_	_
+4	p,	ppunc1	PUNCT	u--------	_	2	punct	_	_
+5	46	46	NUM	m--------	_	4	nummod	_	_
+6	sq	sq	ADV	d--------	_	5	advmod	_	SpaceAfter=No
+7	.	punc1	PUNCT	u--------	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 60
+# text = ).
+1	)	RPAREN1	PUNCT	u--------	_	0	root	_	SpaceAfter=No
+2	.	punc1	PUNCT	u--------	_	1	punct	_	_
+
+# sent_id = 61
+# text = &#x17;&#x17; &#x17; &#x17;&#x17;&#x17; &#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17; &#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; Epistulae duae de reconciliandis episcopis lapsis = Ser.
+1	&#x17;&#x17;	&#x17;&#x17;	SYM	_	_	16	case	_	_
+2	&#x17;	&#x17;	SYM	_	_	16	case	_	_
+3	&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;	SYM	_	_	16	case	_	_
+4	&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;	SYM	_	_	16	case	_	_
+5	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	16	case	_	_
+6	&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;	SYM	_	_	16	case	_	_
+7	&#x17;&#x17;	&#x17;&#x17;	SYM	_	_	16	case	_	_
+8	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	16	case	_	SpacesAfter=\s\s
+9	Epistulae	epistula	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_
+10	duae	duus1	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+11	de	de1	ADP	r--------	_	12	case	_	_
+12	reconciliandis	reconciliandae1	NOUN	n-p---fb-	Case=Abl|Gender=Fem|Number=Plur	16	nmod	_	_
+13	episcopis	episcopum1	ADJ	a-p---fb-	Case=Abl|Gender=Fem|Number=Plur	12	amod	_	_
+14	lapsis	lapsum1	PRON	p-p---mb-	Case=Abl|Gender=Masc|Number=Plur	16	nmod	_	_
+15	=	=	SYM	_	_	16	case	_	_
+16	Ser	Ser	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+17	.	punc1	PUNCT	u--------	_	16	punct	_	_
+
+# sent_id = 62
+# text = H IV (supra p. 156&#x14;159).
+1	H	H	ADV	d--------	_	2	advmod	_	_
+2	IV	IV	NUM	m-----mg-	Case=Gen|Gender=Masc	0	root	_	_
+3	(supra	(supra1	ADP	r--------	_	4	case	_	_
+4	p.	publicus	ADJ	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing	2	amod	_	_
+5	156&#x14;159	156&#x14;159	ADV	d--------	_	2	advmod	_	SpaceAfter=No
+6	)	RPAREN1	PUNCT	u--------	_	2	punct	_	SpaceAfter=No
+7	.	punc1	PUNCT	u--------	_	2	punct	_	_
+
+# sent_id = 63
+# text = &#x17;&#x17;&#x17;&#x17;&#x17; &#x17; &#x17;&#x17; &#x17; &#x17;&#x17;&#x17;&#x17;&#x17; &#x17; &#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17; &#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; De Germinio episcopo Sirmiensi:
+1	&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	11	punct	_	_
+2	&#x17;	&#x17;	SYM	_	_	11	punct	_	_
+3	&#x17;&#x17;	&#x17;&#x17;	SYM	_	_	11	punct	_	_
+4	&#x17;	&#x17;	SYM	_	_	11	punct	_	_
+5	&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	11	punct	_	_
+6	&#x17;	&#x17;	SYM	_	_	11	punct	_	_
+7	&#x17;	&#x17;	SYM	_	_	11	punct	_	_
+8	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	11	punct	_	_
+9	&#x17;&#x17;	&#x17;&#x17;	SYM	_	_	11	punct	_	_
+10	&#x17;	&#x17;	SYM	_	_	11	punct	_	_
+11	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	0	root	_	SpacesAfter=\s\s
+12	De	de1	ADP	r--------	_	13	case	_	_
+13	Germinio	Germinius	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	15	obl	_	_
+14	episcopo	episcopo1	ADJ	a-s---mb-	Case=Abl|Gender=Masc|Number=Sing	13	amod	_	_
+15	Sirmiensi	Sirmiensum1	VERB	v-prppmn-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	16	advcl	_	SpaceAfter=No
+16	:	punc1	PUNCT	u--------	_	11	punct	_	_
+
+# sent_id = 64
+# text = Ex epistula Germinii ad episcopos Arianos:
+1	Ex	ex1	ADP	r--------	_	2	case	_	_
+2	epistula	epistula	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	5	obl	_	_
+3	Germinii	Germinius1	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	ad	ad1	ADP	r--------	_	5	case	_	_
+5	episcopos	episcopi	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	0	root	_	_
+6	Arianos	Ariani1	ADJ	a-p---ma-	Case=Acc|Gender=Masc|Number=Plur	5	amod	_	SpaceAfter=No
+7	:	punc1	PUNCT	u--------	_	5	punct	_	_
+
+# sent_id = 65
+# text = symbolum Germinii (excidit ipsa epistula, cf. Studien I 103) = Ser.
+1	symbolum	symbolus1	ADV	d--------	_	3	advmod	_	_
+2	Germinii	Germinius1	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
+3	(excidit	(excido1	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	ipsa	ipse1	PRON	p-s---fb-	Case=Abl|Gender=Fem|Number=Sing	5	nmod	_	_
+5	epistula	epistula	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	3	advmod	_	SpaceAfter=No
+6	,	,	PUNCT	u--------	_	3	punct	_	_
+7	cf	cf	ADV	d--------	_	3	advmod	_	SpaceAfter=No
+8	.	PERIOD1	PUNCT	u--------	_	3	punct	_	_
+9	Studien	Studien1	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	_
+10	I	us1	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+11	103	103	NUM	m--------	_	9	nummod	_	SpaceAfter=No
+12	)	)	PUNCT	u--------	_	3	punct	_	_
+13	=	=	SYM	_	_	3	punct	_	_
+14	Ser	Ser	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	SpaceAfter=No
+15	.	punc1	PUNCT	u--------	_	13	punct	_	_
+
+# sent_id = 66
+# text = A III (supra p. 47 sq.
+1	A	ab	ADP	r--------	_	2	case	_	_
+2	III	III	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
+3	(supra	(supra1	ADP	r--------	_	4	case	_	_
+4	p.	publicus	ADJ	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing	5	amod	_	_
+5	47	47	NUM	m--------	_	2	nummod	_	_
+6	sq	sq	ADV	d--------	_	5	advmod	_	SpaceAfter=No
+7	.	punc1	PUNCT	u--------	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 67
+# text = ).
+1	)	RPAREN1	PUNCT	u--------	_	0	root	_	SpaceAfter=No
+2	.	punc1	PUNCT	u--------	_	1	punct	_	_
+
+# sent_id = 68
+# text = &#x17; &#x17;&#x17;&#x17;&#x17; &#x17; w &#x17; &#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; Epistula Ualentis, Ursacii, Gaii et Pauli ad Germinium = Ser.
+1	&#x17;	&#x17;	SYM	_	_	20	case	_	_
+2	&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;	SYM	_	_	20	case	_	_
+3	&#x17;	&#x17;	SYM	_	_	20	case	_	_
+4	w	w	ADV	d--------	_	5	advmod	_	_
+5	&#x17;	&#x17;	SYM	_	_	20	case	_	_
+6	&#x17;	&#x17;	SYM	_	_	20	case	_	_
+7	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	20	case	_	_
+8	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	20	case	_	SpacesAfter=\s\s
+9	Epistula	Epistulum	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
+10	Ualentis	Ualens1	VERB	v-ppp-ma-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part	20	amod	_	SpaceAfter=No
+11	,	comma1	PUNCT	u--------	_	10	punct	_	_
+12	Ursacii	Ursacium	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	SpaceAfter=No
+13	,	comma1	PUNCT	u--------	_	12	punct	_	_
+14	Gaii	Gaius1	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	_
+15	et	et1	CCONJ	c--------	_	14	cc	_	_
+16	Pauli	Paulus1	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	14	conj	_	_
+17	ad	ad1	ADP	r--------	_	18	case	_	_
+18	Germinium	Germinius	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	20	obl	_	_
+19	=	=	SYM	_	_	20	case	_	_
+20	Ser	Ser	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+21	.	punc1	PUNCT	u--------	_	20	punct	_	_
+
+# sent_id = 69
+# text = B V (supra p. 159 sq.
+1	B	b1	ADV	d--------	_	5	advmod	_	_
+2	V	V	NUM	m-----mg-	Case=Gen|Gender=Masc	5	nummod	_	_
+3	(supra	(suprum1	ADP	r--------	_	4	case	_	_
+4	p.	publicus	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	5	amod	_	_
+5	159	159	NUM	m--------	_	0	root	_	_
+6	sq	sq	ADV	d--------	_	5	advmod	_	SpaceAfter=No
+7	.	punc1	PUNCT	u--------	_	5	punct	_	SpaceAfter=No
+
+# sent_id = 70
+# text = ).
+1	)	RPAREN1	PUNCT	u--------	_	0	root	_	SpaceAfter=No
+2	.	punc1	PUNCT	u--------	_	1	punct	_	_
+
+# sent_id = 71
+# text = &#x17; &#x17; &#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17; Epistula Germinii ad Kufianum, Palladium et ceteros = Ser.
+1	&#x17;	&#x17;	SYM	_	_	14	punct	_	_
+2	&#x17;	&#x17;	SYM	_	_	14	punct	_	_
+3	&#x17;&#x17;	&#x17;&#x17;	SYM	_	_	14	punct	_	_
+4	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	14	punct	_	_
+5	&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	14	punct	_	SpacesAfter=\s\s
+6	Epistula	Epistulum	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	_
+7	Germinii	Germinius1	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+8	ad	ad1	ADP	r--------	_	9	case	_	_
+9	Kufianum	Kufianus	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	14	obl	_	SpaceAfter=No
+10	,	comma1	PUNCT	u--------	_	9	punct	_	_
+11	Palladium	Palladium1	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	9	conj	_	_
+12	et	et	CCONJ	c--------	_	9	cc	_	_
+13	ceteros	ceterus1	PRON	p-p---ma-	Case=Acc|Gender=Masc|Number=Plur	9	conj	_	_
+14	=	=	SYM	_	_	0	root	_	_
+15	Ser	Ser	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	SpaceAfter=No
+16	.	punc1	PUNCT	u--------	_	14	punct	_	_
+
+# sent_id = 72
+# text = B VI (supra p. 160&#x14;164).
+1	B	b1	ADV	d--------	_	2	advmod	_	_
+2	VI	sex	VERB	v1sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	(supra	(suprum1	ADP	r--------	_	4	case	_	_
+4	p.	publicus	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	_
+5	160&#x14;164	160&#x14;164	ADV	d--------	_	4	advmod	_	SpaceAfter=No
+6	)	RPAREN1	PUNCT	u--------	_	2	punct	_	SpaceAfter=No
+7	.	punc1	PUNCT	u--------	_	2	punct	_	_
+
+# sent_id = 73
+# text = &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;
+1	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	2	advmod	_	_
+2	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	0	root	_	SpacesAfter=\s\s\s\s\s\s\s\n
+

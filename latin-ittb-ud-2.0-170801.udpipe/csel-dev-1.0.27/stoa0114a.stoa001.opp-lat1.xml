@@ -1,0 +1,856 @@
+# newdoc id = /Users/mycomputer/Documents/ud-pipe/latin/02-extractTextDirectly-CSEL/stoa0114a.stoa001.opp-lat1.xml
+# newpar
+# sent_id = 1
+# text = VIIII. BENEDICTIO CEREI.
+1	VIIII.	_	X	5|stPS	Abbr=Yes	2	nmod	_	SpacesBefore=\s\s\s\s
+2	BENEDICTIO	benedictio	NOUN	C1|grn1|casA|gen2|stAN	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
+3	CEREI	Cereus	NOUN	E1|grn1|casB|gen2|stRS	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
+4	.	.	PUNCT	Punc	_	2	punct	_	SpacesAfter=\s\s\s
+
+# sent_id = 2
+# text = Dignam et iustum est.
+1	Dignam	Dignam	NOUN	A1|grn1|casD|gen2|vgr1|stRS	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
+2	et	et	CCONJ	O4|stRL	_	3	cc	_	_
+3	iustum	iustus	ADJ	B1|grn1|casD|gen3|stAM	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	1	conj	_	_
+4	est	sum	AUX	N3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	SpaceAfter=No
+5	.	.	PUNCT	Punc	_	1	punct	_	_
+
+# sent_id = 3
+# text = uere dignum et iustum est, ut quod a te, domine, accipimus pretio saltem uocis soluamus.
+1	uere	uo	VERB	L3|modH|tem1|vgr1|stAV	Tense=Pres|VerbForm=Inf|Voice=Act	2	csubj	_	_
+2	dignum	dignus	ADJ	B1|grn1|casA|gen3|stAM	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
+3	et	et	CCONJ	O4|stRL	_	4	cc	_	_
+4	iustum	iustus	ADJ	B1|grn1|casD|gen3|stAM	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	2	conj	_	_
+5	est	sum	AUX	N3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	SpaceAfter=No
+6	,	,	PUNCT	Punc	_	14	punct	_	_
+7	ut	ut	SCONJ	O4|vgr1|stRL	_	14	mark	_	_
+8	quod	qui	PRON	F1|grn1|casA|gen3|stRL	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|PronType=Rel	14	acl	_	_
+9	a	a	ADP	S4|vgr1|stRL	AdpType=Prep	10	case	_	_
+10	te	tu	PRON	F1|grn1|casD|gen1|stPD	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|PronType=Prs	8	obj	_	SpaceAfter=No
+11	,	,	PUNCT	Punc	_	8	punct	_	_
+12	domine	dominus	NOUN	B1|grn1|casE|gen1|comH|stRS	Case=Voc|Degree=Pos|Gender=Masc|Number=Sing	14	obl	_	SpaceAfter=No
+13	,	,	PUNCT	Punc	_	12	punct	_	_
+14	accipimus	accipio	VERB	L3|modA|tem1|gen7|stAV	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	_
+15	pretio	pretio	NOUN	C1|grn1|casA|gen2|stAN	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	18	nsubj	_	_
+16	saltem	saltem	ADV	O4|stRL	_	18	advmod:emph	_	_
+17	uocis	uocus	ADJ	A1|grn1|casO|gen2|stAE	Case=Abl|Degree=Pos|Gender=Fem|Number=Plur	16	amod	_	_
+18	soluamus	soluo	VERB	L3|modB|tem1|gen7|stAC	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	14	advcl	_	SpaceAfter=No
+19	.	.	PUNCT	Punc	_	2	punct	_	_
+
+# sent_id = 4
+# text = et licet nostra lingua auctoris sui beneficiis digno nequaquam respondere possit affatu, uult tamen diuino mysterio profecisse, quod facta est.
+1	et	et	CCONJ	O4|stRL	_	14	cc	_	_
+2	licet	licet	SCONJ	O4|stRL	_	11	mark	_	_
+3	nostra	noster	DET	A1|grn1|casF|gen2|stPV	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	det	_	_
+4	lingua	lingua	NOUN	A1|grn1|casF|gen2|stRS	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	11	obl	_	_
+5	auctoris	auctor	NOUN	C1|grn1|casB|gen1|stRS	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	nmod	_	_
+6	sui	suus	DET	B1|grn1|casB|gen1|stPV	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	5	det	_	_
+7	beneficiis	beneficium	NOUN	B1|grn1|casO|gen3|stAM	Case=Abl|Degree=Pos|Gender=Neut|Number=Plur	8	nsubj	_	_
+8	digno	dignus	NOUN	B1|grn1|casF|gen3|stAE	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing	10	obl	_	_
+9	nequaquam	nequaquam	ADV	O4|stRL	_	8	advmod	_	SpacesAfter=\s\s\s
+10	respondere	respondeo	VERB	K3|modH|tem1|stAE	Tense=Pres|VerbForm=Inf|Voice=Act	11	xcomp	_	_
+11	possit	possum	VERB	N3|modB|tem1|gen6|stAV	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act	14	advcl	_	_
+12	affatu	affatus	ADV	O4|vgr1|stRL	_	11	advmod	_	SpaceAfter=No
+13	,	,	PUNCT	Punc	_	11	punct	_	_
+14	uult	uolo	VERB	N3|modA|tem1|gen6|vgr1|stAM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act	0	root	_	_
+15	tamen	tamen	ADV	O4|stRL	_	14	advmod	_	_
+16	diuino	diuinus	ADJ	B1|grn1|casF|gen3|vgr1|stAM	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing	17	amod	_	_
+17	mysterio	mysterium	NOUN	B1|grn1|casF|gen3|stAE	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing	18	obl	_	_
+18	profecisse	profecio	VERB	L3|modH|tem4|stAV	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	14	xcomp	_	SpaceAfter=No
+19	,	,	PUNCT	Punc	_	21	punct	_	_
+20	quod	qui	PRON	F1|grn1|casA|gen3|stRL	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|PronType=Rel	21	nsubj:pass	_	_
+21	facta	facio	VERB	N2|modM|tem4|grp1|casJ|gen3|stAV	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	14	acl	_	_
+22	est	sum	AUX	N3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	aux:pass	_	SpaceAfter=No
+23	.	.	PUNCT	Punc	_	14	punct	_	_
+
+# sent_id = 5
+# text = nam cum ceteris animalibus hebetata caligantium crassitudo sit sensuum, uernat in hoc dispositione dominica hominum factura praestantior, quod sola uherius potest sentire factorem:
+1	nam	nam	ADV	O4|stRL	_	11	advmod	_	_
+2	cum	cum	SCONJ	S4|vgr1|stRL	_	7	mark	_	_
+3	ceteris	ceterus	DET	B1|grn1|casO|gen3|vgr1|stPV	Case=Abl|Degree=Pos|Gender=Neut|Number=Plur|PronType=Ind	4	det	_	_
+4	animalibus	animal	NOUN	C1|grn1|casO|gen3|stAN	Case=Abl|Degree=Pos|Gender=Neut|Number=Plur	7	obl	_	_
+5	hebetata	hebeto	VERB	J2|modM|tem4|grp1|casA|gen2|stAV	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	acl	_	_
+6	caligantium	caligo	NOUN	C1|grn1|casK|gen2|vgr1|stRS	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	5	obj	_	_
+7	crassitudo	crassitudo	NOUN	C1|grn1|casA|gen2|stAN	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	11	nsubj	_	_
+8	sit	sum	AUX	N3|modB|tem1|gen6|stAV	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	_
+9	sensuum	sensus	NOUN	D1|grn1|casK|gen1|stAC	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	7	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	Punc	_	7	punct	_	_
+11	uernat	uerno	VERB	L3|modB|tem1|gen6|stAV	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+12	in	in	ADP	S4|stRL	AdpType=Prep	14	case	_	_
+13	hoc	hic	PRON	F1|grn1|casF|gen3|stPV	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing|PronType=Dem	14	nmod	_	_
+14	dispositione	dispositio	NOUN	C1|grn1|casF|gen2|comH|stAN	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	17	obl	_	_
+15	dominica	dominica	ADJ	A1|grn1|casF|gen2|vgr1|stAM	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
+16	hominum	homo	NOUN	C1|grn1|casK|gen1|stRS	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	15	nmod	_	_
+17	factura	factura	VERB	L2|modD|tem3|grp1|casA|gen2|stAV	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Act	18	acl	_	_
+18	praestantior	praestantus	VERB	K2|modD|tem1|grp2|casA|gen2|stAV	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	11	advcl	_	SpaceAfter=No
+19	,	,	PUNCT	Punc	_	23	punct	_	_
+20	quod	quod	SCONJ	O4|stRL	_	23	mark	_	_
+21	sola	solus	ADJ	F1|grn1|casA|gen2|stAN	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
+22	uherius	uherius	ADJ	C1|grn2|casG|stAN	Case=Loc|Degree=Cmp|Number=Sing	23	obl	_	_
+23	potest	possum	VERB	N3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act	11	ccomp	_	_
+24	sentire	sentio	VERB	M3|modH|tem1|stAC	Tense=Pres|VerbForm=Inf|Voice=Act	23	xcomp	_	_
+25	factorem	factor	NOUN	C1|grn1|casD|gen1|stRS	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	24	obj	_	SpaceAfter=No
+26	:	:	PUNCT	Punc	_	11	punct	_	_
+
+# sent_id = 6
+# text = quae tamen cernuis est socianda recte pecudibus, si caelestis ignara muneris uelut elinguis beneficia diuinitus concessa concludat.
+1	quae	qui	PRON	F1|grn1|casA|gen2|vgr1|stPV	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|PronType=Rel	3	nsubj	_	_
+2	tamen	tamen	ADV	O4|stRL	_	1	advmod	_	_
+3	cernuis	cernuus	ADJ	B1|grn1|casO|gen3|stAN	Case=Abl|Degree=Pos|Gender=Neut|Number=Plur	5	obl	_	_
+4	est	sum	AUX	N3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
+5	socianda	sociandus	VERB	J2|modO|grp1|casJ|gen3|vgr1|stAV	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|VerbForm=Gdv|Voice=Pass	0	root	_	_
+6	recte	rectus	ADJ	B1|grn1|casG|stAV	Case=Loc|Degree=Pos|Number=Sing	5	obl	_	_
+7	pecudibus	pecudus	ADJ	C1|grn1|casL|gen3|stAN	Case=Dat|Degree=Pos|Gender=Neut|Number=Plur	5	obj	_	SpaceAfter=No
+8	,	,	PUNCT	Punc	_	10	punct	_	_
+9	si	si	SCONJ	O4|stRL	_	10	mark	_	_
+10	caelestis	caelestis	ADJ	C1|grn1|casA|gen1|stAN	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	advcl	_	_
+11	ignara	ignara	ADP	S4|stRL	AdpType=Prep	12	case	_	_
+12	muneris	munus	NOUN	B1|grn1|casO|gen1|stRS	Case=Abl|Degree=Pos|Gender=Masc|Number=Plur	10	obl	_	_
+13	uelut	uelut	SCONJ	O4|vgr1|stRL	_	18	mark	_	_
+14	elinguis	linguis	PRON	F1|grn1|casA|gen1|varA|stPV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|PronType=Ind	17	nmod	_	_
+15	beneficia	benefex	ADJ	C1|grn1|casJ|gen3|stAM	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	14	amod	_	_
+16	diuinitus	diuinitus	VERB	M2|modM|tem4|grp1|casA|gen1|stAV	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	14	acl	_	_
+17	concessa	concimo	VERB	L2	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	18	csubj	_	_
+18	concludat	concludo	VERB	L3|modB|tem1|gen6|stAV	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	SpaceAfter=No
+19	.	.	PUNCT	Punc	_	5	punct	_	_
+
+# sent_id = 7
+# text = nam ut absoluit a crimine in holocaustis mysticis non habere quod offeras, ita digna piaculo res est, offerenda subtrahere.
+1	nam	nam	ADV	O4|stRL	_	3	advmod	_	_
+2	ut	ut	SCONJ	O4|vgr1|stRL	_	3	mark	_	_
+3	absoluit	absoluo	VERB	L3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	a	a	ADP	S4|vgr1|stRL	AdpType=Prep	5	case	_	_
+5	crimine	crimen	NOUN	C1|grn1|casF|gen3|comH|stRS	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing	3	obj	_	_
+6	in	in	ADP	S4|stRL	AdpType=Prep	7	case	_	_
+7	holocaustis	holocauste	PRON	F1|grn1|casO|gen3|stPD	Case=Abl|Degree=Pos|Gender=Neut|Number=Plur|PronType=Dem	8	obl	_	_
+8	mysticis	mystix	VERB	N3|modA|tem1|gen5|stAE	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	_
+9	non	non	ADV	O4|stRL	_	10	advmod	_	_
+10	habere	habeo	VERB	K3|modH|tem1|stAV	Tense=Pres|VerbForm=Inf|Voice=Act	8	ccomp	_	_
+11	quod	quod	SCONJ	O4|stRL	_	18	mark	_	_
+12	offeras	offera	ADJ	A1|grn1|casM|gen2|stAC	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	17	amod	_	SpaceAfter=No
+13	,	,	PUNCT	Punc	_	12	punct	_	_
+14	ita	ita	ADV	O4|stRL	_	15	advmod	_	_
+15	digna	dignus	ADJ	A1|grn1|casA|gen2|stAN	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	_
+16	piaculo	piaculum	NOUN	B1|grn1|casC|gen1|stAN	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	15	obj	_	_
+17	res	res	NOUN	E1|grn1|casA|gen2|stRS	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	18	nsubj	_	_
+18	est	sum	VERB	N3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	ccomp	_	SpaceAfter=No
+19	,	,	PUNCT	Punc	_	20	punct	_	_
+20	offerenda	offero	VERB	L2|modO|grp1|casA|gen2|stAV	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Gdv|Voice=Pass	21	ccomp	_	_
+21	subtrahere	subtraho	VERB	L3|modH|tem1|stAV	Tense=Pres|VerbForm=Inf|Voice=Act	10	xcomp	_	SpaceAfter=No
+22	.	.	PUNCT	Punc	_	3	punct	_	_
+
+# sent_id = 8
+# text = parili namque iudicio censendus est et qui numquam loquitur per naturam et qui quod loquitur non reddit auctori idcirco, domine stupendi huius opifex elementi, aliquam tibi a nobis reddi credimus humili satisfactione particulam, quod totum cognoscimus nos debere.
+1	parili	parilis	ADJ	C1|grn1|casF|gen3|stAC	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+2	namque	nam	ADV	O4|comQ|stRL	_	1	advmod	_	_
+3	iudicio	iudicium	NOUN	B1|grn1|casF|gen3|vgr1|stAE	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing	4	obl	_	_
+4	censendus	censendus	ADJ	B1|grn1|casA|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|NumType=Ord	32	advcl	_	_
+5	est	sum	AUX	N3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
+6	et	et	CCONJ	O4|stRL	_	9	cc	_	_
+7	qui	qui	PRON	F1|grn1|casA|gen1|stPV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|PronType=Rel	9	nsubj:pass	_	_
+8	numquam	numquam	ADV	O4|vgr2|stRL	_	9	advmod	_	_
+9	loquitur	loquor	VERB	L3|modJ|tem1|gen6|stAE	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	conj	_	_
+10	per	per	ADP	S4|stRL	AdpType=Prep	11	case	_	_
+11	naturam	natura	NOUN	A1|grn1|casD|gen2|stAN	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	9	obl	_	_
+12	et	et	CCONJ	O4|stRL	_	13	cc	_	_
+13	qui	qui	PRON	F1|grn1|casA|gen1|stPV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|PronType=Rel	17	nsubj	_	_
+14	quod	qui	PRON	F1|grn1|casA|gen3|stRL	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|PronType=Rel	15	nsubj:pass	_	_
+15	loquitur	loquor	VERB	L3|modJ|tem1|gen6|stAE	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	17	csubj	_	_
+16	non	non	ADV	O4|stRL	_	17	advmod	_	_
+17	reddit	reddo	VERB	L3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	acl	_	_
+18	auctori	auctor	NOUN	C1|grn1|casC|gen1|stRS	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	17	obj	_	_
+19	idcirco	idcircus	NOUN	B1|grn1|casC|gen1|stRS	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	18	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	Punc	_	17	punct	_	_
+21	domine	dominus	NOUN	B1|grn1|casE|gen1|comH|stRS	Case=Voc|Degree=Pos|Gender=Masc|Number=Sing	32	obl	_	_
+22	stupendi	stupo	VERB	L2|modN|grp1|casB|stAV	Case=Gen|Degree=Pos|Number=Sing|VerbForm=Ger|Voice=Pass	32	ccomp	_	_
+23	huius	hic	PRON	F1|grn1|casB|gen1|vgr2|stPV	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|PronType=Dem	22	nmod	_	_
+24	opifex	opifex	NOUN	C1|grn1|casA|gen1|stRS	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	32	nsubj	_	_
+25	elementi	elementum	NOUN	B1|grn1|casB|gen3|stRS	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	24	nmod	_	SpaceAfter=No
+26	,	,	PUNCT	Punc	_	27	punct	_	_
+27	aliquam	aliquis	PRON	F1|grn1|casD|gen2|stPV	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|PronType=Ind	24	nmod	_	_
+28	tibi	tu	PRON	F1|grn1|casC|gen1|stPD	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|PronType=Prs	32	obl	_	_
+29	a	a	ADP	S4|vgr1|stRL	AdpType=Prep	30	case	_	_
+30	nobis	ego	PRON	F1|grn1|casO|gen1|stPD	Case=Abl|Degree=Pos|Gender=Masc|Number=Plur|PronType=Prs	31	obj	_	_
+31	reddi	reddo	VERB	L3|modQ|tem1|stAV	Tense=Pres|VerbForm=Inf|Voice=Pass	32	xcomp	_	_
+32	credimus	credo	VERB	L3|modA|tem1|gen7|stAC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+33	humili	humilis	ADJ	C1|grn1|casF|gen2|stAN	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	34	amod	_	_
+34	satisfactione	satisfactio	NOUN	C1|grn1|casF|gen2|comH|vgr1|stAE	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	35	obl	_	_
+35	particulam	particula	NOUN	A1|grn1|casD|gen2|stRS	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	32	iobj	_	SpaceAfter=No
+36	,	,	PUNCT	Punc	_	39	punct	_	_
+37	quod	quod	SCONJ	O4|stRL	_	39	mark	_	_
+38	totum	totus	PRON	F1|grn1|casA|gen3|stAN	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|PronType=Ind	39	nsubj	_	_
+39	cognoscimus	cognosco	VERB	L3|modA|tem1|gen7|stAC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	32	advcl	_	_
+40	nos	ego	PRON	F1|grn1|casM|gen1|stPD	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|PronType=Prs	41	obj	_	_
+41	debere	debeo	VERB	K3|modH|tem1|stAV	Tense=Pres|VerbForm=Inf|VerbType=Mod|Voice=Act	39	xcomp	_	SpaceAfter=No
+42	.	.	PUNCT	Punc	_	32	punct	_	_
+
+# sent_id = 9
+# text = quis enim alius praeter te mundi fabricam perpendiculo repentinae iussionis exactam bifida auctoritate solidauit, cum primum praecepti tui miraculo terra coagularetur in pelagus et deductis deinde aquarum inpressionibus illa naufraga post sitiret?
+1	quis	qui	PRON	F1|grn1|casA|gen1|varA|stPV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|PronType=Rel	3	nsubj	_	_
+2	enim	enim	ADV	O4|stRL	_	3	advmod	_	_
+3	alius	alius	PRON	F1|grn1|casA|gen1|stPV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|PronType=Ind	14	nsubj	_	_
+4	praeter	praeter	ADP	S4|vgr1|stRL	AdpType=Prep	5	case	_	_
+5	te	tu	PRON	F1|grn1|casF|gen1|stPD	Case=Abl|Degree=Pos|Gender=Masc|Number=Sing|PronType=Prs	7	obl	_	_
+6	mundi	mundus	NOUN	B1|grn1|casB|gen1|stRS	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	5	nmod	_	_
+7	fabricam	fabricus	VERB	N3|modB|tem1|gen4|stAE	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl	_	_
+8	perpendiculo	perpendiculus	NOUN	B1|grn1|casC|gen1|stRS	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	7	obj	_	_
+9	repentinae	repentina	NOUN	A1|grn1|casB|gen2|vgr1|stRS	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	nmod	_	_
+10	iussionis	iussio	NOUN	C1|grn1|casB|gen2|stAN	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	9	nmod	_	_
+11	exactam	exactam	VERB	N2|modM|tem4|grp1|casD|gen2|stAV	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	8	acl	_	_
+12	bifida	bifidus	ADJ	A1|grn1|casF|gen2|stAN	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
+13	auctoritate	auctoritas	NOUN	C1|grn1|casF|gen2|vgr1|stAE	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	14	obl	_	_
+14	solidauit	solidauo	VERB	L3|modA|tem4|gen6|stAV	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+15	,	,	PUNCT	Punc	_	22	punct	_	_
+16	cum	cum	SCONJ	S4|vgr1|stRL	_	22	mark	_	_
+17	primum	primus	ADJ	B1|grn1|casA|gen3	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|NumType=Ord	21	amod	_	_
+18	praecepti	praecipio	NOUN	B1|grn1|casB|gen3|stAE	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	17	nmod	_	_
+19	tui	tui	DET	B1|grn1|casB|gen1|vgr1|stPV	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	20	det	_	_
+20	miraculo	miraculum	NOUN	B1|grn1|casC|gen1|stRS	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	18	obj	_	_
+21	terra	terra	NOUN	A1|grn1|casA|gen2|stRS	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	22	nsubj:pass	_	_
+22	coagularetur	coagulo	VERB	J3|modK|tem2|gen6|stAV	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Pass	14	advcl	_	_
+23	in	in	ADP	S4|stRL	AdpType=Prep	24	case	_	_
+24	pelagus	pelagus	NOUN	C1|grn1|casD|gen3|stAN	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	22	obj	_	_
+25	et	et	CCONJ	O4|stRL	_	26	cc	_	_
+26	deductis	deduco	VERB	N2|modM|tem4|grp1|casO|gen3|stAV	Aspect=Perf|Case=Abl|Degree=Pos|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	24	conj	_	_
+27	deinde	deinde	ADV	O4|stRL	_	22	advmod	_	_
+28	aquarum	aqua	NOUN	A1|grn1|casK|gen2|stRS	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	29	nmod	_	_
+29	inpressionibus	inpressio	NOUN	C1|grn1|casO|gen2|stAN	Case=Abl|Degree=Pos|Gender=Fem|Number=Plur	22	obj	_	_
+30	illa	ille	PRON	F1|grn1|casA|gen2|stPD	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|PronType=Dem	29	nmod	_	_
+31	naufraga	naufraga	X	5|grp3|cas5|gen9|stPS	Abbr=Yes|Degree=Sup|Number=Plur|Person=3	33	advmod	_	_
+32	post	post	ADP	S4|stRL	AdpType=Prep	33	mark	_	_
+33	sitiret	sitio	VERB	M3|modB|tem2|gen6|stAV	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	30	advcl	_	SpaceAfter=No
+34	?	?	PUNCT	Punc	_	14	punct	_	_
+
+# sent_id = 10
+# text = cuius etiam nisi tuae inuestigabilis fotu iussionis suscepta germina nutriuntur?
+1	cuius	qui	PRON	F1|grn1|casB|gen3|vgr2|stPV	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|PronType=Rel	0	root	_	_
+2	etiam	etiam	ADV	O4|vgr1|stRL	_	1	advmod:emph	_	_
+3	nisi	nisi	SCONJ	O4|stRL	_	10	mark	_	_
+4	tuae	tuus	DET	A1|grn1|casJ|gen2|vgr1|stPV	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	5	det	_	_
+5	inuestigabilis	inuestigabilis	ADJ	C1|grn1|casA|gen2|stAN	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	nsubj:pass	_	_
+6	fotu	fotus	NOUN	D1|grn1|casF|gen1|stAN	Case=Abl|Degree=Pos|Gender=Masc|Number=Sing	10	obl	_	_
+7	iussionis	iussio	NOUN	C1|grn1|casB|gen2|stAN	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	nmod	_	_
+8	suscepta	suscipio	VERB	L2|modM|tem4|grp1|casF|gen2|stAV	Aspect=Perf|Case=Abl|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	acl	_	_
+9	germina	germen	NOUN	A1|grn1|casF|gen2|vgr1|stRS	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	8	nsubj:pass	_	_
+10	nutriuntur	nutrio	VERB	M3|modJ|tem1|gen9|stAV	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	dep	_	SpaceAfter=No
+11	?	?	PUNCT	Punc	_	1	punct	_	_
+
+# sent_id = 11
+# text = qui calorem gignit infusis, qui umorem stillat arentibus ? qui nisi deus noster succidua iungit temporibus tempora, quorum terrae fetus nunc igne feruescant, nunc glacie temperentur, nunc tepore animentur, nunc bibulo liquore consurgant?
+1	qui	qui	PRON	F1|grn1|casA|gen1|stPV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|PronType=Rel	3	nsubj	_	_
+2	calorem	calor	NOUN	C1|grn1|casD|gen1|stAN	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	3	obj	_	_
+3	gignit	gigno	VERB	L3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	infusis	infusa	ADJ	B1|grn1|casO|gen1|vgr1|stAN	Case=Abl|Degree=Pos|Gender=Masc|Number=Plur	3	obl	_	SpaceAfter=No
+5	,	,	PUNCT	Punc	_	8	punct	_	_
+6	qui	qui	PRON	F1|grn1|casA|gen1|stPV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|PronType=Rel	8	nsubj	_	_
+7	umorem	umor	NOUN	C1|grn1|casD|gen1|stRS	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	obj	_	_
+8	stillat	stillo	VERB	J3|modA|tem1|gen6|stAE	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl	_	_
+9	arentibus	aro	VERB	K2|modD|tem1|grp1|casO|gen3|stAV	Case=Abl|Degree=Pos|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	8	advcl	_	_
+10	?	?	PUNCT	Punc	_	38	punct	_	_
+11	qui	qui	PRON	F1|grn1|casA|gen1|stPV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|PronType=Rel	38	nsubj	_	_
+12	nisi	nisi	SCONJ	O4|stRL	_	16	mark	_	_
+13	deus	deus	PROPN	F1|grn1|casA|gen1|stNP	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	16	nsubj	_	_
+14	noster	noster	DET	B1|grn1|casA|gen1|stPV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	15	det	_	_
+15	succidua	succiduus	NOUN	B1|grn1|casM|gen3|stAN	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	16	obj	_	_
+16	iungit	iungo	VERB	L3|modA|tem1|gen6|vgr2|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	33	advcl	_	_
+17	temporibus	tempus	NOUN	C1|grn1|casO|gen3|stAN	Case=Abl|Degree=Pos|Gender=Neut|Number=Plur	29	obl	_	_
+18	tempora	tempus	NOUN	C1|grn1|casM|gen3|stAN	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	29	obj	_	SpaceAfter=No
+19	,	,	PUNCT	Punc	_	25	punct	_	_
+20	quorum	qui	PRON	F1|grn1|casK|gen3|stPV	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|PronType=Rel	21	nmod	_	_
+21	terrae	terra	NOUN	A1|grn1|casB|gen2|vgr1|stRS	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	25	nmod	_	_
+22	fetus	feo	NOUN	D1|grn1|casA|gen1|vgr1|stAN	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	25	nsubj	_	_
+23	nunc	nunc	ADV	O4|stRL	_	25	advmod	_	_
+24	igne	ignis	NOUN	C1|grn1|casF|gen1|stRS	Case=Abl|Degree=Pos|Gender=Masc|Number=Sing	25	obl	_	_
+25	feruescant	feruesco	VERB	J3|modA|tem1|gen9|vgr1|stAE	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	acl	_	SpaceAfter=No
+26	,	,	PUNCT	Punc	_	25	punct	_	_
+27	nunc	nunc	ADV	O4|stRL	_	29	advmod	_	_
+28	glacie	glacies	NOUN	E1|grn1|casF|gen2|stRS	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	29	obl	_	_
+29	temperentur	tempero	VERB	J3|modK|tem1|gen9|stAV	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	16	conj	_	SpaceAfter=No
+30	,	,	PUNCT	Punc	_	16	punct	_	_
+31	nunc	nunc	ADV	O4|stRL	_	33	advmod	_	_
+32	tepore	tepus	NOUN	C1|grn1|casF|gen3|stAN	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing	33	obl	_	_
+33	animentur	animo	VERB	J3|modK|tem1|gen9|stAV	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	38	advcl	_	SpaceAfter=No
+34	,	,	PUNCT	Punc	_	38	punct	_	_
+35	nunc	nunc	ADV	O4|stRL	_	38	advmod	_	_
+36	bibulo	bibulus	NOUN	B1|grn1|casF|gen3|stAE	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing	38	obl	_	_
+37	liquore	liquor	NOUN	C1|grn1|casF|gen3|stRS	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing	38	obl	_	_
+38	consurgant	consurgo	VERB	L3|modB|tem1|gen9|stAC	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl	_	SpaceAfter=No
+39	?	?	PUNCT	Punc	_	3	punct	_	_
+
+# sent_id = 12
+# text = quis haec omnia et fecit ex nihilo et per lucis ianuam a perpetuae noctis furua densitate discreuit fecitque perenniter laudanda dispositione piissimus post lucis claritatem non horreri tenebras reuertentes per dierum dies?
+1	quis	qui	PRON	F1|grn1|casA|gen1|varA|stPV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	_
+2	haec	hic	PRON	F1|grn1|casJ|gen3|vgr1|stPV	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|PronType=Dem	1	nmod	_	_
+3	omnia	omnis	DET	C1|grn1|casJ|gen3|stPV	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|PronType=Ind	2	det	_	_
+4	et	et	CCONJ	O4|stRL	_	5	cc	_	_
+5	fecit	facio	VERB	N3|modA|tem4|gen6|stAV	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+6	ex	e	ADP	S4|vgr2|stRL	AdpType=Prep	7	case	_	_
+7	nihilo	nihil	PRON	B1|grn1|casF|gen3|stRS	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing|PronType=Neg	17	obl	_	_
+8	et	et	CCONJ	O4|stRL	_	11	cc	_	_
+9	per	per	ADP	S4|stRL	AdpType=Prep	11	case	_	_
+10	lucis	lux	NOUN	C1|grn1|casB|gen2|stRS	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	nmod	_	_
+11	ianuam	ianuus	ADJ	A1|grn1|casD|gen2|stAN	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	conj	_	_
+12	a	a	ADP	S4|vgr1|stRL	AdpType=Prep	15	case	_	_
+13	perpetuae	perpetuus	ADJ	A1|grn1|casJ|gen2|stAN	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	15	amod	_	_
+14	noctis	noco	VERB	N2	Aspect=Perf|Case=Abl|Degree=Pos|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	13	acl	_	_
+15	furua	furua	NOUN	A1|grn1|casF|gen2|stRS	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	17	obj	_	_
+16	densitate	densitas	NOUN	C1|grn1|casF|gen2|stAN	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	17	obl	_	_
+17	discreuit	discreuo	VERB	L3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+18	fecitque	fecitque	ADV	O4|comH|stRL	_	19	advmod	_	_
+19	perenniter	perennis	ADJ	C1|grn1|casG|stAN	Case=Loc|Degree=Pos|Number=Sing	20	obl	_	_
+20	laudanda	laudo	VERB	J2|modO|grp1|casA|gen2|stAM	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Gdv|Voice=Pass	21	ccomp	_	_
+21	dispositione	dispositio	NOUN	C1|grn1|casF|gen2|comH|stAN	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	17	obl	_	_
+22	piissimus	piisso	ADJ	B1|grn3|casA|gen1|stAN	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	21	amod	_	_
+23	post	post	ADP	S4|stRL	AdpType=Prep	25	case	_	_
+24	lucis	lux	NOUN	C1|grn1|casB|gen2|stRS	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	25	nmod	_	_
+25	claritatem	claritas	NOUN	C1|grn1|casD|gen2|stAN	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	17	obl	_	_
+26	non	non	ADV	O4|stRL	_	28	advmod	_	_
+27	horreri	horreo	AUX	K3|modQ|tem1|stAE	Tense=Pres|VerbForm=Inf|Voice=Pass	28	cop	_	_
+28	tenebras	tenebra	NOUN	A1|grn1|casM|gen2|stAN	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	29	obj	_	_
+29	reuertentes	reuerto	VERB	L2|modD|tem1|grp1|casJ|gen2|stAV	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	17	acl	_	_
+30	per	per	ADP	S4|stRL	AdpType=Prep	32	case	_	_
+31	dierum	dies	NOUN	E1|grn1|casK|gen1|stAN	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	32	nmod	_	_
+32	dies	dies	NOUN	E1|grn1|casM|gen1|stAN	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	29	obl	_	SpaceAfter=No
+33	?	?	PUNCT	Punc	_	17	punct	_	_
+
+# sent_id = 13
+# text = quis te uel dignus aut facundus laudator eloquitur, cuius terminata distributio succedenti uarietate fit gratior, quo iubente dulcior lux est, quod aliquando desinit, quam si iugiter permaneret?
+1	quis	qui	PRON	F1|grn1|casA|gen1|varA|stPV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|PronType=Rel	8	nsubj:pass	_	_
+2	te	tu	PRON	F1|grn1|casF|gen1|stPD	Case=Abl|Degree=Pos|Gender=Masc|Number=Sing|PronType=Prs	3	nmod	_	_
+3	uel	uel	PROPN	C1|grn1|casF|gen1|stNP	Case=Abl|Degree=Pos|Gender=Masc|Number=Sing	8	obl	_	_
+4	dignus	dignus	ADJ	B1|grn1|casA|gen1|stAN	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+5	aut	aut	CCONJ	O4|stRL	_	6	cc	_	_
+6	facundus	facuo	ADJ	B1|grn1|casA|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|NumType=Ord	4	conj	_	_
+7	laudator	laudator	NOUN	C1|grn1|casA|gen1|stRS	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	nsubj:pass	_	_
+8	eloquitur	eloquo	VERB	L3|modJ|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No
+9	,	,	PUNCT	Punc	_	15	punct	_	_
+10	cuius	qui	PRON	F1|grn1|casB|gen2|vgr2|stPV	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|PronType=Rel	12	nmod	_	SpacesAfter=\s\s
+11	terminata	termino	VERB	J2|modM|tem4|grp1|casA|gen2|stAV	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	12	acl	_	_
+12	distributio	distributio	NOUN	C1|grn1|casA|gen2|stAN	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	13	nsubj	_	_
+13	succedenti	succedens	VERB	L2|modD|tem1|grp1|casF|gen2|stAV	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	14	acl	_	_
+14	uarietate	uarietas	PROPN	C1|grn1|casF|gen2|stNP	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	15	obl	_	_
+15	fit	facio	VERB	N3|modJ|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	8	advcl	_	_
+16	gratior	gratis	NOUN	C1|grn2|casA|gen2|vgr1|stAV	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing	15	nsubj:pass	_	SpaceAfter=No
+17	,	,	PUNCT	Punc	_	19	punct	_	_
+18	quo	qui	PRON	F1|grn1|casF|gen1|stPV	Case=Abl|Degree=Pos|Gender=Masc|Number=Sing|PronType=Rel	19	nsubj	_	_
+19	iubente	iubo	VERB	L2|modD|tem1|grp1|casF|gen1|stAV	Case=Abl|Degree=Pos|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	16	acl	_	_
+20	dulcior	dulcis	ADJ	C1|grn2|casA|gen1|stAN	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	21	amod	_	_
+21	lux	lux	NOUN	C1|grn1|casA|gen2|stRS	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	19	nsubj	_	_
+22	est	sum	AUX	N3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	cop	_	SpaceAfter=No
+23	,	,	PUNCT	Punc	_	26	punct	_	_
+24	quod	quod	SCONJ	O4|stRL	_	26	mark	_	_
+25	aliquando	aliquando	ADV	O4|stRL	_	26	advmod	_	_
+26	desinit	desino	VERB	L3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	advcl	_	SpaceAfter=No
+27	,	,	PUNCT	Punc	_	31	punct	_	_
+28	quam	quam	SCONJ	O4|stRL	_	31	mark	_	_
+29	si	si	SCONJ	O4|stRL	_	31	mark	_	_
+30	iugiter	iugis	ADJ	C1|grn1|casG|stAN	Case=Loc|Degree=Pos|Number=Sing	31	obl	_	_
+31	permaneret	permaneo	VERB	K3|modB|tem2|gen6|stAV	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	26	dep	_	SpaceAfter=No
+32	?	?	PUNCT	Punc	_	8	punct	_	_
+
+# sent_id = 14
+# text = ecce illa nox, quae mundum hactenus iugo crudelissimae deditionis oppresserat, populos a nexibus uiolentae condicionis absoluit et fit libertatis altrix quae mater fuerat seruitutis.
+1	ecce	ecce	INTJ	O4|stRL	_	0	root	_	_
+2	illa	ille	PRON	F1|grn1|casA|gen2|stPD	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|PronType=Dem	3	nmod	_	_
+3	nox	nox	NOUN	C1|grn1|casA|gen2|stRS	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	18	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	Punc	_	11	punct	_	_
+5	quae	qui	PRON	F1|grn1|casA|gen2|vgr1|stPV	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|PronType=Rel	11	nsubj	_	_
+6	mundum	mundus	NOUN	B1|grn1|casD|gen1|stRS	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	11	obj	_	_
+7	hactenus	hactenus	ADJ	B1|grn1|casA|gen1|stAN	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	iugo	iugus	NOUN	C1|grn1|casA|gen2|vgr1|stRS	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	11	nsubj	_	_
+9	crudelissimae	crudelus	ADJ	A1|grn3|casB|gen2|stAN	Case=Gen|Degree=Sup|Gender=Fem|Number=Sing	10	amod	_	_
+10	deditionis	deditio	NOUN	C1|grn1|casB|gen2|vgr1|stAC	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	nmod	_	_
+11	oppresserat	oppressero	VERB	J3|modA|tem1|gen6|stAC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl	_	SpaceAfter=No
+12	,	,	PUNCT	Punc	_	11	punct	_	_
+13	populos	populus	NOUN	B1|grn1|casM|gen1|stRS	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	18	obj	_	_
+14	a	a	ADP	S4|vgr1|stRL	AdpType=Prep	15	case	_	_
+15	nexibus	nexus	ADJ	C1|grn1|casO|gen2|stAN	Case=Abl|Degree=Pos|Gender=Fem|Number=Plur	13	amod	_	_
+16	uiolentae	uiolenio	NOUN	A1|grn1|casB|gen2|vgr1|stRS	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	15	nmod	_	_
+17	condicionis	condicio	NOUN	C1|grn1|casB|gen2|stAN	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	16	nmod	_	_
+18	absoluit	absoluo	VERB	L3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+19	et	et	CCONJ	O4|stRL	_	20	cc	_	_
+20	fit	facio	VERB	N3|modJ|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	18	conj	_	_
+21	libertatis	libertas	NOUN	C1|grn1|casB|gen2|vgr1|stAM	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	22	nmod	_	_
+22	altrix	altrix	NOUN	C1|grn1|casA|gen2|stRS	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	20	nsubj:pass	_	_
+23	quae	qui	PRON	F1|grn1|casA|gen2|vgr1|stPV	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|PronType=Rel	24	nsubj	_	_
+24	mater	mater	NOUN	C1|grn1|casA|gen2|stRS	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	22	acl	_	_
+25	fuerat	sum	AUX	N3|modA|tem5|gen6|stAV	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	24	cop	_	_
+26	seruitutis	seruitus	NOUN	C1|grn1|casB|gen2|vgr1|stAN	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	24	nmod	_	SpaceAfter=No
+27	.	.	PUNCT	Punc	_	1	punct	_	_
+
+# sent_id = 15
+# text = in huius tibi, domine sanctissime, noctis ministerio hoc cereum lumen offerimus, per quod caligo uetusta pellatur, in quo species trino conpaginatae consortio societatis propemodum mysticae glutino coniunguntur, quarum ceram parauit nectareis partubus feta uirginitas, papyrum ad alimenta ignium lympha transmisit, lumen adhibetur e caelo.
+1	in	in	ADP	S4|stRL	AdpType=Prep	3	case	_	_
+2	huius	hic	PRON	F1|grn1|casB|gen1|vgr2|stPV	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|PronType=Dem	3	nmod	_	_
+3	tibi	tu	PRON	F1|grn1|casC|gen1|stPD	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|PronType=Prs	5	obl	_	SpaceAfter=No
+4	,	,	PUNCT	Punc	_	5	punct	_	_
+5	domine	dominus	NOUN	B1|grn1|casE|gen1|comH|stRS	Case=Voc|Degree=Pos|Gender=Masc|Number=Sing	13	obl	_	_
+6	sanctissime	sanctus	ADJ	B1|grn3|casG|stAN	Case=Loc|Degree=Sup|Number=Sing	13	obl	_	SpaceAfter=No
+7	,	,	PUNCT	Punc	_	8	punct	_	_
+8	noctis	noco	VERB	N2|modM|tem4|grp1|casO|gen3|stAV	Aspect=Perf|Case=Abl|Degree=Pos|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	13	advcl	_	_
+9	ministerio	ministerium	NOUN	B1|grn1|casF|gen3|stAE	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing	13	obl	_	_
+10	hoc	hic	PRON	F1|grn1|casD|gen3|stPV	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|PronType=Dem	13	obj	_	_
+11	cereum	cereus	DET	F1|grn1|casD|gen3|stPV	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	12	det	_	_
+12	lumen	lumen	NOUN	C1|grn1|casD|gen3|stRS	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	13	obj	_	_
+13	offerimus	offero	VERB	L3|modA|tem1|gen7|stAV	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+14	,	,	PUNCT	Punc	_	17	punct	_	_
+15	per	per	ADP	S4|stRL	AdpType=Prep	16	case	_	_
+16	quod	qui	PRON	F1|grn1|casD|gen3|stRL	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|PronType=Rel	17	obl	_	_
+17	caligo	caligo	VERB	L3|modA|tem1|gen4|stAV	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	19	ccomp	_	_
+18	uetusta	uetuso	PRON	F1|grn1|casM|gen3|stPD	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|PronType=Dem	17	obj	_	_
+19	pellatur	pello	VERB	J3|modJ|tem1|gen6|vgr1|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	13	conj	_	SpaceAfter=No
+20	,	,	PUNCT	Punc	_	31	punct	_	_
+21	in	in	ADP	S4|stRL	AdpType=Prep	22	case	_	_
+22	quo	qui	PRON	F1|grn1|casF|gen1|stPV	Case=Abl|Degree=Pos|Gender=Masc|Number=Sing|PronType=Rel	31	obl	_	_
+23	species	species	NOUN	E1|grn1|casA|gen2|stAN	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	31	nsubj:pass	_	_
+24	trino	trinus	NOUN	B1|grn1|casC|gen1|stAN	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	31	obl	_	_
+25	conpaginatae	conpagino	VERB	J2|modM|tem4|grp1|casC|gen2|stAV	Aspect=Perf|Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	24	acl	_	_
+26	consortio	consortium	NOUN	B1|grn1|casC|gen3|stAN	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	31	obj	_	_
+27	societatis	societas	NOUN	C1|grn1|casB|gen2|vgr1|stAM	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	26	nmod	_	_
+28	propemodum	propemodum	ADV	O4|stRL	_	31	advmod	_	_
+29	mysticae	mysticus	ADJ	A1|grn1|casC|gen2|stNP	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	30	amod	_	_
+30	glutino	glutinus	NOUN	B1|grn1|casC|gen1|stAN	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	31	obj	_	_
+31	coniunguntur	conjungo	VERB	L3|modJ|tem1|gen9|vgr2|stAV	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	13	acl	_	SpaceAfter=No
+32	,	,	PUNCT	Punc	_	35	punct	_	_
+33	quarum	qui	PRON	F1|grn1|casK|gen2|stPV	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|PronType=Rel	34	nmod	_	_
+34	ceram	cera	NOUN	A1|grn1|casD|gen2|stRS	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	35	obj	_	_
+35	parauit	parauo	VERB	L3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	conj	_	_
+36	nectareis	nectareus	ADJ	A1|grn1|casO|gen2|stAN	Case=Abl|Degree=Pos|Gender=Fem|Number=Plur	37	amod	_	_
+37	partubus	partus	NOUN	D1|grn1|casO|gen1|stAN	Case=Abl|Degree=Pos|Gender=Masc|Number=Plur	38	nsubj:pass	_	_
+38	feta	fetus	VERB	K2|modM|tem4|grp1|casF|gen2|stAV	Aspect=Perf|Case=Abl|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	49	advcl	_	_
+39	uirginitas	uirginitas	NOUN	C1|grn1|casA|gen2|stAN	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	49	nsubj:pass	_	SpaceAfter=No
+40	,	,	PUNCT	Punc	_	41	punct	_	_
+41	papyrum	papyrus	NOUN	B1|grn1|casD|gen1|vgr1|stAN	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	39	conj	_	_
+42	ad	ad	ADP	S4|stRL	AdpType=Prep	43	case	_	_
+43	alimenta	alimentus	NOUN	B1|grn1|casM|gen3|stAN	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	49	obj	_	_
+44	ignium	ignis	NOUN	B1|grn1|casD|gen3|stAN	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	43	nmod	_	_
+45	lympha	lympha	NOUN	G1|stAE	_	49	nmod	_	_
+46	transmisit	transmitto	VERB	L3|modA|tem4|gen6|stAV	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	49	advcl	_	SpaceAfter=No
+47	,	,	PUNCT	Punc	_	46	punct	_	_
+48	lumen	lumen	NOUN	C1|grn1|casA|gen3|stRS	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	49	nsubj:pass	_	_
+49	adhibetur	adhibeo	VERB	K3|modJ|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	35	acl	_	_
+50	e	e	ADP	S4|vgr1|stRL	AdpType=Prep	51	case	_	_
+51	caelo	caelum	NOUN	B1|grn1|casF|gen3|vgr1|stRS	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing	49	obl	_	SpaceAfter=No
+52	.	.	PUNCT	Punc	_	13	punct	_	_
+
+# sent_id = 16
+# text = nil hic habet uox humana quod consecret, ubi totum dirigit superna cognitio.
+1	nil	nil	PRON	G1|casA|gen3|vgr1|stRS	Case=Nom|Gender=Neut|Number=Sing|PronType=Neg	3	nsubj	_	_
+2	hic	hic	PRON	F1|grn1|casA|gen1|stPV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|PronType=Dem	1	nmod	_	_
+3	habet	habeo	VERB	K3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	uox	uox	NUM	G5	NumForm=Digit	3	obl	_	_
+5	humana	humanus	ADJ	A1|grn1|casA|gen2|stAN	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+6	quod	qui	SCONJ	O4|stRL	_	7	mark	_	_
+7	consecret	consecro	VERB	M3|modB|tem2|gen6|stAV	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	4	acl	_	SpaceAfter=No
+8	,	,	PUNCT	Punc	_	11	punct	_	_
+9	ubi	ubi	SCONJ	O4|stRL	_	11	mark	_	_
+10	totum	totus	PRON	F1|grn1|casA|gen3|stAN	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|PronType=Ind	9	nmod	_	_
+11	dirigit	dirigo	VERB	L3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	_
+12	superna	supernus	ADJ	A1|grn1|casA|gen2|stAN	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
+13	cognitio	cognitio	NOUN	C1|grn1|casA|gen2|vgr1|stAC	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	11	nsubj	_	SpaceAfter=No
+14	.	.	PUNCT	Punc	_	3	punct	_	_
+
+# sent_id = 17
+# text = agnoscit hic odorem suum salutiferae uirginis filius, ubi sine coitu nascitur quicquid offertur.
+1	agnoscit	agnosco	VERB	N3|modA|tem1|gen6|stAE	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	hic	hic	PRON	F1|grn1|casA|gen1|stPV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|PronType=Dem	3	nmod	_	_
+3	odorem	odor	NOUN	C1|grn1|casD|gen1|stRS	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	1	obj	_	_
+4	suum	suus	DET	B1|grn1|casD|gen1|stPV	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	5	det	_	_
+5	salutiferae	salutifera	NOUN	A1|grn1|casC|gen2|stRS	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	3	obj	_	_
+6	uirginis	uirgo	ADJ	B1|grn1|casL|gen1|stNP	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	5	amod	_	_
+7	filius	filius	NOUN	B1|grn1|casA|gen1|stRS	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	nsubj	_	SpaceAfter=No
+8	,	,	PUNCT	Punc	_	12	punct	_	_
+9	ubi	ubi	SCONJ	O4|stRL	_	12	mark	_	_
+10	sine	sine	ADP	S4|stRL	AdpType=Prep	11	case	_	_
+11	coitu	coitus	NOUN	D1|grn1|casF|gen1|stAM	Case=Abl|Degree=Pos|Gender=Masc|Number=Sing	12	obl	_	_
+12	nascitur	nascor	VERB	L3|modJ|tem1|gen6|stAC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	advcl	_	_
+13	quicquid	quisquis	PRON	F1|grn1|casA|gen3|vgr2|stPV	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|PronType=Ind,Rel	14	nsubj:pass	_	_
+14	offertur	offero	VERB	N3|modJ|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	ccomp	_	SpaceAfter=No
+15	.	.	PUNCT	Punc	_	1	punct	_	_
+
+# sent_id = 18
+# text = non enim hic turicremis Panchaeus adoletur ignis altaribus, non ad triste ministerium extremum mugiens bos percussa litabitur, non bidentum fetus carnificis potius quam sacerdotis mucro desecuit:
+1	non	non	ADV	O4|stRL	_	4	advmod	_	_
+2	enim	enim	ADV	O4|stRL	_	4	advmod	_	_
+3	hic	hic	PRON	F1|grn1|casA|gen1|stPV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|PronType=Dem	4	nmod	_	_
+4	turicremis	turicremus	PROPN	B1|grn1|casO|gen1|stNP	Case=Abl|Degree=Pos|Gender=Masc|Number=Plur	6	obl	_	_
+5	Panchaeus	panchaeus	PROPN	F1|grn1|casA|gen1|stNP	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	nsubj:pass	_	_
+6	adoletur	adolo	VERB	K3|modJ|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+7	ignis	ignis	NOUN	C1|grn1|casB|gen1|stRS	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	6	nmod	_	_
+8	altaribus	altarus	ADJ	C1|grn1|casO|gen1|stAN	Case=Abl|Degree=Pos|Gender=Masc|Number=Plur	7	amod	_	SpaceAfter=No
+9	,	,	PUNCT	Punc	_	10	punct	_	_
+10	non	non	ADV	O4|stRL	_	15	advmod	_	_
+11	ad	ad	ADP	S4|stRL	AdpType=Prep	10	case	_	_
+12	triste	triste	ADJ	C1|grn1|casD|gen3|vgr1|stAN	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+13	ministerium	ministerium	NOUN	B1|grn1|casD|gen3|stAE	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	15	obj	_	_
+14	extremum	exterior	ADJ	B1|grn3|casD|gen1|stAN	Case=Acc|Degree=Sup|Gender=Masc|Number=Sing	13	amod	_	_
+15	mugiens	mugio	VERB	M2|modD|tem1|grp1|casA|gen1|stAC	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	_
+16	bos	bos	NOUN	F1|grn1|casA|gen1|stRS	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	18	nsubj:pass	_	_
+17	percussa	percutto	VERB	L2	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	16	acl	_	_
+18	litabitur	litabo	VERB	J3|modJ|tem3|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	6	advcl	_	SpaceAfter=No
+19	,	,	PUNCT	Punc	_	18	punct	_	_
+20	non	non	ADV	O4|stRL	_	21	advmod	_	_
+21	bidentum	bidineo	NOUN	D1|grn1|casD|gen1|stAN	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	23	obj	_	_
+22	fetus	fetus	NOUN	D1|grn1|casA|gen1|vgr1|stAN	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	23	nsubj	_	_
+23	carnificis	carnifix	VERB	N3|modA|tem1|gen5|stAE	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	_
+24	potius	potior	ADJ	C1|grn2|casG|vgr1|stAN	Case=Loc|Degree=Cmp|Number=Sing	23	obl	_	_
+25	quam	quam	SCONJ	O4|stRL	_	28	mark	_	_
+26	sacerdotis	sacerdos	ADJ	B1|grn1|casO|gen3|stAC	Case=Abl|Degree=Pos|Gender=Neut|Number=Plur	27	amod	_	_
+27	mucro	mucrum	NOUN	B1|grn1|casF|gen3|vgr1|stRS	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing	28	obl	_	_
+28	desecuit	desecet	VERB	K3|modA|tem4|gen6|stAM	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	23	advcl	_	SpaceAfter=No
+29	:	:	PUNCT	Punc	_	6	punct	_	_
+
+# sent_id = 19
+# text = sufficit ad reparationem aeternitatis perditae, quod non a nobis sed pro nobis agnus occisus est.
+1	sufficit	sufficio	VERB	L3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	ad	ad	ADP	S4|stRL	AdpType=Prep	3	case	_	_
+3	reparationem	reparatio	NOUN	C1|grn1|casD|gen2|stAN	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	1	obj	_	_
+4	aeternitatis	aeternitas	NOUN	C1|grn1|casB|gen2|stAN	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	3	nmod	_	_
+5	perditae	perdo	VERB	K2|modM|tem4|grp1|casB|gen2|stAV	Aspect=Perf|Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	acl	_	SpaceAfter=No
+6	,	,	PUNCT	Punc	_	15	punct	_	_
+7	quod	quod	SCONJ	O4|stRL	_	15	mark	_	_
+8	non	non	ADV	O4|stRL	_	15	advmod	_	_
+9	a	a	ADP	S4|vgr1|stRL	AdpType=Prep	8	case	_	_
+10	nobis	ego	PRON	F1|grn1|casO|gen1|stPD	Case=Abl|Degree=Pos|Gender=Masc|Number=Plur|PronType=Prs	15	obl	_	_
+11	sed	sed	CCONJ	O4|vgr1|stRL	_	15	cc	_	_
+12	pro	pro	ADP	S4|stRL	AdpType=Prep	13	case	_	_
+13	nobis	ego	PRON	F1|grn1|casL|gen1|stPD	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|PronType=Prs	15	obl	_	_
+14	agnus	agnus	NOUN	B1|grn1|casA|gen1|stRS	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	15	nsubj	_	_
+15	occisus	occitor	NOUN	D1|grn1|casA|gen1|vgr1|stAC	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	csubj	_	_
+16	est	sum	AUX	N3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	cop	_	SpaceAfter=No
+17	.	.	PUNCT	Punc	_	1	punct	_	_
+
+# sent_id = 20
+# text = procul hinc aberit lanista Iudaicus, qui per cicatrices inguinum animas sibi adquisitas tot solet numerare quot uulnerat.
+1	procul	procul	ADV	O4|stRL	_	3	advmod	_	_
+2	hinc	hic	PRON	F1|grn1|casG|stPV	Case=Loc|Degree=Pos|Number=Sing|PronType=Dem	3	obl	_	_
+3	aberit	abero	VERB	M3|modB|tem4|gen6|stAV	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	lanista	lanista	PROPN	A1|grn1|casA|gen1|stNP	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	nmod	_	_
+5	Iudaicus	Iudaicus	NOUN	B1|grn1|casA|gen1|stRS	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	18	nsubj	_	SpaceAfter=No
+6	,	,	PUNCT	Punc	_	15	punct	_	_
+7	qui	qui	PRON	F1|grn1|casA|gen1|stPV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|PronType=Rel	15	nsubj	_	_
+8	per	per	ADP	S4|stRL	AdpType=Prep	9	case	_	_
+9	cicatrices	cicatrex	NOUN	C1|grn1|casM|gen1|stRS	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	15	obl	_	_
+10	inguinum	inguinus	ADJ	C1|grn1|casD|gen1|stRS	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	animas	anima	NOUN	F1|grn1|casM|gen2|stNV	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	15	obj	_	_
+12	sibi	sui	PRON	F1|grn1|casC|gen2|stPV	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|PronType=Prs|Reflex=Yes	13	obj	_	_
+13	adquisitas	adquisitas	VERB	L2|modM|tem4|grp1|casM|gen2|stAV	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	11	acl	_	_
+14	tot	tot	PRON	G1|stPV	PronType=Dem,Ind	15	obl	_	_
+15	solet	soleo	VERB	K3|modA|tem1|gen6|stAM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act	18	acl	_	_
+16	numerare	numero	VERB	J3|modH|tem1|stAV	Tense=Pres|VerbForm=Inf|Voice=Act	18	xcomp	_	_
+17	quot	quot	PRON	G1|stPV	PronType=Int,Rel	18	obj	_	_
+18	uulnerat	uulnero	VERB	J3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	SpaceAfter=No
+19	.	.	PUNCT	Punc	_	3	punct	_	_
+
+# sent_id = 21
+# text = Christi nostri libamina infucata simplicitate conplentur.
+1	Christi	christus	ADJ	B1|grn1|casB|gen1|stNP	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+2	nostri	noster	DET	B1|grn1|casB|gen1|stPV	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	3	det	_	_
+3	libamina	libamen	NOUN	A1|grn1|casF|gen2|vgr1|stRS	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	6	obl	_	_
+4	infucata	infuco	VERB	J2|modM|tem4|grp1|casF|gen2|stAE	Aspect=Perf|Case=Abl|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	5	acl	_	_
+5	simplicitate	simplicitas	NOUN	C1|grn1|casF|gen2|stAN	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	6	obl	_	_
+6	conplentur	conplo	VERB	J3|modK|tem1|gen9|stAV	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	Punc	_	6	punct	_	_
+
+# sent_id = 22
+# text = peragit dedicationem corporis nostri crux unda confessio.
+1	peragit	perago	VERB	L3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	dedicationem	dedicatio	NOUN	C1|grn1|casD|gen2|vgr1|stAM	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	1	obj	_	_
+3	corporis	corpus	NOUN	C1|grn1|casB|gen3|stRS	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	2	nmod	_	_
+4	nostri	noster	DET	B1|grn1|casB|gen3|stPV	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	3	det	_	_
+5	crux	crux	NOUN	C1|grn1|casA|gen2|stRS	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	nsubj	_	_
+6	unda	uo	ADJ	A1|grn1|casA|gen2	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|NumType=Ord	5	amod	_	_
+7	confessio	confessium	NOUN	C1|grn1|casA|gen2|stAN	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	1	nsubj	_	SpaceAfter=No
+8	.	.	PUNCT	Punc	_	1	punct	_	_
+
+# sent_id = 23
+# text = te ergo quaesumus, domine, ut sicut typico prisca mysterio ita renouanda agmina ducat haec columna trans gurgites:
+1	te	tu	PRON	F1|grn1|casD|gen1|stPD	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|PronType=Prs	3	obj	_	_
+2	ergo	ergo	ADV	O4|stRL	_	3	advmod	_	_
+3	quaesumus	quaesum	VERB	N3|modA|tem1|gen7|vgr1|stAM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	Punc	_	3	punct	_	_
+5	domine	dominus	NOUN	B1|grn1|casE|gen1|comH|stRS	Case=Voc|Degree=Pos|Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+6	,	,	PUNCT	Punc	_	9	punct	_	_
+7	ut	ut	SCONJ	O4|vgr1|stRL	_	9	mark	_	_
+8	sicut	sicut	SCONJ	O4|vgr1|stRL	_	9	mark	_	_
+9	typico	typico	VERB	N3|modA|tem1|gen4|stAE	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	_
+10	prisca	priscus	ADJ	A1|grn1|casF|gen2|stAE	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	mysterio	mysterium	NOUN	B1|grn1|casF|gen3|stAE	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing	9	obl	_	_
+12	ita	ita	ADV	O4|stRL	_	15	advmod	_	_
+13	renouanda	renouo	VERB	J2|modO|grp1|casA|gen2|stAM	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Gdv|Voice=Pass	14	ccomp	_	_
+14	agmina	agmen	NOUN	A1|grn1|casA|gen2|stRS	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	15	nsubj	_	_
+15	ducat	duco	VERB	N3|modB|tem1|gen6|stAV	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	_
+16	haec	hic	PRON	F1|grn1|casA|gen2|vgr1|stPV	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|PronType=Dem	17	nmod	_	_
+17	columna	columna	NOUN	A1|grn1|casA|gen2|stRS	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	15	nsubj	_	_
+18	trans	tro	VERB	J2|modD|tem1|grp1|casA|gen1|stAE	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	17	acl	_	_
+19	gurgites	gurges	NOUN	C1|grn1|casM|gen1|stRS	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	18	obj	_	SpaceAfter=No
+20	:	:	PUNCT	Punc	_	3	punct	_	_
+
+# sent_id = 24
+# text = aestuet et nobis semita praeparata per maria et sitiat callis puluerulentus in fluctibus.
+1	aestuet	aestuo	VERB	K3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	et	et	CCONJ	O4|stRL	_	5	cc	_	_
+3	nobis	ego	PRON	F1|grn1|casL|gen1|stPD	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|PronType=Prs	5	obj	_	SpacesAfter=\s\s\s\s
+4	semita	semo	ADJ	A1|grn1|casA|gen2|stAN	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	praeparata	praeparo	VERB	J2|modM|tem4|grp1|casA|gen2|stAV	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	conj	_	_
+6	per	per	ADP	S4|stRL	AdpType=Prep	11	mark	_	_
+7	maria	maria	PROPN	A1|grn1|casA|gen2|stNP	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	11	nsubj	_	_
+8	et	et	CCONJ	O4|stRL	_	9	cc	_	_
+9	sitiat	sitio	VERB	M3|modB|tem1|gen6|vgr1|stAC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	_
+10	callis	callis	PRON	F1|grn1|casL|gen1|stPD	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|PronType=Dem	7	nmod	_	_
+11	puluerulentus	puluerulentus	VERB	L2|modM|tem4|grp1|casA|gen1|stAV	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|VerbType=Mod|Voice=Pass	1	advcl	_	_
+12	in	in	ADP	S4|stRL	AdpType=Prep	13	case	_	_
+13	fluctibus	flucs	ADJ	C1|grn1|casO|gen3|stAN	Case=Abl|Degree=Pos|Gender=Neut|Number=Plur	11	obl	_	SpaceAfter=No
+14	.	.	PUNCT	Punc	_	1	punct	_	_
+
+# sent_id = 25
+# text = nil hic est, in quo discrepent antiqua nonis aut moderna ueteribus.
+1	nil	nil	PRON	G1|casA|gen3|vgr1|stRS	Case=Nom|Gender=Neut|Number=Sing|PronType=Neg	3	nsubj	_	_
+2	hic	hic	PRON	F1|grn1|casA|gen1|stPV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|PronType=Dem	1	nmod	_	_
+3	est	sum	VERB	N3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	Punc	_	7	punct	_	_
+5	in	in	ADP	S4|stRL	AdpType=Prep	6	case	_	_
+6	quo	qui	PRON	F1|grn1|casF|gen3|stPV	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing|PronType=Rel	7	obl	_	_
+7	discrepent	discrepo	VERB	K3|modA|tem1|gen9|stAV	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl	_	_
+8	antiqua	antiquus	ADJ	A1|grn1|casF|gen2|stAN	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	nonis	nonus	NOUN	C1|grn1|casB|gen2|stAC	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	obj	_	_
+10	aut	aut	CCONJ	O4|stRL	_	11	cc	_	_
+11	moderna	modernus	ADJ	A1|grn1|casF|gen2|stAN	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	9	conj	_	_
+12	ueteribus	ueteris	ADJ	C1|grn1|casO|gen2|stAN	Case=Abl|Degree=Pos|Gender=Fem|Number=Plur	9	amod	_	SpaceAfter=No
+13	.	.	PUNCT	Punc	_	3	punct	_	_
+
+# sent_id = 26
+# text = tu semper idem dominus et sacerdos meritis par prophetae es, ad cuius precatum fluenta siccentur, ut Hebraeus transeat, Aegyptius deprimatur et mersis in aqua corporibus sola sentiat culpa naufragium.
+1	tu	tu	PRON	F1|grn1|casA|gen1|stPD	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|PronType=Prs	4	nsubj	_	_
+2	semper	semper	ADV	O4|stRL	_	1	advmod	_	_
+3	idem	idem	PRON	F1|grn1|casA|gen1|vgr1|stPV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|PronType=Dem,Prs	1	nmod	_	_
+4	dominus	dominus	NOUN	B1|grn1|casA|gen1|stRS	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	_
+5	et	et	CCONJ	O4|stRL	_	6	cc	_	_
+6	sacerdos	sacerdos	NOUN	C1|grn1|casA|gen1|stRS	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	conj	_	_
+7	meritis	meritum	VERB	N3|modA|tem1|gen8|stAV	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl	_	_
+8	par	par	ADJ	C1|grn1|casA|gen1|stAN	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+9	prophetae	propheo	NOUN	A1|grn1|casB|gen1|vgr1|stRS	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	nmod	_	_
+10	es	sum	AUX	N3|modA|tem1|gen5|stAV	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	SpaceAfter=No
+11	,	,	PUNCT	Punc	_	16	punct	_	_
+12	ad	ad	ADP	S4|stRL	AdpType=Prep	15	case	_	_
+13	cuius	qui	PRON	F1|grn1|casB|gen3|vgr2|stPV	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|PronType=Rel	15	nmod	_	_
+14	precatum	precas	VERB	J2|modM|tem4|grp1|casD|gen3|stAE	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	15	acl	_	_
+15	fluenta	fluentum	NOUN	B1|grn1|casM|gen3|stRS	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	16	obl	_	_
+16	siccentur	sicco	VERB	J3|modK|tem1|gen9|stAV	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	23	advcl	_	SpaceAfter=No
+17	,	,	PUNCT	Punc	_	20	punct	_	_
+18	ut	ut	SCONJ	O4|vgr1|stRL	_	20	mark	_	_
+19	Hebraeus	Hebraeus	NOUN	C1|grn1|casA|gen2|stAN	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	20	nsubj	_	_
+20	transeat	transeo	VERB	N3|modB|tem1|gen6|stAV	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	advcl	_	SpaceAfter=No
+21	,	,	PUNCT	Punc	_	20	punct	_	_
+22	Aegyptius	Aegyptius	PROPN	B1|grn1|casA|gen1|stNP	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	23	nsubj:pass	_	_
+23	deprimatur	deprimo	VERB	J3|modJ|tem1|gen6|vgr1|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	conj	_	_
+24	et	et	CCONJ	O4|stRL	_	25	cc	_	_
+25	mersis	mersus	ADJ	A1|grn1|casO|gen2|vgr1|stAN	Case=Abl|Degree=Pos|Gender=Fem|Number=Plur	27	conj	_	_
+26	in	in	ADP	S4|stRL	AdpType=Prep	27	case	_	_
+27	aqua	aqua	NOUN	A1|grn1|casF|gen2|stRS	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	23	obl	_	_
+28	corporibus	corpus	NOUN	C1|grn1|casO|gen3|stRS	Case=Abl|Degree=Pos|Gender=Neut|Number=Plur	30	obj	_	_
+29	sola	solus	ADJ	F1|grn1|casA|gen2|stAN	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	28	amod	_	_
+30	sentiat	sentio	VERB	M3|modB|tem1|gen6|vgr1|stAC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	acl	_	_
+31	culpa	culpa	NOUN	A1|grn1|casA|gen2|stAM	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	30	nsubj	_	_
+32	naufragium	naufragium	NOUN	B1|grn1|casA|gen3|stAN	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	31	nmod	_	SpaceAfter=No
+33	.	.	PUNCT	Punc	_	4	punct	_	_
+
+# sent_id = 27
+# text = hoc autem tibi, domine, castae operatricis munus et hanc intactae matris sobolem commendamus, per quam meretur habere terra quod caeli est, quae per domos cereas diuino stipant mella conpendio, quibus causa est numerosae progenies nescisse coniugium, ne, dum copularum nexibus occupantur, laborandi tempus effugiat et expectent ut prolem suam turgida aluus effundat.
+1	hoc	hic	PRON	F1|grn1|casA|gen3|stPV	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|PronType=Dem	8	nsubj	_	_
+2	autem	autem	CCONJ	O4|stRL	_	3	cc	_	_
+3	tibi	tu	PRON	F1|grn1|casC|gen1|stPD	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|PronType=Prs	1	conj	_	SpaceAfter=No
+4	,	,	PUNCT	Punc	_	5	punct	_	_
+5	domine	dominus	NOUN	B1|grn1|casE|gen1|comH|stRS	Case=Voc|Degree=Pos|Gender=Masc|Number=Sing	1	conj	_	SpaceAfter=No
+6	,	,	PUNCT	Punc	_	5	punct	_	_
+7	castae	casta	NOUN	A1|grn1|casJ|gen1|stRS	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	8	nsubj	_	_
+8	operatricis	operatrix	VERB	N3|modA|tem1|gen5|stAE	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	munus	munus	NUM	F1|grn1|casA|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|NumType=Card	8	obj	_	_
+10	et	et	CCONJ	O4|stRL	_	15	cc	_	_
+11	hanc	hic	PRON	F1|grn1|casD|gen2|stPV	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|PronType=Dem	15	obj	_	_
+12	intactae	intactus	VERB	N2|modM|tem4|grp1|casB|gen2|stAV	Aspect=Perf|Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	13	acl	_	_
+13	matris	mater	NOUN	C1|grn1|casB|gen2|stRS	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	nmod	_	_
+14	sobolem	sobolis	ADJ	C1|grn1|casD|gen2|stAN	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+15	commendamus	commendo	VERB	L3|modB|tem1|gen7|stAC	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	SpaceAfter=No
+16	,	,	PUNCT	Punc	_	19	punct	_	_
+17	per	per	ADP	S4|stRL	AdpType=Prep	18	case	_	_
+18	quam	qui	PRON	F1|grn1|casD|gen2|stRL	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|PronType=Rel	19	obl	_	_
+19	meretur	mereo	VERB	K3|modJ|tem1|gen6|stAM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	9	acl	_	_
+20	habere	habeo	VERB	K3|modH|tem1|stAV	Tense=Pres|VerbForm=Inf|Voice=Act	19	xcomp	_	_
+21	terra	terra	NOUN	A1|grn1|casA|gen2|stRS	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	20	nsubj	_	_
+22	quod	qui	PRON	F1|grn1|casA|gen3|stRL	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|PronType=Rel	21	acl	_	_
+23	caeli	caelum	NOUN	B1|grn1|casB|gen3|vgr1|stRS	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	22	nmod	_	_
+24	est	sum	AUX	N3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	cop	_	SpaceAfter=No
+25	,	,	PUNCT	Punc	_	31	punct	_	_
+26	quae	qui	PRON	F1|grn1|casA|gen2|vgr1|stPV	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|PronType=Rel	31	nsubj	_	_
+27	per	per	ADP	S4|stRL	AdpType=Prep	28	case	_	_
+28	domos	domus	NOUN	F1|grn1|casM|gen2|stRS	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	31	obl	_	_
+29	cereas	cereus	NOUN	A1|grn1|casM|gen2|stRS	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	31	obj	_	_
+30	diuino	diuino	ADJ	B1|grn1|casC|gen3|vgr1|stAM	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	29	amod	_	_
+31	stipant	stipo	VERB	J3|modA|tem1|gen9|stAV	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	acl	_	_
+32	mella	mellum	NOUN	B1|grn1|casJ|gen3|stAM	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	31	nsubj	_	_
+33	conpendio	conpendium	ADJ	B1|grn1|casC|gen3|stAN	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	32	amod	_	SpaceAfter=No
+34	,	,	PUNCT	Punc	_	52	punct	_	_
+35	quibus	qui	PRON	F1|grn1|casL|gen2|stPV	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur|PronType=Rel	40	obj	_	_
+36	causa	causa	NOUN	A1|grn1|casA|gen2|vgr1|stAN	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	40	nsubj	_	_
+37	est	sum	AUX	N3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	36	cop	_	_
+38	numerosae	numerodo	VERB	L2|modM|tem4|grp1|casJ|gen2|stAC	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	39	acl	_	_
+39	progenies	progenies	NOUN	E1|grn1|casJ|gen2|stAN	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	40	nsubj	_	_
+40	nescisse	nescio	VERB	L3|modH|tem4|stAV	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	52	ccomp	_	_
+41	coniugium	coniugium	NOUN	B1|grn1|casD|gen3|stAN	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	40	obj	_	SpaceAfter=No
+42	,	,	PUNCT	Punc	_	52	punct	_	_
+43	ne	ne	SCONJ	O4|stRL	_	52	mark	_	SpaceAfter=No
+44	,	,	PUNCT	Punc	_	48	punct	_	_
+45	dum	dum	SCONJ	O4|stRL	_	48	mark	_	_
+46	copularum	copula	NOUN	A1|grn1|casK|gen2|stRS	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	48	obj	_	_
+47	nexibus	nexus	ADJ	C1|grn1|casO|gen2|stAN	Case=Abl|Degree=Pos|Gender=Fem|Number=Plur	46	amod	_	_
+48	occupantur	occupo	VERB	J3|modJ|tem1|gen9|stAV	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	52	advcl	_	SpaceAfter=No
+49	,	,	PUNCT	Punc	_	48	punct	_	_
+50	laborandi	laboro	VERB	J2|modE|grp1|casB|stAE	Case=Gen|Degree=Pos|Number=Sing|VerbForm=Ger|Voice=Act	51	acl	_	_
+51	tempus	tempus	NOUN	C1|grn1|casA|gen3|stAN	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	52	nsubj	_	_
+52	effugiat	effugio	VERB	M3|modB|tem1|gen6|stAV	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	32	acl	_	_
+53	et	et	CCONJ	O4|stRL	_	54	cc	_	_
+54	expectent	expecto	VERB	K3|modA|tem1|gen9|stAV	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	52	conj	_	_
+55	ut	ut	SCONJ	O4|vgr1|stRL	_	60	mark	_	_
+56	prolem	prolis	ADJ	C1|grn1|casD|gen2|stAN	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	59	amod	_	_
+57	suam	suus	DET	A1|grn1|casD|gen2|stPV	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	56	det	_	_
+58	turgida	turgidus	ADJ	A1|grn1|casA|gen2|stAN	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	59	amod	_	_
+59	aluus	aluus	NOUN	B1|grn1|casA|gen1|vgr1|stRS	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	60	nsubj	_	_
+60	effundat	effundo	VERB	L3|modB|tem1|gen6|stAV	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	52	advcl	_	SpaceAfter=No
+61	.	.	PUNCT	Punc	_	8	punct	_	_
+
+# sent_id = 28
+# text = quam herbarum lucro diligentius possunt ore profligare quam semine.
+1	quam	quam	PRON	F1|grn1|casD|gen2|stRL	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|PronType=Rel	4	obj	_	_
+2	herbarum	herbe	NOUN	A1|grn1|casK|gen2|stRS	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	3	nmod	_	_
+3	lucro	lucer	NOUN	B1|grn1|casF|gen3|vgr1|stRS	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing	4	obl	_	_
+4	diligentius	diligo	VERB	K2|modD|tem1|grp2|casA|gen3|stAV	Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	csubj	_	_
+5	possunt	possum	VERB	N3|modA|tem1|gen9|stAV	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act	0	root	_	_
+6	ore	os^oris	NOUN	C1|grn1|casF|gen3|stRS	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing	7	obl	_	_
+7	profligare	profligo	VERB	J3|modH|tem1|stAV	Tense=Pres|VerbForm=Inf|Voice=Act	5	xcomp	_	_
+8	quam	quam	SCONJ	O4|stRL	_	9	mark	_	_
+9	semine	semen	NOUN	C1|grn1|casF|gen3|comH|stRS	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing	5	dep	_	SpaceAfter=No
+10	.	.	PUNCT	Punc	_	5	punct	_	_
+
+# sent_id = 29
+# text = in huius autem cerei luminis corpore te, domine, postulamus, ut supernae benedictionis munus adcommodes et, si quis hinc sumpserit aduersus flabra uentorum, aduersus spiritus procellarum tua iussa faciens, sit illi singulare perfugium, sit murus ab hoste fidelibus.
+1	in	in	ADP	S4|stRL	AdpType=Prep	6	case	_	_
+2	huius	hic	PRON	F1|grn1|casB|gen3|vgr2|stPV	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|PronType=Dem	5	nmod	_	_
+3	autem	autem	CCONJ	O4|stRL	_	2	cc	_	_
+4	cerei	cereus	ADJ	B1|grn1|casB|gen3|stAN	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+5	luminis	lumen	NOUN	C1|grn1|casB|gen3|stRS	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	6	nmod	_	_
+6	corpore	corpus	NOUN	C1|grn1|casF|gen3|stRS	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing	11	obl	_	_
+7	te	o	PRON	F1|grn1|casF|gen1|stPD	Case=Abl|Degree=Pos|Gender=Masc|Number=Sing|PronType=Prs	9	conj	_	SpaceAfter=No
+8	,	,	PUNCT	Punc	_	7	punct	_	_
+9	domine	dominus	NOUN	B1|grn1|casE|gen1|comH|stRS	Case=Voc|Degree=Pos|Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
+10	,	,	PUNCT	Punc	_	9	punct	_	_
+11	postulamus	postulo	VERB	L3|modB|tem1|gen7|stAC	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+12	,	,	PUNCT	Punc	_	17	punct	_	_
+13	ut	ut	SCONJ	O4|vgr1|stRL	_	17	mark	_	_
+14	supernae	supernus	NOUN	A1|grn1|casB|gen2|stRS	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	17	nmod	_	_
+15	benedictionis	benedictio	NOUN	C1|grn1|casB|gen1|stRS	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	14	nmod	_	_
+16	munus	munus	NUM	F1|grn1|casA|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|NumType=Card	17	nummod	_	_
+17	adcommodes	adcommodo	NOUN	C1|grn1|casJ|gen1|stRS	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	11	dep	_	_
+18	et	et	CCONJ	O4|stRL	_	41	cc	_	SpaceAfter=No
+19	,	,	PUNCT	Punc	_	41	punct	_	_
+20	si	si	SCONJ	O4|stRL	_	41	mark	_	_
+21	quis	qui	PRON	F1|grn1|casA|gen1|varA|stPV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|PronType=Ind,Int	41	nsubj	_	_
+22	hinc	hic	PRON	F1|grn1|casG|stPV	Case=Loc|Degree=Pos|Number=Sing|PronType=Dem	23	obl	_	_
+23	sumpserit	sumpsero	VERB	M3|modB|tem4|gen6|stAV	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	41	advcl	_	_
+24	aduersus	aduersus	VERB	L2|modM|tem4|grp1|casA|gen1|stAV	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	28	acl	_	_
+25	flabra	flabrum	ADP	S4|stRL	AdpType=Prep	26	case	_	_
+26	uentorum	ueno	NOUN	B1|grn1|casK|gen3|stAN	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	24	nmod	_	SpaceAfter=No
+27	,	,	PUNCT	Punc	_	24	punct	_	_
+28	aduersus	aduersus	VERB	L2|modM|tem4|grp1|casA|gen1|stAV	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	32	acl	_	_
+29	spiritus	spiritus	NOUN	D1|grn1|casB|gen1|stRS	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	28	obj	_	_
+30	procellarum	procella	NOUN	A1|grn1|casK|gen2|stRS	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	29	nmod	_	_
+31	tua	tuus	DET	B1|grn1|casJ|gen3|stPV	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Poss=Yes|PronType=Prs	29	det	_	_
+32	iussa	iussus	NOUN	C1|grn1|casJ|gen3|stRS	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	41	nsubj	_	_
+33	faciens	facio	VERB	N2|modD|tem1|grp1|casA|gen3|stAV	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	41	advcl	_	SpaceAfter=No
+34	,	,	PUNCT	Punc	_	33	punct	_	_
+35	sit	sum	AUX	N3|modB|tem1|gen6|stAV	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	33	cop	_	_
+36	illi	ille	PRON	F1|grn1|casC|gen3|stPD	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|PronType=Dem	37	obj	_	_
+37	singulare	singularis	ADJ	C1|grn1|casA|gen3|stAN	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	38	amod	_	_
+38	perfugium	perfugium	NOUN	B1|grn1|casA|gen3|stAN	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	33	nsubj	_	SpaceAfter=No
+39	,	,	PUNCT	Punc	_	33	punct	_	_
+40	sit	sum	AUX	N3|modB|tem1|gen6|stAV	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	41	cop	_	_
+41	murus	murus	ADJ	B1|grn1|casA|gen1|stAN	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	17	conj	_	_
+42	ab	a	ADP	S4|vgr2|stRL	AdpType=Prep	44	case	_	_
+43	hoste	hoste	PRON	F1|grn1|casA|gen1|stPD	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|PronType=Dem	44	nmod	_	_
+44	fidelibus	fidelis	ADJ	C1|grn1|casO|gen3|stAN	Case=Abl|Degree=Pos|Gender=Neut|Number=Plur	41	obj	_	SpaceAfter=No
+45	.	.	PUNCT	Punc	_	11	punct	_	_
+
+# sent_id = 30
+# text = simul etiam quaesumus te, at, quia ad uernantis anni faciem passionis ae resurresctionis tuae tempus aptasti, cum post concretas hiemali torpore glebas et infrenata glacie flumina nouellas frondium tunicas gemma conscindit et cum auctore germinum domino nobis omnia reuiuiscunt:
+1	simul	simul	ADV	O4|stRL	_	3	advmod	_	_
+2	etiam	etiam	ADV	O4|vgr1|stRL	_	3	advmod:emph	_	_
+3	quaesumus	quaesum	VERB	N3|modA|tem1|gen7|vgr1|stAM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act	6	advcl	_	_
+4	te	tu	PRON	F1|grn1|casD|gen1|stPD	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|PronType=Prs	3	obj	_	SpaceAfter=No
+5	,	,	PUNCT	Punc	_	3	punct	_	_
+6	at	t	VERB	L3|modB|tem1|gen6|stAV	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	Punc	_	42	punct	_	_
+8	quia	quia	SCONJ	O4|stRL	_	42	mark	_	_
+9	ad	ad	ADP	S4|stRL	AdpType=Prep	12	case	_	_
+10	uernantis	uerno	VERB	J2|modD|tem1|grp1|casB|gen1|stAV	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	11	acl	_	_
+11	anni	an	PROPN	B1|grn1|casB|gen1|stNP	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	12	nmod	_	_
+12	faciem	facies	NOUN	E1|grn1|casD|gen2|stRS	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	17	nmod	_	_
+13	passionis	passio	NOUN	C1|grn1|casB|gen2|stAN	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	12	nmod	_	_
+14	ae	a	NOUN	A1|grn1|casB|gen2|stRS	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	13	nmod	_	_
+15	resurresctionis	resurresctio	NOUN	C1|grn1|casB|gen2|stAN	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	14	nmod	_	_
+16	tuae	tuus	DET	A1|grn1|casB|gen2|vgr1|stPV	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	15	det	_	_
+17	tempus	tempus	NOUN	C1|grn1|casD|gen3|stAN	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	18	obj	_	_
+18	aptasti	apto	VERB	J3|modA|tem4|gen5|stAC	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	42	csubj	_	SpaceAfter=No
+19	,	,	PUNCT	Punc	_	32	punct	_	_
+20	cum	cum	SCONJ	S4|vgr1|stRL	_	32	mark	_	_
+21	post	post	ADP	S4|stRL	AdpType=Prep	22	case	_	_
+22	concretas	concretas	NOUN	C1|grn1|casA|gen2|stAM	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	32	obl	_	_
+23	hiemali	hiemalis	ADJ	C1|grn1|casF|gen2|stAN	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	24	amod	_	_
+24	torpore	torpus	NOUN	C1|grn1|casF|gen1|stAN	Case=Abl|Degree=Pos|Gender=Masc|Number=Sing	32	obl	_	_
+25	glebas	gleba	ADJ	A1|grn1|casM|gen2|stAN	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	24	amod	_	_
+26	et	et	CCONJ	O4|stRL	_	27	cc	_	_
+27	infrenata	infreno	ADJ	A1|grn1|casA|gen2|stAN	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	25	conj	_	_
+28	glacie	glacies	NOUN	E1|grn1|casF|gen2|stRS	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	32	obl	_	_
+29	flumina	flumen	NOUN	A1|grn1|casF|gen2|vgr1|stRS	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	32	obl	_	_
+30	nouellas	nouellus	PRON	F1|grn1|casM|gen2|stPV	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|PronType=Ind	29	nmod	_	_
+31	frondium	frondius	NOUN	B1|grn1|casD|gen3|stAM	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	32	obj	_	_
+32	tunicas	tunico	VERB	J3|modA|tem1|gen5|vgr1|stAE	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	34	advcl	_	_
+33	gemma	gemma	ADJ	B1|grn1|casM|gen3|stAN	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	32	amod	_	_
+34	conscindit	conscindo	VERB	L3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	conj	_	_
+35	et	et	CCONJ	O4|stRL	_	37	cc	_	_
+36	cum	cum	ADP	S4|vgr1|stRL	AdpType=Prep	37	case	_	_
+37	auctore	auctor	NOUN	C1|grn1|casF|gen1|stRS	Case=Abl|Degree=Pos|Gender=Masc|Number=Sing	42	obl	_	_
+38	germinum	germen	NOUN	B1|grn1|casD|gen1|stAN	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	37	nmod	_	_
+39	domino	dominus	NOUN	B1|grn1|casC|gen1|stRS	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	38	nmod	_	_
+40	nobis	ego	PRON	F1|grn1|casL|gen1|stPD	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|PronType=Prs	42	obj	_	_
+41	omnia	omnis	DET	C1|grn1|casJ|gen3|stPV	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|PronType=Ind	40	det	_	_
+42	reuiuiscunt	reuiuisco	VERB	L3|modA|tem1|gen9|stAM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	SpaceAfter=No
+43	:	:	PUNCT	Punc	_	6	punct	_	_
+
+# sent_id = 31
+# text = da multiplices fructus in terris, nostrum effice quod ostendis et sacerdotis nostri uel totius cleri eius incolumitate seruata ubertatem temporum sine aduersa tempestate concede
+1	da	dus	ADJ	A1|grn1|casA|gen2|stAN	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+2	multiplices	multiplex	ADJ	C1|grn1|casJ|gen2|stAN	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	3	amod	_	_
+3	fructus	fructus	NOUN	D1|grn1|casA|gen1|stRS	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	25	nsubj	_	_
+4	in	in	ADP	S4|stRL	AdpType=Prep	5	case	_	_
+5	terris	terra	NOUN	C1|grn1|casB|gen1|stRS	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	Punc	_	8	punct	_	_
+7	nostrum	noster	DET	B1|grn1|casK|gen1|stPV	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	8	det	_	SpacesAfter=\s\s
+8	effice	efficus	NOUN	C1|grn1|casF|gen1|vgr1|stRS	Case=Abl|Degree=Pos|Gender=Masc|Number=Sing	3	conj	_	_
+9	quod	qui	SCONJ	O4|stRL	_	19	mark	_	_
+10	ostendis	ostendo	VERB	L2|modO|grp1|casO|gen3|stAV	Case=Abl|Degree=Pos|Gender=Neut|Number=Plur|VerbForm=Gdv|Voice=Pass	19	acl	_	_
+11	et	et	CCONJ	O4|stRL	_	12	cc	_	_
+12	sacerdotis	sacerdos	NOUN	C1|grn1|casB|gen1|stRS	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	10	conj	_	_
+13	nostri	noster	DET	B1|grn1|casB|gen1|stPV	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	14	det	_	_
+14	uel	uel	PROPN	C1|grn1|casB|gen1|stNP	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	19	obj	_	_
+15	totius	totus	PRON	F1|grn1|casB|gen1|vgr1|stAN	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|PronType=Ind	14	nmod	_	_
+16	cleri	cler	AUX	K3|modQ|tem1|stAE	Tense=Pres|VerbForm=Inf|Voice=Pass	19	cop	_	_
+17	eius	is	PRON	F1|grn1|casB|gen1|vgr2|stPV	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|PronType=Dem,Prs	18	nmod	_	_
+18	incolumitate	incolumitas	PROPN	C1|grn1|casF|gen2|stNP	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	19	obl	_	_
+19	seruata	seruo	VERB	J2|modM|tem4|grp1|casA|gen2|stAV	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	8	acl	_	_
+20	ubertatem	ubertas	NOUN	C1|grn1|casD|gen2|stAN	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	19	obj	_	_
+21	temporum	tempus	NOUN	C1|grn1|casK|gen3|stAN	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	20	nmod	_	_
+22	sine	sine	ADP	S4|stRL	AdpType=Prep	24	case	_	_
+23	aduersa	aduersa	VERB	L2|modM|tem4|grp1|casM|gen3|stAC	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	24	acl	_	_
+24	tempestate	tempestas	NOUN	C1|grn1|casF|gen2|stAN	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	19	obl	_	_
+25	concede	concedeo	NOUN	C1|grn1|casF|gen3|stRS	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\s\s\s\n
+

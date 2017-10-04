@@ -1,0 +1,151 @@
+# newdoc id = /Users/mycomputer/Documents/ud-pipe/latin/02-extractTextDirectlyForProiel-CSEL/phi9500.phi035.opp-lat1.xml
+# newpar
+# sent_id = 1
+# text = EPITAPHIVM ENNODII
+1	EPITAPHIVM	Epitaphivs	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	0	root	_	SpacesBefore=\s\s\s\s
+2	ENNODII	Ennodius	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	SpacesAfter=\s\s\s
+
+# sent_id = 2
+# text = Ennodius uates lucis rediturus in ortum
+1	Ennodius	Ennodius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+2	uates	uas	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	4	obj:dir	_	_
+3	lucis	lux	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+4	rediturus	redeo	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Act	0	root	_	_
+5	in	in	ADP	R-	_	6	case	_	_
+6	ortum	ortus	VERB	V-	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	obl	_	SpacesAfter=\s\s
+
+# sent_id = 3
+# text = Hoc posuit tumulo corporis exuuias Clarus prole quidem generosior ipse propinquis
+1	Hoc	hic	ADJ	Pd	Case=Abl|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	posuit	pono	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	advcl	_	_
+3	tumulo	tumulus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	5	obl	_	_
+4	corporis	corpus	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+5	exuuias	exuuio	VERB	V-	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\s\s
+6	Clarus	Clarus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
+7	prole	prole	INTJ	I-	_	11	advmod	_	_
+8	quidem	quidem	ADV	Df	_	7	discourse	_	_
+9	generosior	generosus	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	11	advmod	_	_
+10	ipse	ipse	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+11	propinquis	propinquus	ADJ	Px	Case=Nom|Gender=Masc|Number=Sing	5	advcl	_	SpacesAfter=\s\s
+
+# sent_id = 4
+# text = Quos functus laudum iussit habere diem
+1	Quos	qui	PRON	Pr	Case=Acc|Gender=Masc|Number=Plur|PronType=Rel	2	obj:dir	_	_
+2	functus	funco	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	advcl	_	_
+3	laudum	laus#1	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	1	nmod	_	_
+4	iussit	iubeo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	habere	habeo	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	ccomp	_	_
+6	diem	dies	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj:dir	_	SpacesAfter=\s\s
+
+# sent_id = 5
+# text = Reddidit hos caelo uiuacibus ille figuris
+1	Reddidit	reddo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	hos	hic	ADJ	Pd	Case=Acc|Gender=Masc|Number=Plur	1	obj:dir	_	_
+3	caelo	caelum	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	obl	_	_
+4	uiuacibus	uiuac	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	1	iobj	_	_
+5	ille	ille	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	_
+6	figuris	figuris	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	4	conj	_	SpacesAfter=\s\s
+
+# sent_id = 6
+# text = Cum fecit famae uiuere conloquiis
+1	Cum	cum	SCONJ	G-	_	2	mark	_	_
+2	fecit	facio	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	famae	fama	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	4	iobj	_	_
+4	uiuere	uiuo	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	_
+5	conloquiis	conloquius	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	4	iobj	_	SpacesAfter=\s\s
+
+# sent_id = 7
+# text = Quid mirum si morte caret post busta superstes
+1	Quid	quis	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	8	obj:dir	_	_
+2	mirum	mirus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	8	advmod	_	_
+3	si	si	SCONJ	G-	_	5	mark	_	_
+4	morte	mors	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	5	iobj	_	_
+5	caret	careo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	_
+6	post	post	ADP	R-	_	7	case	_	_
+7	busta	busta	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	8	obl	_	_
+8	superstes	supersto	VERB	V-	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\s\s
+
+# sent_id = 8
+# text = Qui consanguineos restituit superis
+1	Qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	3	nsubj	_	_
+2	consanguineos	consanguineus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	3	obj:dir	_	_
+3	restituit	restituo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	ccomp	_	_
+4	superis	supor	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpacesAfter=\s\s\s
+
+# sent_id = 9
+# text = Quantus iste foret mundi celebratur in Qui Nec silet occidui cardinis oceanus Scismata coniunxit dudum discordia legi
+1	Quantus	quantus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	iste	iste	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	1	det	_	_
+3	foret	foreo	VERB	V-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	advcl	_	_
+4	mundi	mundus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+5	celebratur	celebro	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	14	advcl	_	_
+6	in	in	ADP	R-	_	7	case	_	_
+7	Qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	14	obl	_	SpacesAfter=\s\s
+8	Nec	neque	SCONJ	G-	_	9	mark	_	_
+9	silet	sileo	VERB	V-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	advcl	_	_
+10	occidui	occiduo	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	9	iobj	_	_
+11	cardinis	cardo	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+12	oceanus	oceanus	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	SpacesAfter=\s\s
+13	Scismata	Scisma	VERB	V-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	12	acl	_	_
+14	coniunxit	coniungo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+15	dudum	dudus	ADV	Df	_	14	advmod	_	_
+16	discordia	discordia	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	_
+17	legi	lego	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	16	nmod	_	SpacesAfter=\s\s
+
+# sent_id = 10
+# text = Atque fidem Petri reddidit ecclesiis Pollens eloquio doctrinae nobilis arte Restituit Christo innumeros populos Largus uel sapiens dispensatorque benignus Diuitias credens quas dedit esse suas
+1	Atque	atque	CCONJ	C-	_	4	cc	_	_
+2	fidem	fides	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obj:dir	_	_
+3	Petri	Petrus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	reddidit	reddo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	advcl	_	_
+5	ecclesiis	ecclesia	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	4	iobj	_	SpacesAfter=\s\s
+6	Pollens	Pollens	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	11	advcl	_	_
+7	eloquio	eloquium	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+8	doctrinae	doctrina	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+9	nobilis	nobilis	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+10	arte	ars	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	11	obl	_	SpacesAfter=\s\s
+11	Restituit	Restituo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+12	Christo	Christus	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	11	iobj	_	_
+13	innumeros	innumerus	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	14	amod	_	_
+14	populos	populus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	21	obj:dir	_	SpacesAfter=\s\s
+15	Largus	Largus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	14	appos	_	_
+16	uel	uel	CCONJ	C-	_	15	cc	_	_
+17	sapiens	sapio	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	15	conj	_	_
+18	dispensatorque	dispensatorque	CCONJ	C-	_	15	cc	_	_
+19	benignus	benignus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	15	conj	_	SpacesAfter=\s\s
+20	Diuitias	Diuitias	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	15	conj	_	_
+21	credens	credo	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	11	advcl	_	_
+22	quas	qui	PRON	Pr	Case=Acc|Gender=Fem|Number=Plur|PronType=Rel	23	obj:dir	_	_
+23	dedit	do	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	acl	_	_
+24	esse	sum	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	25	cop	_	_
+25	suas	suus	ADJ	Pt	Case=Acc|Gender=Fem|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	23	ccomp	_	SpacesAfter=\s\s
+
+# sent_id = 11
+# text = Templa deo faciens hymnis decorauit et auro
+1	Templa	Templa	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+2	deo	deus	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	3	iobj	_	_
+3	faciens	facio	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	advcl	_	_
+4	hymnis	hymnus	DET	Px	Case=Nom|Gender=Fem,Masc|Number=Sing	5	det	_	_
+5	decorauit	decoraeo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	et	et	CCONJ	C-	_	5	cc	_	_
+7	auro	aurum	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	5	conj	_	SpacesAfter=\s\s
+
+# sent_id = 12
+# text = Et paries functi dogmata nunc loquitur Depositus sub d XVI kal augustas Valerio V C consul
+1	Et	et	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	paries	paries	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	1	vocative	_	_
+3	functi	fungor	ADJ	A-	Case=Voc|Degree=Pos|Gender=Masc|Number=Plur	4	amod	_	_
+4	dogmata	dogma	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	6	obj:dir	_	_
+5	nunc	nunc	ADV	Df	_	6	advmod	_	_
+6	loquitur	loquor	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	parataxis	_	SpacesAfter=\s\s
+7	Depositus	Depositus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	12	nsubj	_	_
+8	sub	sub	ADP	R-	_	9	case	_	_
+9	d	expression	ADV	Df	_	12	advmod	_	_
+10	XVI	xvi	ADV	Df	_	12	advmod	_	_
+11	kal	kal	ADP	R-	_	12	case	_	_
+12	augustas	augustas	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	1	obj:dir	_	SpacesAfter=\s\s
+13	Valerio	Valerius	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	16	iobj	_	_
+14	V	v	ADV	Df	_	16	advmod	_	_
+15	C	c	PROPN	Ne	_	16	obl	_	_
+16	consul	consul	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	12	conj	_	SpacesAfter=\s\s\s\s\s\s\s\s\n
+

@@ -1,0 +1,1494 @@
+# newdoc id = /Users/mycomputer/Documents/ud-pipe/latin/02-extractTextDirectlyForProiel-CSEL/stoa0292p.stoa001.opp-lat1.xml
+# newpar
+# sent_id = 1
+# text = I
+1	I	is	ADV	Df	_	0	root	_	SpacesBefore=\s\s\s\s|SpaceAfter=No
+
+# sent_id = 2
+# text = NCERTI AUOTORIS PASSIO
+1	NCERTI	NCERTI	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	AUOTORIS	Auotor	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+3	PASSIO	Passius	PROPN	Ne	Case=Abl|Gender=Neut|Number=Sing	0	root	_	_
+
+# sent_id = 3
+# text = SEPTEM MONACHORUM
+1	SEPTEM	septem	PROPN	Ne	Case=Acc|Gender=Fem|Number=Plur	0	root	_	_
+2	MONACHORUM	Monachus	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	1	amod	_	SpacesAfter=\s\s\s\s
+
+# sent_id = 4
+# text = PASSIO BEATISSIMORUM MARTVRUM QVI APUD
+1	PASSIO	Passius	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	0	root	_	_
+2	BEATISSIMORUM	Beatissimus	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	4	amod	_	_
+3	MARTVRUM	Martv	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
+4	QVI	QVI	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+5	APUD	apud	PROPN	Ne	_	1	flat:name	_	_
+
+# sent_id = 5
+# text = CAR
+1	CAR	Car	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = 6
+# text = THAGINEM PASSI
+1	THAGINEM	Thagi	ADJ	Px	Case=Acc|Gender=Masc|Number=Sing	0	root	_	_
+2	PASSI	passus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+
+# sent_id = 7
+# text = SUNT SUB IMPIO REGE HUNIRICO
+1	SUNT	sum	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
+2	SUB	sub	ADP	R-	_	3	case	_	_
+3	IMPIO	Impius	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	0	root	_	_
+4	REGE	rex	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	3	flat:name	_	_
+5	HUNIRICO	Huniricus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	3	appos	_	_
+
+# sent_id = 8
+# text = DI
+1	DI	deus	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+
+# sent_id = 9
+# text = E
+1	E	ex	ADV	Df	Degree=Pos	0	root	_	_
+
+# sent_id = 10
+# text = VI NON IUL I Praedicaturus triumphos martyrum beatorum ad enarranda quae gesta sunt auxilium exposco diuinum ut qui illis praestitit superandi uictoriam mihi indigno et inmerito quantulacumque uerborum porrigat ornamenta
+1	VI	vi	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	16	advcl	_	_
+2	NO	num	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	1	iobj	_	SpaceAfter=No
+3	N	n	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	1	obj:dir	_	_
+4	IUL	Iul	CCONJ	C-	_	3	cc	_	SpacesAfter=\s\s\s
+5	I	us	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+6	Praedicaturus	Praedicaturus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	_
+7	triumphos	triumphic	DET	Pd	Case=Acc|Gender=Masc|Number=Plur	15	det	_	_
+8	martyrum	martyr	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	_
+9	beatorum	beatus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	15	nmod	_	_
+10	ad	ad	ADP	R-	_	11	case	_	_
+11	enarranda	enarrando	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Gdv	9	acl	_	_
+12	quae	qui	PRON	Pr	Case=Nom|Gender=Neut|Number=Plur|PronType=Rel	13	nsubj:pass	_	_
+13	gesta	gero	VERB	V-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	15	acl	_	_
+14	sunt	sum	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	aux:pass	_	_
+15	auxilium	auxilium	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	3	conj	_	_
+16	exposco	exposco	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+17	diuinum	diuinus	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	16	obj:dir	_	_
+18	ut	ut	SCONJ	G-	_	30	mark	_	_
+19	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	21	nsubj	_	_
+20	illis	ille	ADJ	Pd	Case=Dat|Gender=Masc|Number=Plur	21	iobj	_	_
+21	praestitit	praesto	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	30	nsubj	_	_
+22	superandi	supero	VERB	V-	Case=Gen|VerbForm=Ger	23	acl	_	_
+23	uictoriam	uictorius	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	30	obj:dir	_	_
+24	mihi	ego	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	30	iobj	_	_
+25	indigno	indignus	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc,Neut|Number=Sing	24	amod	_	_
+26	et	et	CCONJ	C-	_	25	cc	_	_
+27	inmerito	inmeritus	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	25	conj	_	_
+28	quantulacumque	quantulacumque	ADV	Dq	PronType=Rel	29	advmod	_	_
+29	uerborum	uerbus	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	30	advcl	_	_
+30	porrigat	porrigo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	advcl	_	_
+31	ornamenta	ornamentum	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	30	obj:dir	_	_
+
+# sent_id = 11
+# text = Tunc etenim ualebo quae desiderata sunt indicare si ipsi dignentur pro me misero domino supplicare
+1	Tunc	tunc	ADV	Df	_	3	advmod	_	_
+2	etenim	etenim	ADV	Df	_	3	advmod	_	_
+3	ualebo	ualebus	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+4	quae	qui	PRON	Pr	Case=Nom|Gender=Neut|Number=Plur|PronType=Rel	5	nsubj:pass	_	_
+5	desiderata	desidero	VERB	V-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	3	acl	_	_
+6	sunt	sum	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux:pass	_	_
+7	indicare	indico#1	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	xcomp	_	_
+8	si	si	SCONJ	G-	_	10	mark	_	_
+9	ipsi	ipse	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	nsubj:pass	_	_
+10	dignentur	digno	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	1	advcl	_	_
+11	pro	pro	ADP	R-	_	12	case	_	_
+12	me	ego	PRON	Pp	Case=Abl|Gender=Masc|Number=Sing|Person=1|PronType=Prs	13	obl	_	_
+13	misero	mitto	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	10	advcl	_	_
+14	domino	dominus	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	15	iobj	_	_
+15	supplicare	supplico	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	13	ccomp	_	SpacesAfter=\s\s\s
+
+# sent_id = 12
+# text = II Septimus
+1	II	is	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+2	Septimus	septimus	ADJ	Mo	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = 13
+# text = namque agebatur annus crudelissimi atque impiissimi regis Hunirici
+1	namque	namque	ADV	Df	_	2	advmod	_	_
+2	agebatur	ago	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	annus	annus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+4	crudelissimi	crudelis	ADJ	A-	Case=Nom|Degree=Sup|Gender=Masc|Number=Plur	3	amod	_	_
+5	atque	atque	CCONJ	C-	_	4	cc	_	_
+6	impiissimi	impius	ADJ	A-	Case=Nom|Degree=Sup|Gender=Masc|Number=Plur	4	conj	_	_
+7	regis	rex	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+8	Hunirici	Huniricum	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+
+# sent_id = 14
+# text = et ecce antiquus hostis ueternosus utique anguis trisulcis linguae uenena uibrans Cyrila quondam Arriomanitarum episcopo ministro usus est subuertens et obtinens animum regis cruenti ut ita suaderet non posse eum pacatum atque longaeuum obtinere regnum nisi nomen perderet innocentum
+1	et	et	CCONJ	C-	_	7	cc	_	_
+2	ecce	ecce	INTJ	I-	_	7	vocative	_	_
+3	antiquus	antiquus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	hostis	hostis	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+5	ueternosus	ueternosus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+6	utique	utique	ADV	Df	_	7	advmod	_	_
+7	anguis	angua	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+8	trisulcis	trisulcus	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+9	linguae	lingua	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	uenena	uenena	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	7	conj	_	_
+11	uibrans	uibro	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	13	advcl	_	_
+12	Cyrila	Cyrilas	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+13	quondam	quondo	VERB	V-	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	_
+14	Arriomanitarum	Arriomanitarus	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	13	obj:dir	_	_
+15	episcopo	episcopo	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	17	iobj	_	_
+16	ministro	minister	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	17	iobj	_	_
+17	usus	utor	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	14	acl	_	_
+18	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	aux:pass	_	_
+19	subuertens	subuertens	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	17	advcl	_	_
+20	et	et	CCONJ	C-	_	19	cc	_	_
+21	obtinens	obtineo	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	29	advcl	_	_
+22	animum	animus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	21	obj:dir	_	_
+23	regis	rex	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	22	nmod	_	_
+24	cruenti	cruo	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	23	nmod	_	_
+25	ut	ut	SCONJ	G-	_	27	mark	_	_
+26	ita	ita	ADV	Df	_	27	advmod	_	_
+27	suaderet	suadeo	VERB	V-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	29	advcl	_	_
+28	non	non	ADV	Df	Polarity=Neg	29	advmod	_	_
+29	posse	possum	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	19	conj	_	_
+30	eum	is	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	34	obj:dir	_	_
+31	pacatum	paco	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	34	obj:dir	_	_
+32	atque	atque	CCONJ	C-	_	31	cc	_	_
+33	longaeuum	longaeuus	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	31	conj	_	_
+34	obtinere	obtineo	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	29	xcomp	_	_
+35	regnum	regnum	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	34	nsubj	_	_
+36	nisi	nisi	SCONJ	G-	_	38	mark	_	_
+37	nomen	nomen	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	38	obj:dir	_	_
+38	perderet	perdo	VERB	V-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	34	advcl	_	_
+39	innocentum	innocentum	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	38	xcomp	_	_
+
+# sent_id = 15
+# text = Qui tamen dei iudicio post non multos dies tur pissima morte praeuentus scatens uermibus exspirauit Insectari coepit ere cruento omnem catholicorum multitudinem quae per totam prouinciam Africanam in modum sicut praedictum est Abrahae patriarchae harenae maris fuerat multiplicata ut eam rebaptizationis sauciaret machera atque stolam illam singularis et puri baptismatis quam Christus uino carnis suae purificans praelo exprimens crucis fecerat dealbatam tetrae nigredinis turparet inluuie sordulenta Accipiens quoque tyrannus ut erat ducibilis et ferus serpentinam suggestionem feralibus edictis uno tempore totam coepit Africam commouere
+1	Qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	15	nsubj	_	_
+2	tamen	tamen	ADV	Df	_	15	discourse	_	_
+3	dei	deus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+4	iudicio	iudicium	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	13	obl	_	_
+5	post	post	ADP	R-	_	8	case	_	_
+6	non	non	ADV	Df	Polarity=Neg	7	advmod	_	_
+7	multos	multus	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	8	amod	_	_
+8	dies	dies	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	13	obl	_	_
+9	tur	tur	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	13	obj:dir	_	SpacesAfter=\s\s\s\s
+10	pissima	pissimus	ADJ	A-	Case=Abl|Degree=Sup|Gender=Fem|Number=Sing	9	amod	_	_
+11	morte	mors	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	10	iobj	_	_
+12	praeuentus	praeuentus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	9	conj	_	_
+13	scatens	scato	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	15	advcl	_	_
+14	uermibus	uerm	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	15	iobj	_	_
+15	exspirauit	exspiraesco	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+16	Insectari	Insectar	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	17	xcomp	_	_
+17	coepit	coepi	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	15	ccomp	_	_
+18	ere	eo	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	17	advcl	_	_
+19	cruento	cruentum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	18	obl	_	_
+20	omnem	omnis	DET	Px	Case=Acc|Gender=Fem,Masc|Number=Sing	22	det	_	_
+21	catholicorum	catholicus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	22	nmod	_	_
+22	multitudinem	multitudo	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	19	conj	_	_
+23	quae	qui	PRON	Pr	Case=Nom|Gender=Fem|Number=Plur|PronType=Rel	38	nsubj	_	_
+24	per	per	ADP	R-	_	26	case	_	_
+25	totam	totus	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	26	amod	_	_
+26	prouinciam	prouincia	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	38	obl	_	_
+27	Africanam	Africana	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	26	conj	_	_
+28	in	in	ADP	R-	_	29	case	_	_
+29	modum	modus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	26	conj	_	_
+30	sicut	sicut	ADV	Dq	PronType=Rel	31	advmod	_	_
+31	praedictum	praedicio	VERB	V-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	29	acl	_	_
+32	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	31	aux:pass	_	_
+33	Abrahae	Abraham	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	31	nmod	_	_
+34	patriarchae	patriarcha	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	33	appos	_	_
+35	harenae	harenae	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	34	amod	_	_
+36	maris	mare	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	33	nmod	_	_
+37	fuerat	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	38	cop	_	_
+38	multiplicata	multiplico	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	22	appos	_	_
+39	ut	ut	SCONJ	G-	_	42	mark	_	_
+40	eam	is	DET	Pd	Case=Acc|Gender=Fem|Number=Sing	41	det	_	_
+41	rebaptizationis	rebaptizatio	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	82	nsubj	_	_
+42	sauciaret	sauciareo	VERB	V-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	82	advcl	_	_
+43	machera	machus	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	42	nsubj	_	_
+44	atque	atque	CCONJ	C-	_	42	cc	_	_
+45	stolam	stola	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	60	obj:dir	_	_
+46	illam	ille	DET	Pd	Case=Acc|Gender=Fem|Number=Sing	45	det	_	SpacesAfter=\s\s\s
+47	singularis	singularis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	45	amod	_	_
+48	et	et	CCONJ	C-	_	45	cc	_	_
+49	puri	purus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	45	conj	_	_
+50	baptismatis	baptismo	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	49	nmod	_	_
+51	quam	quam#1	ADV	Du	PronType=Int	64	advmod	_	_
+52	Christus	Christus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	51	nsubj	_	_
+53	uino	uinus	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	51	obl	_	_
+54	carnis	caro	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	53	nmod	_	_
+55	suae	suus	ADJ	Pt	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	54	nmod	_	_
+56	purificans	purifico	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	60	advcl	_	_
+57	praelo	praelum	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	56	iobj	_	_
+58	exprimens	exprimo	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	60	advcl	_	_
+59	crucis	crux	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	60	iobj	_	_
+60	fecerat	facio	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	42	conj	_	_
+61	dealbatam	dealbor	VERB	V-	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	64	advcl	_	_
+62	tetrae	tetra	ADJ	Ps	Case=Gen|Gender=Fem|Number=Sing|Person=1|Poss=Yes	63	amod	_	_
+63	nigredinis	nigredo	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	61	nmod	_	_
+64	turparet	turpo	VERB	V-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	45	acl	_	_
+65	inluuie	inluuie	ADV	Df	_	67	advmod	_	_
+66	sordulenta	sordulentum	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	67	obj:dir	_	_
+67	Accipiens	accipio	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	82	advcl	_	_
+68	quoque	quoque	ADV	Df	_	69	discourse	_	_
+69	tyrannus	tyrannus	ADV	Df	_	82	advmod	_	_
+70	ut	ut	ADV	Dq	PronType=Rel	72	advmod	_	_
+71	erat	sum	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	72	cop	_	_
+72	ducibilis	ducibilis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	82	advmod	_	_
+73	et	et	CCONJ	C-	_	72	cc	_	_
+74	ferus	ferus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	72	conj	_	_
+75	serpentinam	serpentina	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	78	nsubj:pass	_	_
+76	suggestionem	suggestio	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	75	conj	_	_
+77	feralibus	feralis	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	75	conj	_	_
+78	edictis	edictum	VERB	V-	Aspect=Perf|Case=Abl|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	74	acl	_	_
+79	uno	unus	NUM	Ma	Case=Abl|Gender=Masc,Neut|Number=Sing	80	nummod	_	_
+80	tempore	tempus	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	78	obl	_	_
+81	totam	totus	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	82	advmod	_	_
+82	coepit	coepi	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	33	acl	_	_
+83	Africam	Africa	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	84	advmod	_	_
+84	commouere	commouo	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	82	xcomp	_	SpacesAfter=\s\s\s\s
+
+# sent_id = 16
+# text = Primo sacerdotum et ministrorum copiosissimam et maximam turbam in longinquis et extremis regionibus exilio crudeli detrusit
+1	Primo	primo	ADV	Df	_	16	advmod	_	_
+2	sacerdotum	sacerdos	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
+3	et	et	CCONJ	C-	_	2	cc	_	_
+4	ministrorum	minister	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	2	conj	_	_
+5	copiosissimam	copiosus	ADJ	A-	Case=Acc|Degree=Sup|Gender=Fem|Number=Sing	8	amod	_	_
+6	et	et	CCONJ	C-	_	5	cc	_	_
+7	maximam	magnus	ADJ	A-	Case=Acc|Degree=Sup|Gender=Fem|Number=Sing	5	conj	_	_
+8	turbam	turba	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	16	obj:dir	_	_
+9	in	in	ADP	R-	_	10	case	_	_
+10	longinquis	longinquus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	8	nmod	_	_
+11	et	et	CCONJ	C-	_	10	cc	_	_
+12	extremis	extremus	ADJ	A-	Case=Abl|Degree=Pos|Gender=Masc|Number=Plur	10	conj	_	_
+13	regionibus	regio	NOUN	Nb	Case=Abl|Gender=Fem|Number=Plur	16	obl	_	_
+14	exilio	ex(s)ilio	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	16	obl	_	_
+15	crudeli	crudelus	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	_
+16	detrusit	detrudo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = 17
+# text = quibus bis acutum genus frumenti quod iumentis solis edere concessum est
+1	quibus	qui	PRON	Pr	Case=Dat|Gender=Masc|Number=Plur|PronType=Rel	3	iobj	_	_
+2	bis	bis	ADV	Df	_	3	advmod	_	_
+3	acutum	acutus	VERB	V-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+4	genus	genus	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	3	nsubj:pass	_	_
+5	frumenti	frumentum	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+6	quod	qui	SCONJ	G-	_	10	mark	_	_
+7	iumentis	iumentum	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	solis	sol	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	9	obj:dir	_	_
+9	edere	edo#1	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	10	xcomp	_	_
+10	concessum	concedo	VERB	V-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	advcl	_	_
+11	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux:pass	_	_
+
+# sent_id = 18
+# text = nequaquam industria molari contritum sed manente furfuris cortice loricatum pro miseratione dari praecepit post uero crescente impietatis insania
+1	nequaquam	nequaquam	ADV	Df	_	13	advmod	_	_
+2	industria	industria	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	_
+3	molari	molor	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	4	xcomp	_	_
+4	contritum	contreo	VERB	V-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	acl	_	_
+5	sed	sed	CCONJ	C-	_	4	cc	_	_
+6	manente	maneo	VERB	V-	Case=Abl|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	conj	_	_
+7	furfuris	furfura	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	6	nsubj	_	_
+8	cortice	cortex	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	9	obl	_	_
+9	loricatum	loricor	VERB	V-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	conj	_	_
+10	pro	pro	ADP	R-	_	11	case	_	_
+11	miseratione	miseratio	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	9	obl	_	_
+12	dari	do	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	13	xcomp	_	_
+13	praecepit	praecipio	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+14	post	post	ADP	R-	_	15	case	_	_
+15	uero	uer	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	16	obl	_	_
+16	crescente	cresco	VERB	V-	Case=Abl|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	13	advcl	_	_
+17	impietatis	impieto	VERB	V-	Aspect=Perf|Case=Abl|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	16	ccomp	_	_
+18	insania	insanis	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	17	nsubj:pass	_	_
+
+# sent_id = 19
+# text = etiam hoc auferri crudelissimus imperauit
+1	etiam	etiam	ADV	Df	_	5	discourse	_	_
+2	hoc	hic	ADJ	Pd	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	SpacesAfter=\s\s\s
+3	auferri	aufero	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	5	xcomp	_	_
+4	crudelissimus	crudelisso	ADJ	A-	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	5	advmod	_	_
+5	imperauit	imperaeo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = 20
+# text = Post modicum quoque temporis uniuersas simul ecclesias praeiudicatis uenerabilibus portis caementis ingentibus claudi mandauit uniuersa namque monasteria uirorum uel puellarum sanctarum gentilibus
+1	Post	post	ADP	R-	_	2	case	_	_
+2	modicum	modicus	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	14	obl	_	_
+3	quoque	quisque	ADV	Df	_	14	discourse	_	_
+4	temporis	tempus	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+5	uniuersas	uniuerse	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	4	amod	_	_
+6	simul	simul	ADV	Df	_	8	advmod	_	_
+7	ecclesias	ecclesia	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	8	nsubj:pass	_	_
+8	praeiudicatis	praeiudico	VERB	V-	Aspect=Perf|Case=Abl|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	14	advcl	_	_
+9	uenerabilibus	uenerabilis	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	10	nmod	_	_
+10	portis	porta	NOUN	Nb	Case=Abl|Gender=Fem|Number=Plur	13	nsubj:pass	_	_
+11	caementis	caemo	NUM	Ma	Case=Abl|Number=Plur	12	nummod	_	_
+12	ingentibus	ingo	NOUN	Nb	Case=Abl|Gender=Fem|Number=Plur	13	obl	_	_
+13	claudi	claudus	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	8	conj	_	_
+14	mandauit	mandaeo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\s\s
+15	uniuersa	uniuersus	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	14	obj:dir	_	_
+16	nam	nam	ADV	Df	_	23	discourse	_	SpaceAfter=No
+17	que	que	CCONJ	C-	_	14	cc	_	_
+18	monasteria	monasterium	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	23	obj:dir	_	_
+19	uirorum	uirus	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	18	nmod	_	_
+20	uel	uel	CCONJ	C-	_	19	cc	_	_
+21	puellarum	puella	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	19	conj	_	_
+22	sanctarum	sanctus	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	21	amod	_	_
+23	gentilibus	gentilis	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	14	conj	_	_
+
+# sent_id = 21
+# text = id est Mauris cum habitatoribus donare praecepit
+1	id	is	PRON	Pp	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+2	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
+3	Mauris	Maura	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	6	iobj	_	_
+4	cum	cum	ADP	R-	_	5	case	_	_
+5	habitatoribus	habitatoris	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	6	obl	_	_
+6	donare	dono	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	xcomp	_	_
+7	praecepit	praecipio	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = 22
+# text = Unus fuit omnibus eiulatus unus pro Christo moriendi integer et plenus affectus Paria currebant flumina lacrimarum quia permiserat dominus cibari eos panem lacrimarum et potari eos in lacrimis in mensuram aut forsitan sine mensura
+1	Unus	unus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj:pass	_	_
+2	fuit	sum	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	aux:pass	_	_
+3	omnibus	omnis	ADJ	Px	Case=Abl|Gender=Masc|Number=Plur	4	obl	_	_
+4	eiulatus	eiulatus	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+5	unus	unus	NUM	Ma	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
+6	pro	pro	ADP	R-	_	7	case	_	_
+7	Christo	Christus	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	14	obl	_	_
+8	moriendi	morior	VERB	V-	Case=Gen|VerbForm=Ger	14	advcl	_	_
+9	integer	integer	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	conj	_	_
+10	et	et	CCONJ	C-	_	9	cc	_	_
+11	plenus	plenus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	conj	_	_
+12	affectus	affectus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	8	conj	_	_
+13	Paria	paria	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	8	conj	_	_
+14	currebant	curro	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	acl	_	_
+15	flumina	flumen	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	14	obj:dir	_	_
+16	lacrimarum	lacrima	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	15	nmod	_	_
+17	quia	quia	SCONJ	G-	_	18	mark	_	_
+18	permiserat	permiso	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	14	advcl	_	_
+19	dominus	dominus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	_
+20	cibari	cibo	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	18	ccomp	_	_
+21	eos	is	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	20	nsubj:pass	_	_
+22	panem	panis	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	20	obj:dir	_	_
+23	lacrimarum	lacrima	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	22	nmod	_	_
+24	et	et	CCONJ	C-	_	22	cc	_	_
+25	potari	poto	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	22	conj	_	_
+26	eos	is	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	25	nsubj:pass	_	_
+27	in	in	ADP	R-	_	28	case	_	_
+28	lacrimis	lacrima	NOUN	Nb	Case=Abl|Gender=Fem|Number=Plur	25	obl	_	_
+29	in	in	ADP	R-	_	30	case	_	_
+30	mensuram	mensura	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	25	obl	_	_
+31	aut	aut	CCONJ	C-	_	30	cc	_	_
+32	forsitan	forsitan	ADV	Df	_	34	advmod	_	_
+33	sine	sine	ADP	R-	_	34	case	_	_
+34	mensura	mensura	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	30	conj	_	SpacesAfter=\s\s
+
+# sent_id = 23
+# text = Etsi reperta est exiens de arca inhians cadaueribus mortuis pars aliqua pereuntium coruorum maior est tamen in nomine trinitatis numerus felicium columbarum
+1	Etsi	etsius	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	2	advmod	_	_
+2	reperta	reperio	VERB	V-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+3	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	aux:pass	_	_
+4	exiens	exeo	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	14	advcl	_	_
+5	de	de	ADP	R-	_	6	case	_	_
+6	arca	arca	ADP	R-	_	8	case	_	_
+7	inhians	inhio	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	8	acl	_	_
+8	cadaueribus	cadauer	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	4	obl	_	_
+9	mortuis	mortuus	VERB	V-	Aspect=Perf|Case=Abl|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	14	advcl	_	_
+10	pars	pars	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	9	nsubj:pass	_	_
+11	aliqua	aliquis	DET	Px	Case=Nom|Gender=Fem|Number=Sing	10	det	_	_
+12	pereuntium	pereuo	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	10	nmod	_	_
+13	coruorum	coruus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	12	nmod	_	_
+14	maior	magnus	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	2	nsubj:pass	_	_
+15	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	aux:pass	_	_
+16	tamen	tamen	ADV	Df	_	20	discourse	_	_
+17	in	in	ADP	R-	_	18	case	_	_
+18	nomine	nomen	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	20	nmod	_	_
+19	trinitatis	trinitas	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	_
+20	numerus	numerus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj:pass	_	_
+21	felicium	felicium	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	20	appos	_	_
+22	columbarum	columba	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	21	nmod	_	_
+
+# sent_id = 24
+# text = Quanti nobiles et optimi uiri ampli et lati cespitis domini terram cum caelo commutauerunt
+1	Quanti	quantus	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	2	advcl	_	_
+2	nobiles	nobilis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	9	advmod	_	_
+3	et	et	CCONJ	C-	_	2	cc	_	_
+4	optimi	bonus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	2	conj	_	_
+5	uiri	uir	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	2	conj	_	_
+6	ampli	amplus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	5	amod	_	_
+7	et	et	CCONJ	C-	_	2	cc	_	_
+8	lati	fero	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	2	conj	_	_
+9	cespitis	cespo	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	14	nsubj	_	_
+10	domini	dominus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
+11	terram	terra	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	9	obj:dir	_	_
+12	cum	cum	ADP	R-	_	13	case	_	_
+13	caelo	caelum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	14	obl	_	_
+14	commutauerunt	commutauo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = 25
+# text = et simul corpus cum substantia tradiderunt atque delicatae et nobilissimae feminae contra uerecundiam naturae spectante uulgo uirgis caesae uariisque tormentis cruciatae uictricia trophea portarunt quanti infantuli inridentes edicta feralia ante mundum contempserunt priusquam inlecebrosam eius semitam introirent III
+1	et	et	CCONJ	C-	_	6	cc	_	_
+2	simul	simul	ADV	Df	_	3	advmod	_	_
+3	corpus	corpus	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+4	cum	cum	ADP	R-	_	5	case	_	_
+5	substantia	substantia	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	6	obl	_	_
+6	tradiderunt	trado	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	32	advcl	_	_
+7	atque	atque	CCONJ	C-	_	6	cc	_	_
+8	delicatae	delicatus	VERB	V-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	6	conj	_	_
+9	et	et	CCONJ	C-	_	6	cc	_	_
+10	nobilissimae	nobilis	ADJ	A-	Case=Nom|Degree=Sup|Gender=Fem|Number=Plur	11	amod	_	_
+11	feminae	femina	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	15	nsubj	_	_
+12	contra	contra	ADP	R-	_	13	case	_	_
+13	uerecundiam	uerecundia	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	15	obl	_	_
+14	naturae	natura	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+15	spectante	specto	VERB	V-	Case=Abl|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	conj	_	SpacesAfter=\s\s\s
+16	uulgo	uulgo	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	24	nsubj	_	_
+17	uirgis	uirgis	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	_
+18	caesae	caedo	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	_
+19	uariisque	uariisque	ADJ	Px	Case=Nom|Gender=Masc|Number=Sing	16	amod	_	_
+20	tormentis	tormentum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Plur	21	obl	_	_
+21	cruciatae	crucio	VERB	V-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	24	advcl	_	_
+22	uictricia	uictricium	ADJ	A-	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	_
+23	trophea	tropheus	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	21	obl	_	_
+24	portarunt	porto	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	32	advcl	_	_
+25	quanti	quantus	PRON	Pi	Case=Gen|Gender=Neut|Number=Sing|PronType=Int	29	det	_	_
+26	infantuli	infantulus	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	25	nmod	_	_
+27	inridentes	irrideo	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	28	advcl	_	_
+28	edicta	edictum	VERB	V-	Aspect=Perf|Case=Acc|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	32	advcl	_	_
+29	feralia	feralis	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	32	obj:dir	_	_
+30	ante	ante	ADP	R-	_	31	case	_	_
+31	mundum	mundus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	32	obl	_	_
+32	contempserunt	contempso	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+33	priusquam	priusquam	SCONJ	G-	_	37	mark	_	_
+34	inlecebrosam	inlecebrosus	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	37	obj:dir	_	_
+35	eius	is	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	34	det	_	_
+36	semitam	semitus	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	37	xcomp	_	_
+37	introirent	introeo	VERB	V-	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	32	advcl	_	SpacesAfter=\s\s\s
+38	III	III	ADV	Df	_	32	advmod	_	_
+
+# sent_id = 26
+# text = Tunc adprehensi sunt et septem fratres quantum continet ad concordiam dominicae seruitutis in monasterio habitantes in unum quia bonum est
+1	Tunc	tunc	ADV	Df	_	2	advmod	_	_
+2	adprehensi	adprehentio	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+3	sunt	sum	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	aux:pass	_	_
+4	et	et	CCONJ	C-	_	2	cc	_	_
+5	septem	septem	NUM	Ma	_	6	nummod	_	_
+6	fratres	frater	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	2	conj	_	_
+7	quantum	quantum	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	8	nsubj	_	_
+8	continet	contineo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl	_	_
+9	ad	ad	ADP	R-	_	10	case	_	_
+10	concordiam	concordia	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	obl	_	_
+11	dominicae	dominicae	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	_
+12	seruitutis	seruitus	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+13	in	in	ADP	R-	_	14	case	_	_
+14	monasterio	monasterium	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	15	obl	_	_
+15	habitantes	habito	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	8	advcl	_	_
+16	in	in	ADP	R-	_	17	case	_	_
+17	unum	unus	NUM	Ma	Case=Acc|Gender=Neut|Number=Sing	8	obl	_	_
+18	quia	quia	SCONJ	G-	_	19	mark	_	_
+19	bonum	bonus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	8	advcl	_	_
+20	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	cop	_	_
+
+# sent_id = 27
+# text = et iucundum habitare fratres in unum id est Bonifatius diaconus Seruus subdiaconus Rusticus subdiaconus Liberatus abba Rogatus monachus
+1	et	et	CCONJ	C-	_	3	cc	_	_
+2	iucundum	iucundus	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	obj:dir	_	_
+3	habitare	habito#1	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	_
+4	fratres	frater	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	3	obl	_	_
+5	in	in	ADP	R-	_	6	case	_	_
+6	unum	unus	NUM	Ma	Case=Acc|Gender=Neut|Number=Sing	3	obl	_	_
+7	id	is	PRON	Pp	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+8	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	_
+9	Bonifatius	Bonifatius	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	_
+10	diaconus	diaconus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	9	appos	_	_
+11	Seruus	Seruus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	10	nmod	_	_
+12	subdiaconus	subdiaconus	ADJ	Mo	Case=Nom|Gender=Masc|Number=Sing	10	amod	_	_
+13	Rusticus	Rusticus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	10	conj	_	_
+14	subdiaconus	subdiaconus	ADJ	Mo	Case=Nom|Gender=Masc|Number=Sing	10	conj	_	_
+15	Liberatus	liberatus	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	conj	_	_
+16	abba	abba	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	17	obl	_	_
+17	Rogatus	rogo	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	15	advcl	_	_
+18	monachus	monachus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+
+# sent_id = 28
+# text = Septimus monachus et Maximus monachus in numero scilicet Macchabeorum germanorum quos una mater ecclesia catholica genuerat et per uiscera fontis aeterni salubriter pepererat de territorio Capsensis ciuitatis cui praefuit sanctus Uindemialis sacerdos egregius et Christi fidelis antistes
+1	Septimus	septimus	ADJ	Mo	Case=Nom|Gender=Masc|Number=Sing	2	nmod	_	_
+2	monachus	monachus	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+3	et	et	CCONJ	C-	_	2	cc	_	_
+4	Maximus	Maximus	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	monachus	monachus	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+6	in	in	ADP	R-	_	7	case	_	_
+7	numero	numerus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	4	obl	_	_
+8	scilicet	scilicet	ADV	Df	_	10	advmod	_	_
+9	Macchabeorum	Macchabeus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
+10	germanorum	germanus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	2	conj	_	_
+11	quos	qui	PRON	Pr	Case=Acc|Gender=Masc|Number=Plur|PronType=Rel	10	nsubj	_	_
+12	una	unus	ADV	Df	_	13	advmod	_	_
+13	mater	mater	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	11	conj	_	_
+14	ecclesia	ecclesia	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	16	nsubj	_	_
+15	catholica	catholica	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
+16	genuerat	genuo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	13	acl	_	_
+17	et	et	CCONJ	C-	_	16	cc	_	_
+18	per	per	ADP	R-	_	19	case	_	_
+19	uiscera	uiscera	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	23	obl	_	_
+20	fontis	fons	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	19	nmod	_	_
+21	aeterni	aeternus	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
+22	salubriter	salubriter	ADV	Df	Degree=Pos	23	advmod	_	_
+23	pepererat	pepero	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	16	conj	_	_
+24	de	de	ADP	R-	_	25	case	_	_
+25	territorio	territorius	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	23	obl	_	_
+26	Capsensis	Capsensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	25	amod	_	_
+27	ciuitatis	ciuitas	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	25	nmod	_	_
+28	cui	qui	PRON	Pr	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	29	iobj	_	_
+29	praefuit	praesum	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	27	acl	_	_
+30	sanctus	sanctus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	32	amod	_	_
+31	Uindemialis	Uindemialis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	32	amod	_	_
+32	sacerdos	sacerdos	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	13	appos	_	_
+33	egregius	egregius	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+34	et	et	CCONJ	C-	_	33	cc	_	_
+35	Christi	Christus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	33	conj	_	_
+36	fidelis	fidelis	ADJ	A-	Case=Gen|Degree=Pos|Number=Sing	37	amod	_	_
+37	antistes	antistis	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	35	appos	_	SpacesAfter=\s\s
+
+# sent_id = 29
+# text = Qni adtracti ad urbem Carthaginiensem primo eis inlecebrosis blandimentis serpens uoluit sibilare promittens honores caducos et diuitias ingentium uoluptatum nec non et regis amicitias uel alia multa quae solent insipientium animas aucupante diabolo uisco mundiali captare
+1	Qni	Qnus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	_
+2	adtracti	astracio	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	11	advcl	_	_
+3	ad	ad	ADP	R-	_	4	case	_	_
+4	urbem	urbs	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	_
+5	Carthaginiensem	Carthaginiensis	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem,Masc|Number=Sing	4	amod	_	_
+6	primo	primo	ADJ	Mo	Case=Abl|Gender=Masc,Neut|Number=Sing	4	nmod	_	_
+7	eis	is	PRON	Pp	Case=Abl|Gender=Neut|Number=Plur|Person=3|PronType=Prs	2	iobj	_	_
+8	inlecebrosis	inlecebrodo	VERB	V-	Aspect=Perf|Case=Abl|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	11	advcl	_	_
+9	blandimentis	blandimentum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Plur	8	nsubj:pass	_	_
+10	serpens	serpens	NOUN	Nb	Case=Nom|Gender=Fem,Masc|Number=Sing	11	nsubj	_	_
+11	uoluit	uoluo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+12	sibilare	sibilo	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	11	xcomp	_	_
+13	promittens	promitto	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	11	advcl	_	_
+14	honores	honor	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	13	obj:dir	_	_
+15	caducos	caduci	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	18	obj:dir	_	_
+16	et	et	CCONJ	C-	_	15	cc	_	_
+17	diuitias	diuitia	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	15	conj	_	_
+18	ingentium	ingo	VERB	V-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	14	acl	_	_
+19	uoluptatum	uolupto	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	15	nmod	_	_
+20	nec	neque	ADV	Df	_	32	advmod	_	_
+21	non	non	ADV	Df	Polarity=Neg	32	advmod	_	_
+22	et	et	CCONJ	C-	_	32	cc	_	_
+23	regis	rex	NOUN	Nb	Case=Abl|Gender=Fem|Number=Plur	24	nmod	_	_
+24	amicitias	amicitia	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	32	obj:dir	_	_
+25	uel	uel	ADV	Df	_	26	advmod	_	_
+26	alia	alius	DET	Px	Case=Nom|Gender=Neut|Number=Plur	24	det	_	_
+27	multa	multus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	24	amod	_	_
+28	quae	qui	PRON	Pr	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	29	obj:dir	_	_
+29	solent	soleo	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	acl	_	_
+30	insipientium	insipieo	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	32	obj:dir	_	_
+31	animas	anima	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	32	nsubj	_	_
+32	aucupante	aucupo	VERB	V-	Case=Abl|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	11	advcl	_	_
+33	diabolo	diabolus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	36	nsubj	_	_
+34	uisco	uisco	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	33	appos	_	_
+35	mundiali	mundalis	ADJ	A-	Case=Abl|Degree=Pos|Gender=Masc|Number=Sing	34	amod	_	_
+36	captare	captor	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	32	advcl	_	_
+
+# sent_id = 30
+# text = Sed haec omnia milites dei acsi contagia respuerunt clamantes uno ore unus dominus una fides unum baptisma
+1	Sed	sed	CCONJ	C-	_	0	root	_	_
+2	haec	hic	ADJ	Pd	Case=Acc|Gender=Neut|Number=Plur	10	obj:dir	_	_
+3	omnia	omnis	DET	Px	Case=Acc|Gender=Neut|Number=Plur	2	det	_	_
+4	milites	miles	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	_
+5	dei	deus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+6	ac	atque	CCONJ	C-	_	5	cc	_	SpaceAfter=No
+7	si	si	SCONJ	G-	_	9	mark	_	_
+8	contagia	contagium	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	9	nsubj	_	_
+9	respuerunt	respuo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	_
+10	clamantes	clamo	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	1	advcl	_	_
+11	uno	unus	NUM	Ma	Case=Abl|Gender=Masc,Neut|Number=Sing	12	nummod	_	_
+12	ore	os#1	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	10	obl	_	_
+13	unus	unus	NUM	Ma	Case=Nom|Gender=Masc|Number=Sing	14	nummod	_	_
+14	dominus	dominus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	10	conj	_	_
+15	una	unus	NUM	Ma	Case=Nom|Gender=Fem|Number=Sing	14	nummod	_	_
+16	fides	fides	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	14	nmod	_	_
+17	unum	unus	NUM	Ma	Case=Acc|Gender=Neut|Number=Sing	18	nummod	_	_
+18	baptisma	baptisma	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	14	orphan	_	_
+
+# sent_id = 31
+# text = Nec poterit in nobis adiuuante domino iterari quod in sancto euangelio semel praeceptum est dari quia qui semel lotus est non habet necesse iterum lauari quia mundus est totus
+1	Ne	ne	ADV	Df	Polarity=Neg	3	advmod	_	SpaceAfter=No
+2	c	que	CCONJ	C-	_	3	cc	_	_
+3	poterit	possum	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+4	in	in	ADP	R-	_	5	case	_	_
+5	nobis	nos	PRON	Pp	Case=Abl|Gender=Masc|Number=Plur|Person=1|PronType=Prs	3	obl	_	_
+6	adiuuante	adiuuo	VERB	V-	Case=Abl|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	8	advcl	_	_
+7	domino	dominus	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	6	iobj	_	_
+8	iterari	iteror	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	3	xcomp	_	_
+9	quod	quod	SCONJ	G-	_	14	mark	_	_
+10	in	in	ADP	R-	_	12	case	_	_
+11	sancto	sanctus	ADJ	A-	Case=Abl|Degree=Pos|Gender=Masc,Neut|Number=Sing	12	amod	_	_
+12	euangelio	euangelium	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	14	obl	_	_
+13	semel	semel	ADV	Df	_	14	advmod	_	_
+14	praeceptum	praecipio	VERB	V-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	ccomp	_	_
+15	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	aux:pass	_	_
+16	dari	do	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	14	xcomp	_	_
+17	quia	quia	SCONJ	G-	_	23	mark	_	_
+18	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	20	nsubj:pass	_	_
+19	semel	semel	ADV	Df	_	20	advmod	_	_
+20	lotus	lavo	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	23	nsubj	_	_
+21	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	aux:pass	_	_
+22	non	non	ADV	Df	Polarity=Neg	23	advmod	_	_
+23	habet	habeo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	_
+24	necesse	necesse	ADV	Df	_	23	advmod	_	_
+25	iterum	iterum	ADV	Df	_	26	advmod	_	SpacesAfter=\s\s\s\s\s
+26	lauari	lauo	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	24	ccomp	_	_
+27	quia	quia	SCONJ	G-	_	30	mark	_	_
+28	mundus	mundus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	30	nsubj	_	_
+29	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	30	cop	_	_
+30	totus	totus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	23	advcl	_	_
+
+# sent_id = 32
+# text = Facite quod uultis inferte poenas corporibus nostris melius est temporalia ad modicum sufferre supplicia quam aeterna pendere et subire tormenta Habete quae promittitis cum ipsis diuitiis post paululum perituri
+1	Facite	facio	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	quod	quod	SCONJ	G-	_	8	mark	_	_
+3	uultis	uultus	ADJ	A-	Case=Abl|Degree=Pos|Gender=Fem|Number=Plur	4	amod	_	_
+4	inferte	infero	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	8	obl	_	_
+5	poenas	poena	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	8	nsubj	_	_
+6	corporibus	corpus	NOUN	Nb	Case=Abl|Gender=Neut|Number=Plur	8	iobj	_	_
+7	nostris	noster	ADJ	Ps	Case=Abl|Number=Plur|Person=1|Poss=Yes	6	nmod	_	_
+8	melius	bonus	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing	1	ccomp	_	_
+9	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	_
+10	temporalia	temporalia	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	13	nsubj	_	_
+11	ad	ad	ADP	R-	_	12	case	_	_
+12	modicum	modicus	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	13	advmod	_	_
+13	sufferre	suffero	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	ccomp	_	_
+14	supplicia	supplicium	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	17	obj:dir	_	_
+15	quam	quam#3	ADV	Df	_	16	advmod	_	_
+16	aeterna	aeternus	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	14	amod	_	_
+17	pendere	pendeo	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	13	conj	_	_
+18	et	et	CCONJ	C-	_	13	cc	_	_
+19	subire	subeo	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	13	conj	_	_
+20	tormenta	tormentum	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	19	obj:dir	_	_
+21	Habete	habeo	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+22	quae	qui	PRON	Pr	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	23	obj:dir	_	_
+23	promittitis	promitto	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	21	obj:dir	_	_
+24	cum	cum	ADP	R-	_	26	case	_	_
+25	ipsis	ipse	DET	Pd	Case=Abl|Number=Plur	26	det	_	_
+26	diuitiis	diuitium	NOUN	Nb	Case=Abl|Gender=Fem|Number=Plur	23	obl	_	_
+27	post	post	ADV	Df	_	29	advmod	_	_
+28	paululum	paulul	ADV	Df	_	29	advmod	_	_
+29	perituri	periqueo	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Fut|VerbForm=Part|Voice=Act	21	advcl	_	_
+
+# sent_id = 33
+# text = Nobis uero nullus de postibus frontium ualebit euellere quod in uno baptismate artifex trinitatis
+1	Nobis	nos	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	7	iobj	_	_
+2	uero	uer	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	7	obl	_	_
+3	nullus	nullus	DET	Px	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+4	de	de	ADP	R-	_	5	case	_	_
+5	postibus	post	NOUN	Nb	Case=Abl|Gender=Fem|Number=Plur	8	obl	_	_
+6	frontium	frontium	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+7	ualebit	ualeo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+8	euellere	euello	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	ccomp	_	_
+9	quod	quod	SCONJ	G-	_	12	mark	_	_
+10	in	in	ADP	R-	_	12	case	_	_
+11	uno	unus	NUM	Ma	Case=Abl|Gender=Masc,Neut|Number=Sing	12	nummod	_	_
+12	baptismate	baptisma	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	2	conj	_	_
+13	artifex	artifex	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
+14	trinitatis	trinitas	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+
+# sent_id = 34
+# text = dignatus est titulare
+1	dignatus	dignor	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+2	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux:pass	_	_
+3	titulare	titulo	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	1	nsubj:pass	_	SpacesAfter=\s\s\s
+
+# sent_id = 35
+# text = IV
+1	IV	expression	ADV	Df	_	0	root	_	_
+
+# sent_id = 36
+# text = Quid multa
+1	Quid	quis	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	0	root	_	_
+2	multa	multus	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	1	obj:dir	_	_
+
+# sent_id = 37
+# text = Dum tali constantia diuinitus munirentur iussi sunt carcerali custodiae mancipari
+1	Dum	dum	SCONJ	G-	_	5	mark	_	_
+2	tali	talis	DET	Pd	Case=Abl|Number=Sing	3	det	_	_
+3	constantia	constantia	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	nsubj:pass	_	_
+4	diuinitus	diuinitus	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	acl	_	_
+5	munirentur	muniro	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	6	advcl	_	_
+6	iussi	iubeo	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+7	sunt	sum	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux:pass	_	_
+8	carcerali	carceralis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	9	amod	_	_
+9	custodiae	custodia	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	10	nsubj:pass	_	_
+10	mancipari	mancipor	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	6	ccomp	_	_
+
+# sent_id = 38
+# text = et ita crudelius onerati ferri ponderibus tenebrosis deputati sunt locis ubi nulla miseratio adrideret lenitatis
+1	et	et	CCONJ	C-	_	8	cc	_	_
+2	ita	ita	ADV	Df	_	4	advmod	_	_
+3	crudelius	crudele	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing	4	nsubj:pass	_	_
+4	onerati	onero	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	8	advcl	_	_
+5	ferri	fero	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	4	xcomp	_	_
+6	ponderibus	ponder	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	8	obl	_	_
+7	tenebrosis	tenebrosus	ADJ	A-	Case=Abl|Degree=Pos|Gender=Masc|Number=Plur	6	amod	_	_
+8	deputati	deputo	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+9	sunt	sum	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux:pass	_	_
+10	locis	locus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	8	nsubj:pass	_	_
+11	ubi	ubi	ADV	Dq	PronType=Rel	14	advmod	_	_
+12	nulla	nullus	DET	Px	Case=Nom|Gender=Fem|Number=Sing	13	det	_	_
+13	miseratio	miseratio	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	_
+14	adrideret	adrido	VERB	V-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	acl	_	_
+15	lenitatis	lenitas	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+
+# sent_id = 39
+# text = Sed populus ille memoratae urbis in domino semper fidelis dato munere carcerariis die ac nocte Christi martyres frequentabat
+1	Sed	sed	CCONJ	C-	_	18	cc	_	_
+2	populus	populus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	_
+3	ille	ille	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	2	det	_	_
+4	memoratae	memoro	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	urbis	urbs	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+6	in	in	ADP	R-	_	7	case	_	_
+7	domino	dominus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	18	obl	_	_
+8	semper	semper	ADV	Df	_	9	advmod	_	_
+9	fidelis	fidelis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem,Masc|Number=Sing	7	amod	_	_
+10	dato	do	VERB	V-	Aspect=Perf|Case=Abl|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	18	advcl	_	_
+11	munere	munus	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	10	nsubj:pass	_	_
+12	carcerariis	carcerarius	NOUN	Nb	Case=Abl|Gender=Neut|Number=Plur	18	obl	_	_
+13	die	dies	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	12	obl	_	_
+14	ac	atque	CCONJ	C-	_	13	cc	_	_
+15	nocte	nox	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	13	conj	_	_
+16	Christi	Christus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	_
+17	martyres	martyr	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	18	obj:dir	_	_
+18	frequentabat	frequento#1	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = 40
+# text = et ita ab eis doctrina et uirtute fidei roborabatur ut talia etiam ipsi pro Christi nomine plena delectatione perferre cuperent et capulo persequentis facilia subponerent colla
+1	et	et	CCONJ	C-	_	9	cc	_	_
+2	ita	ita	ADV	Df	_	9	advmod	_	_
+3	ab	ab	ADP	R-	_	4	case	_	_
+4	eis	is	PRON	Pp	Case=Abl|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obl:agent	_	_
+5	doctrina	doctrina	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	9	obl	_	_
+6	et	et	CCONJ	C-	_	5	cc	_	_
+7	uirtute	uirtute	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	5	conj	_	_
+8	fidei	fides	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+9	roborabatur	roborabo	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+10	ut	ut	SCONJ	G-	_	20	mark	_	_
+11	talia	talis	ADJ	Pd	Case=Acc|Gender=Neut|Number=Plur	20	obj:dir	_	_
+12	etiam	etiam	ADV	Df	_	13	discourse	_	_
+13	ipsi	ipse	ADJ	Pd	Case=Nom|Gender=Masc|Number=Plur	20	nsubj	_	_
+14	pro	pro	ADP	R-	_	16	case	_	_
+15	Christi	Christus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	_
+16	nomine	nomen	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	20	obl	_	_
+17	plena	plenus	ADJ	A-	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+18	delectatione	delectatio	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	20	obl	_	_
+19	perferre	perfero	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	20	xcomp	_	_
+20	cuperent	cupio	VERB	V-	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	_
+21	et	et	CCONJ	C-	_	20	cc	_	_
+22	capulo	capulus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	25	nsubj	_	_
+23	persequentis	persequeo	VERB	V-	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	25	advcl	_	_
+24	facilia	facile	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	25	obj:dir	_	_
+25	subponerent	subpono	VERB	V-	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	20	conj	_	_
+26	colla	colla	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	9	obj:dir	_	SpacesAfter=\s\s
+
+# sent_id = 41
+# text = Hoc autem tyrannicas peruenit ad aures qui ebrietate furoris accensus iubet eos adhuc inauditis suppliciis adigi et maioribus uinculis onerari nauemque imperat lignorum aridorum manipulis adimpleri atque in eadem omnibus alligatis in medium pelagus igne supposito concremari V
+1	Hoc	hic	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	3	amod	_	_
+2	autem	autem	ADV	Df	_	4	discourse	_	_
+3	tyrannicas	tyrannica	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	4	obj:dir	_	_
+4	peruenit	peruenio	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	22	advcl	_	_
+5	ad	ad	ADP	R-	_	6	case	_	_
+6	aures	auris	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	11	obl	_	_
+7	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	10	nsubj:pass	_	_
+8	ebrietate	ebrietas	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	10	iobj	_	_
+9	furoris	furor	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+10	accensus	accendo	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	acl	_	_
+11	iubet	iubeo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	advcl	_	_
+12	eos	is	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	14	obj:dir	_	_
+13	adhuc	adhuc	ADV	Df	_	14	advmod	_	_
+14	inauditis	inaudio	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	22	advcl	_	_
+15	suppliciis	supplicium	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	20	iobj	_	_
+16	adigi	adigo	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	15	appos	_	_
+17	et	et	CCONJ	C-	_	16	cc	_	_
+18	maioribus	magnus	ADJ	A-	Case=Abl|Degree=Cmp|Number=Plur	16	conj	_	_
+19	uinculis	uinculus	NOUN	Nb	Case=Abl|Gender=Neut|Number=Plur	16	nmod	_	_
+20	onerari	onero	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	22	xcomp	_	_
+21	nauemque	nauemque	ADV	Df	_	22	advmod	_	_
+22	imperat	impero	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+23	lignorum	lignum	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	25	nmod	_	_
+24	aridorum	aridus	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	23	nmod	_	_
+25	manipulis	manipulus	NOUN	Nb	Case=Abl|Gender=Neut|Number=Plur	26	nsubj:pass	_	_
+26	adimpleri	adimpleo	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	22	ccomp	_	_
+27	atque	atque	CCONJ	C-	_	26	cc	_	_
+28	in	in	ADP	R-	_	30	case	_	_
+29	eadem	idem	DET	Pd	Case=Abl|Gender=Fem|Number=Sing	30	det	_	_
+30	omnibus	omnis	ADJ	Px	Case=Abl|Gender=Neut|Number=Plur	31	obl	_	_
+31	alligatis	alligo	VERB	V-	Aspect=Perf|Case=Abl|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	26	conj	_	_
+32	in	in	ADP	R-	_	34	case	_	_
+33	medium	medius	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	34	amod	_	_
+34	pelagus	pelagus	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	37	obl	_	_
+35	igne	ignis	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	36	nsubj:pass	_	_
+36	supposito	suppono	VERB	V-	Aspect=Perf|Case=Abl|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	37	advcl	_	_
+37	concremari	concremo	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	26	conj	_	_
+38	V	v	ADV	Df	_	37	advmod	_	_
+
+# sent_id = 42
+# text = Eductisque illis de custodia multitudo populi dei bellatores trinitatis quasi agnos innocuos ad uictimam deducebat
+1	Eductisque	eductisqu	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	15	obj:dir	_	_
+2	illis	ille	DET	Pd	Case=Abl|Number=Plur	1	det	_	_
+3	de	de	ADP	R-	_	4	case	_	_
+4	custodia	custodia	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	1	nmod	_	_
+5	multitudo	multitudo	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	_
+6	populi	populus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	dei	deus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+8	bellatores	bellator	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	5	appos	_	_
+9	trinitatis	trinito	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+10	quasi	quasi	ADV	Df	_	11	amod	_	_
+11	agnos	agnus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	15	obj:dir	_	_
+12	innocuos	innocuus	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	11	amod	_	_
+13	ad	ad	ADP	R-	_	14	case	_	_
+14	uictimam	uictimus	ADJ	Mo	Case=Acc|Gender=Fem|Number=Sing	15	obl	_	_
+15	deducebat	deduco	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = 43
+# text = et rugientium pondera catenarum
+1	et	et	CCONJ	C-	_	2	cc	_	_
+2	rugientium	rugio	VERB	V-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	_
+3	pondera	pondus	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	2	obj:dir	_	_
+4	catenarum	catena	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	_
+
+# sent_id = 44
+# text = quasi quaedam monilia peruidebat quia non fuerunt illa uincula sed potius ornamenta Incedebant
+1	quasi	quasi	ADV	Df	_	4	advmod	_	_
+2	quaedam	quidam	DET	Px	Case=Acc|Gender=Neut|Number=Plur	3	det	_	_
+3	monilia	monilium	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	4	obj:dir	_	_
+4	peruidebat	peruido	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	quia	quia	SCONJ	G-	_	9	mark	_	_
+6	non	non	ADV	Df	Polarity=Neg	9	advmod	_	_
+7	fuerunt	sum	AUX	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	_
+8	illa	ille	DET	Pd	Case=Nom|Gender=Fem|Number=Sing	9	det	_	_
+9	uincula	uincula	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	advcl	_	_
+10	sed	sed	CCONJ	C-	_	9	cc	_	_
+11	potius	potius	ADV	Df	_	13	advmod	_	_
+12	ornamenta	ornamentum	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	13	obj:dir	_	SpacesAfter=\s\s\s
+13	Incedebant	Incedo	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	_
+
+# sent_id = 45
+# text = itaque cum fiducia ad supplicium quasi ad epulas concurrentes una uoce per ambitus platearum domino decantantes gloria in excelsis deo et in terra pax hominibus bonae uoluntatis
+1	itaque	itaque	ADV	Df	_	9	discourse	_	_
+2	cum	cum	ADP	R-	_	3	case	_	_
+3	fiducia	fiducia	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	9	obl	_	_
+4	ad	ad	ADP	R-	_	5	case	_	_
+5	supplicium	supplicium	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	3	nmod	_	_
+6	quasi	quasi	ADV	Df	_	9	advmod	_	_
+7	ad	ad	ADP	R-	_	8	case	_	_
+8	epulas	epula	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	6	obl	_	SpacesAfter=\s\s\s
+9	concurrentes	concurro	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	_
+10	una	una	NUM	Ma	Case=Abl|Gender=Fem|Number=Sing	11	nummod	_	_
+11	uoce	uoce	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	16	obl	_	_
+12	per	per	ADP	R-	_	15	case	_	_
+13	ambitus	ambitus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	_
+14	platearum	platea	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	13	nmod	_	_
+15	domino	dominus	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	16	obl	_	_
+16	decantantes	decanto	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	24	advcl	_	_
+17	gloria	gloria	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	24	nsubj	_	_
+18	in	in	ADP	R-	_	19	case	_	_
+19	excelsis	excelsum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Plur	16	obl	_	_
+20	deo	deus	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	19	nmod	_	_
+21	et	et	CCONJ	C-	_	20	cc	_	_
+22	in	in	ADP	R-	_	23	case	_	_
+23	terra	terra	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	20	conj	_	_
+24	pax	pax	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	9	conj	_	_
+25	hominibus	homo	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	9	iobj	_	_
+26	bonae	bonus	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	27	amod	_	_
+27	uoluntatis	uoluntas	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	25	nmod	_	_
+
+# sent_id = 46
+# text = Uotiua nobis haec dies est et omni sollemnitate festiuior
+1	Uotiua	Uotiua	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+2	nobis	nos	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	4	iobj	_	_
+3	haec	hic	ADJ	Pd	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+4	dies	dies	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+5	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
+6	et	et	CCONJ	C-	_	4	cc	_	_
+7	omni	omnis	DET	Px	Case=Abl|Gender=Fem|Number=Sing	8	det	_	_
+8	sollemnitate	sollemnitas	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	9	obl	_	_
+9	festiuior	festiuus	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Fem,Masc|Number=Sing	4	conj	_	_
+
+# sent_id = 47
+# text = Ecce nunc tempus acceptabile
+1	Ecce	ecce	INTJ	I-	_	2	vocative	_	_
+2	nunc	nunc	ADV	Df	_	0	root	_	_
+3	tempus	tempus	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	_
+4	acceptabile	acceptabilis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+
+# sent_id = 48
+# text = ecce nunc dies salutis quando pro fide domini dei nostri proferimur ad praeparatum supplicium ne amittamus adquisitae fidei indumentum
+1	ecce	ecce	INTJ	I-	_	16	vocative	_	_
+2	nunc	nunc	ADV	Df	_	16	advmod	_	_
+3	dies	dies	NOUN	Nb	Case=Acc|Gender=Fem,Masc|Number=Plur	16	obl	_	_
+4	salutis	salus	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+5	quando	quando	ADV	Dq	PronType=Rel	11	advmod	_	_
+6	pro	pro	ADP	R-	_	7	case	_	_
+7	fide	fides	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	11	obl	_	_
+8	domini	dominus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+9	dei	deus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+10	nostri	noster	ADJ	Ps	Case=Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes	9	nmod	_	_
+11	proferimur	profero	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	3	acl	_	_
+12	ad	ad	ADP	R-	_	13	case	_	_
+13	praeparatum	praeparo	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	11	obl	_	_
+14	supplicium	supplicium	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	16	obj:dir	_	_
+15	ne	ne	ADV	Df	Polarity=Neg	16	advmod	_	_
+16	amittamus	amitto	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+17	adquisitae	adquisita	VERB	V-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	16	advcl	_	_
+18	fidei	fides	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	17	iobj	_	_
+19	indumentum	indumenio	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	17	obj:dir	_	_
+
+# sent_id = 49
+# text = Sed et populis publica uoce clamabant ne timeatis
+1	Sed	sed	PROPN	Ne	_	6	obl	_	_
+2	et	et	CCONJ	C-	_	1	cc	_	_
+3	populis	populus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	1	conj	_	_
+4	publica	publicus	ADJ	A-	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	uoce	uoce	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	1	conj	_	_
+6	clamabant	clamo	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	ne	ne	SCONJ	G-	_	8	mark	_	_
+8	timeatis	timeo	VERB	V-	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	ccomp	_	_
+
+# sent_id = 50
+# text = o populi dei neque formidetis minas atque terrores praesentium tribulationum
+1	o	o	INTJ	I-	_	6	vocative	_	_
+2	populi	populus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+3	dei	deus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	obj:dir	_	_
+4	ne	ne	ADV	Df	Polarity=Neg	6	advmod	_	SpaceAfter=No
+5	que	que	CCONJ	C-	_	3	cc	_	_
+6	formidetis	formido	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+7	minas	minae	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	10	obj:dir	_	_
+8	atque	atque	CCONJ	C-	_	7	cc	_	_
+9	terrores	terror	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	7	conj	_	_
+10	praesentium	praesens	VERB	V-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	_
+11	tribulationum	tribulatio	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	7	nmod	_	_
+
+# sent_id = 51
+# text = sed potius moriamur pro Christo quomodo et ipse mortuus est pro nobis redimens nos pretio sui sanguinis sanguinis
+1	sed	sed	CCONJ	C-	_	3	cc	_	_
+2	potius	potius	ADV	Df	_	3	advmod	_	_
+3	moriamur	morior	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	pro	pro	ADP	R-	_	5	case	_	_
+5	Christo	Christus	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	3	obl	_	_
+6	quomodo	quomodo	ADV	Du	PronType=Int	9	advmod	_	_
+7	et	et	CCONJ	C-	_	6	cc	_	_
+8	ipse	ipse	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+9	mortuus	morior	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	ccomp	_	_
+10	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	_	_
+11	pro	pro	ADP	R-	_	12	case	_	_
+12	nobis	nos	PRON	Pp	Case=Abl|Gender=Masc|Number=Plur|Person=1|PronType=Prs	13	obl	_	_
+13	redimens	redimo	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	9	advcl	_	_
+14	nos	nos	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	13	obj:dir	_	_
+15	pretio	pretium	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	13	iobj	_	_
+16	sui	suus	ADJ	Pt	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	15	nmod	_	_
+17	sanguinis	sanguis	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	_
+18	sanguinis	sanguis	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	SpacesAfter=\s\s
+
+# sent_id = 52
+# text = Unum tamen uehementi conatu qui inter eos infantulus uidebatur nomine Maximum cupiebant auctores malorum a sanctorum consortio separare dicentes infantule quid festinas ad mortem
+1	Unum	unus	NUM	Ma	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
+2	tamen	tamen	ADV	Df	_	1	discourse	_	_
+3	uehementi	uehementi	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+4	conatu	conatus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	1	appos	_	_
+5	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	12	nsubj	_	_
+6	inter	inter	ADP	R-	_	7	case	_	_
+7	eos	is	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obl	_	_
+8	infantulus	infantulus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	9	nsubj:pass	_	_
+9	uidebatur	uidebo	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	12	advcl	_	_
+10	nomine	nomen	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	12	obl	_	_
+11	Maximum	magnus	ADJ	A-	Case=Nom|Degree=Sup|Gender=Neut|Number=Sing	10	amod	_	_
+12	cupiebant	cupio	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	acl	_	_
+13	auctores	auctor	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	12	nsubj	_	_
+14	malorum	malus	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	13	nmod	_	_
+15	a	ab	ADP	R-	_	17	case	_	_
+16	sanctorum	sanctus	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	17	amod	_	_
+17	consortio	consortius	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	12	obl	_	_
+18	separare	separo	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	22	xcomp	_	_
+19	dicentes	dico	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	22	advcl	_	_
+20	infantule	infantul	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	22	obj:dir	_	_
+21	quid	quis	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	22	obl	_	_
+22	festinas	festino	VERB	V-	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	17	conj	_	_
+23	ad	ad	ADP	R-	_	24	case	_	_
+24	mortem	mors	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	22	obl	_	_
+
+# sent_id = 53
+# text = dimitte eos insaniunt
+1	dimitte	dimitto	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	_
+2	eos	is	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	obj:dir	_	_
+3	insaniunt	insanio	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = 54
+# text = et audi consilium nostrum ut possis inuenire uitae remedium et tanti regis adire palatium
+1	et	et	CCONJ	C-	_	2	cc	_	_
+2	audi	audio	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	consilium	consilium	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	7	obj:dir	_	_
+4	nostrum	noster	ADJ	Ps	Case=Acc|Gender=Masc|Number=Sing|Person=1|Poss=Yes	3	nmod	_	_
+5	ut	ut	SCONJ	G-	_	6	mark	_	_
+6	possis	possum	VERB	V-	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+7	inuenire	inuenio	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	6	ccomp	_	_
+8	uitae	uita	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
+9	remedium	remedium	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	13	nsubj	_	_
+10	et	et	CCONJ	C-	_	9	cc	_	_
+11	tanti	tantus	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc,Neut|Number=Sing	12	amod	_	_
+12	regis	rex	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	9	conj	_	_
+13	adire	adeo	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	conj	_	_
+14	palatium	palatium	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	13	iobj	_	_
+
+# sent_id = 55
+# text = Tunc ille aetate quidem puerili
+1	Tunc	tunc	ADV	Df	_	3	advmod	_	_
+2	ille	ille	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+3	aetate	aetas	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	0	root	_	_
+4	quidem	quidem	ADV	Df	_	3	discourse	_	_
+5	puerili	puerilius	ADJ	A-	Case=Abl|Degree=Pos|Number=Sing	3	amod	_	_
+
+# sent_id = 56
+# text = senili tamen maturitate clamabat
+1	senili	senilis	ADJ	A-	Case=Abl|Degree=Pos|Number=Sing	3	amod	_	_
+2	tamen	tamen	ADV	Df	_	4	discourse	_	_
+3	maturitate	maturitas	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	4	obl	_	_
+4	clamabat	clamo	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = 57
+# text = nemo me separat a sancto patre meo Liberato abbate et a fratribus meis qui me in monasterio nutrierunt
+1	nemo	nemo	ADJ	Px	Case=Nom|Gender=Fem,Masc|Number=Sing	3	nsubj	_	_
+2	me	ego	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	3	obj:dir	_	_
+3	separat	separo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	a	ab	ADP	R-	_	6	case	_	_
+5	sancto	sanctus	ADJ	A-	Case=Abl|Degree=Pos|Gender=Masc,Neut|Number=Sing	6	amod	_	_
+6	patre	pater	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	9	obl	_	_
+7	meo	meus	ADJ	Ps	Case=Abl|Gender=Masc,Neut|Number=Sing|Person=1|Poss=Yes	6	nmod	_	_
+8	Liberato	Liberatus	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	6	appos	_	_
+9	abbate	abbo	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	_
+10	et	et	CCONJ	C-	_	9	cc	_	_
+11	a	ab	ADP	R-	_	12	case	_	_
+12	fratribus	frater	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	9	conj	_	_
+13	meis	meus	ADJ	Ps	Case=Abl|Number=Plur|Person=1|Poss=Yes	12	nmod	_	_
+14	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	18	nsubj	_	_
+15	me	ego	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	18	obj:dir	_	_
+16	in	in	ADP	R-	_	17	case	_	_
+17	monasterio	monasterium	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	18	obl	_	_
+18	nutrierunt	nutrio	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	acl	_	_
+
+# sent_id = 58
+# text = Cum ipsis sum in timore dei conuersatus cum ipsis desidero passionem suscipere cum quibus credo me et futuram gloriam inuenire
+1	Cum	cum	ADP	R-	_	2	case	_	_
+2	ipsis	ipse	PRON	Pp	Case=Abl|Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	obl	_	_
+3	sum	sum	AUX	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux:pass	_	_
+4	in	in	ADP	R-	_	5	case	_	_
+5	timore	timor	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	7	obl	_	_
+6	dei	deus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	conuersatus	conuerso	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	10	advcl	_	_
+8	cum	cum	ADP	R-	_	9	case	_	_
+9	ipsis	ipse	PRON	Pp	Case=Abl|Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	obl	_	_
+10	desidero	desidero	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+11	passionem	passio	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	12	obj:dir	_	_
+12	suscipere	suscipio	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	10	ccomp	_	_
+13	cum	cum	ADP	R-	_	14	case	_	_
+14	quibus	qui	PRON	Pr	Case=Abl|Gender=Fem|Number=Plur|PronType=Rel	20	obl	_	_
+15	credo	credo	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	12	advcl	_	_
+16	me	ego	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	20	obj:dir	_	_
+17	et	et	CCONJ	C-	_	16	cc	_	_
+18	futuram	sum	AUX	V-	Case=Acc|Gender=Fem|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Act	19	cop	_	_
+19	gloriam	gloria	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	16	conj	_	_
+20	inuenire	inuenio	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	15	xcomp	_	SpacesAfter=\s\s
+
+# sent_id = 59
+# text = Nolite putare quia potestis seducere pueritiam meam simul nos dominus septem uoluit congregare simul dignabitur omnes uno martyrio coronare
+1	Nolite	nolo	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	putare	puto	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	xcomp	_	_
+3	quia	quia	SCONJ	G-	_	4	mark	_	_
+4	potestis	possum	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	_
+5	seducere	seduco	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	xcomp	_	_
+6	pueritiam	pueritia	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj:dir	_	_
+7	meam	meus	ADJ	Ps	Case=Acc|Gender=Fem|Number=Sing|Person=1|Poss=Yes	6	nmod	_	_
+8	simul	simul	ADV	Df	_	9	advmod	_	_
+9	nos	nos	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	13	nsubj	_	_
+10	dominus	dominus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
+11	septem	septem	NUM	Ma	_	10	nummod	_	_
+12	uoluit	uoluo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
+13	congregare	congrego	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	12	ccomp	_	_
+14	simul	simul	ADV	Df	_	15	advmod	_	_
+15	dignabitur	dignabo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	13	conj	_	_
+16	omnes	omnis	ADJ	Px	Case=Nom|Gender=Masc|Number=Plur	19	nsubj	_	_
+17	uno	unus	NUM	Ma	Case=Abl|Gender=Masc,Neut|Number=Sing	18	nummod	_	_
+18	martyrio	martyrium	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	19	obl	_	_
+19	coronare	corono	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	15	advcl	_	_
+
+# sent_id = 60
+# text = Quomodo nemo perire potuit de septenario illo numero felicium Macchabeorum
+1	Quomodo	quomodos	ADV	Du	PronType=Int	4	advmod	_	_
+2	nemo	nemo	ADJ	Px	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+3	perire	pereo	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	xcomp	_	_
+4	potuit	possum	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	de	de	ADP	R-	_	6	case	_	_
+6	septenario	septenarius	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	4	obl	_	_
+7	illo	ille	DET	Pd	Case=Abl|Gender=Masc|Number=Sing	8	det	_	_
+8	numero	numerus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	6	appos	_	_
+9	felicium	felicium	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	8	appos	_	_
+10	Macchabeorum	Macchabeus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	_
+
+# sent_id = 61
+# text = ita etiam septenus nostrae congregationis numerus nullum inueniet detrimentum
+1	ita	ita	ADV	Df	_	0	root	_	_
+2	etiam	etiam	ADV	Df	_	3	discourse	_	_
+3	septenus	septenus	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	_
+4	nostrae	noster	ADJ	Ps	Case=Gen|Gender=Fem|Number=Sing|Person=1|Poss=Yes	3	nmod	_	_
+5	congregationis	congregatio	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+6	numerus	numerus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+7	nullum	nullus	DET	Px	Case=Acc|Gender=Masc,Neut|Number=Sing	6	det	_	_
+8	inueniet	inuenio	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	3	acl	_	_
+9	detrimentum	detrimentum	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	8	obj:dir	_	_
+
+# sent_id = 62
+# text = Nam si negauero eum
+1	Nam	nam	ADV	Df	_	0	root	_	_
+2	si	si	SCONJ	G-	_	3	mark	_	_
+3	negauero	negauo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	1	advcl	_	SpacesAfter=\s\s\s\s
+4	eum	is	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj:dir	_	_
+
+# sent_id = 63
+# text = et ipse negabit me quoniam ab ipso dictum est
+1	et	et	CCONJ	C-	_	3	cc	_	_
+2	ipse	ipse	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	negabit	nego	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+4	me	ego	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	3	obj:dir	_	_
+5	quoniam	quoniam	SCONJ	G-	_	8	mark	_	_
+6	ab	ab	ADP	R-	_	7	case	_	_
+7	ipso	ipse	PRON	Pp	Case=Abl|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obl:agent	_	_
+8	dictum	dico	VERB	V-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	advcl	_	_
+9	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux:pass	_	_
+
+# sent_id = 64
+# text = qui me negauerit coram hominibus negabo
+1	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	3	nsubj	_	_
+2	me	ego	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	3	obj:dir	_	_
+3	negauerit	negauo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	6	nsubj	_	_
+4	coram	coram	ADP	R-	_	5	case	_	_
+5	hominibus	homo	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	3	obl	_	_
+6	negabo	nego	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = 65
+# text = et ego eum coram patre meo qui est in caelis
+1	et	et	CCONJ	C-	_	0	root	_	_
+2	ego	ego	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
+3	eum	is	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj:dir	_	_
+4	coram	coram	ADP	R-	_	5	case	_	_
+5	patre	pater	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	3	nmod	_	_
+6	meo	meus	ADJ	Ps	Case=Abl|Gender=Masc|Number=Sing|Person=1|Poss=Yes	5	nmod	_	_
+7	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	10	nsubj	_	_
+8	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	_
+9	in	in	ADP	R-	_	10	case	_	_
+10	caelis	caelum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Plur	5	appos	_	_
+
+# sent_id = 66
+# text = et qui me confessus fuerit coram hominibus confitebor et ego eum coram patre meo qui est in caelis
+1	et	et	CCONJ	C-	_	8	cc	_	_
+2	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	4	nsubj	_	_
+3	me	ego	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	4	obj:dir	_	_
+4	confessus	confiteor	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	8	advcl	_	_
+5	fuerit	sum	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	4	aux	_	_
+6	coram	coram	ADP	R-	_	7	case	_	_
+7	hominibus	homo	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	4	obl	_	_
+8	confitebor	confiteor	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	_
+9	et	et	CCONJ	C-	_	8	cc	_	_
+10	ego	ego	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+11	eum	is	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj:dir	_	_
+12	coram	coram	ADP	R-	_	13	case	_	_
+13	patre	pater	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	8	obl	_	_
+14	meo	meus	ADJ	Ps	Case=Abl|Gender=Masc|Number=Sing|Person=1|Poss=Yes	13	nmod	_	_
+15	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	18	nsubj	_	_
+16	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	cop	_	_
+17	in	in	ADP	R-	_	18	case	_	_
+18	caelis	caelum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Plur	13	appos	_	SpacesAfter=\s\s\s\s
+
+# sent_id = 67
+# text = VI Perducti
+1	VI	vi	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
+2	Perducti	Perductus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	1	amod	_	_
+
+# sent_id = 68
+# text = itaque cum festinatione ad naualem supplicium pro uoluntate infandi regis uel crudelium ministrorum extensis manibus et pedibus clauati feruntur potius quam ligati
+1	itaque	itaque	ADV	Df	_	22	discourse	_	_
+2	cum	cum	SCONJ	G-	_	19	mark	_	_
+3	festinatione	festinatio	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	14	nsubj:pass	_	_
+4	ad	ad	ADP	R-	_	6	case	_	_
+5	naualem	naualis	DET	Pd	Case=Acc|Gender=Fem,Masc|Number=Sing	6	det	_	_
+6	supplicium	supplicium	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	14	obl	_	_
+7	pro	pro	ADP	R-	_	8	case	_	_
+8	uoluntate	uoluntas	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	14	obl	_	_
+9	infandi	infando	VERB	V-	Case=Gen|VerbForm=Ger	8	acl	_	_
+10	regis	rex	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	_
+11	uel	uel	CCONJ	C-	_	10	cc	_	_
+12	crudelium	crudelis	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	10	conj	_	_
+13	ministrorum	minister	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	9	nsubj	_	_
+14	extensis	extensus	VERB	V-	Aspect=Perf|Case=Abl|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	19	advcl	_	_
+15	manibus	manus	NOUN	Nb	Case=Abl|Gender=Fem|Number=Plur	14	nsubj:pass	_	_
+16	et	et	CCONJ	C-	_	14	cc	_	_
+17	pedibus	pes	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	18	obl	_	_
+18	clauati	clauo	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	14	conj	_	_
+19	feruntur	fero	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	22	advcl	_	_
+20	potius	potius	ADV	Df	_	22	advmod	_	_
+21	quam	quam#1	ADV	Df	_	20	flat	_	_
+22	ligati	ligo	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+
+# sent_id = 69
+# text = Qui dum ignis fuisset lignis iniectus statim imperio diuino uidentibus cunctis extinctus est
+1	Qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	12	nsubj:pass	_	_
+2	dum	dum	SCONJ	G-	_	3	mark	_	_
+3	ignis	ignis	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	12	advcl	_	_
+4	fuisset	sum	AUX	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	3	cop	_	_
+5	lignis	lignum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Plur	6	iobj	_	_
+6	iniectus	inicio	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	12	advcl	_	_
+7	statim	statim	ADV	Df	_	12	advmod	_	_
+8	imperio	imperium	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	12	obl	_	_
+9	diuino	diuino	ADJ	A-	Case=Abl|Degree=Pos|Gender=Masc,Neut|Number=Sing	8	amod	_	_
+10	uidentibus	uido	VERB	V-	Case=Abl|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	9	advcl	_	_
+11	cunctis	cunctus	ADJ	A-	Case=Abl|Degree=Pos|Number=Plur	10	nsubj	_	_
+12	extinctus	extinco#1	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+13	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	aux:pass	_	_
+
+# sent_id = 70
+# text = et dum saepius renouaretur nutrientibus pabulis iterum atque iterum extinguebantur rogi globi flammarum
+1	et	et	CCONJ	C-	_	5	cc	_	_
+2	dum	dum	SCONJ	G-	_	4	mark	_	_
+3	saepius	saepe	ADV	Df	Degree=Cmp	4	advmod	_	_
+4	renouaretur	renouaro	VERB	V-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	5	advcl	_	_
+5	nutrientibus	nutrio	VERB	V-	Case=Dat|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	_
+6	pabulis	pabulum	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	5	iobj	_	_
+7	iterum	iterum	ADV	Df	_	5	advmod	_	_
+8	atque	atque	CCONJ	C-	_	5	cc	_	_
+9	iterum	iterum	ADV	Df	_	10	advmod	_	_
+10	extinguebantur	extinguebo	VERB	V-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	5	conj	_	_
+11	rogi	rogo	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	10	xcomp	_	_
+12	globi	globus	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	11	iobj	_	_
+13	flammarum	flamma	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	12	nmod	_	_
+
+# sent_id = 71
+# text = Et cum exinde magis tyrannus furore simul esset et rubore repletus iussit eos remorum uectibus enecari
+1	Et	et	CCONJ	C-	_	12	cc	_	_
+2	cum	cum	SCONJ	G-	_	6	mark	_	_
+3	exinde	exinde	ADV	Df	_	6	advmod	_	_
+4	magis	magis	ADV	Df	Degree=Cmp	6	advmod	_	_
+5	tyrannus	tyrannus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+6	furore	furor	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	11	obl	_	_
+7	simul	simul	SCONJ	G-	_	6	advmod	_	_
+8	esset	sum	AUX	V-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	_
+9	et	et	CCONJ	C-	_	6	cc	_	_
+10	rubore	rubor	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	6	conj	_	_
+11	repletus	repleo	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	12	advcl	_	_
+12	iussit	iubeo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+13	eos	is	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	16	nsubj:pass	_	_
+14	remorum	rema	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	15	nmod	_	_
+15	uectibus	uect	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	16	iobj	_	_
+16	enecari	eneco	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	12	ccomp	_	_
+
+# sent_id = 72
+# text = et ita singulos in modum canum cerebris comminutis extingui
+1	et	et	CCONJ	C-	_	9	cc	_	_
+2	ita	ita	ADV	Df	_	9	advmod	_	_
+3	singulos	singulus	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	9	nsubj:pass	_	_
+4	in	in	ADP	R-	_	5	case	_	_
+5	modum	modus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	9	obl	_	_
+6	canum	canis	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+7	cerebris	cereber	ADJ	A-	Case=Abl|Degree=Pos|Number=Plur	6	amod	_	_
+8	comminutis	comminuo	VERB	V-	Aspect=Perf|Case=Abl|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	9	advcl	_	_
+9	extingui	ex(s)tinguor	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	0	root	_	SpacesAfter=\s\s
+
+# sent_id = 73
+# text = Qui tali genere mortis debitum spiritum feliciter domino reddiderunt
+1	Qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	9	nsubj	_	_
+2	tali	talis	DET	Pd	Case=Abl|Number=Sing	3	det	_	_
+3	genere	genus	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	5	obl	_	_
+4	mortis	mors	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+5	debitum	debeo	VERB	V-	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	9	advcl	_	_
+6	spiritum	spiritus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	9	obj:dir	_	_
+7	feliciter	feliciter	ADV	Df	Degree=Pos	9	advmod	_	_
+8	domino	dominus	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	7	iobj	_	_
+9	reddiderunt	reddo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = 74
+# text = nec expauerunt lignis quatientibus mortificari quibus semper fuit spes omnis in ligno
+1	ne	ne	ADV	Df	Polarity=Neg	3	advmod	_	SpaceAfter=No
+2	c	que	CCONJ	C-	_	3	cc	_	_
+3	expauerunt	ex(s)pauo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	lignis	lignum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Plur	6	nsubj:pass	_	_
+5	quatientibus	quatio	VERB	V-	Case=Abl|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	4	acl	_	_
+6	mortificari	mortifico	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	3	ccomp	_	_
+7	quibus	qui	PRON	Pr	Case=Abl|Gender=Fem|Number=Plur|PronType=Rel	13	obl	_	_
+8	semper	semper	ADV	Df	_	13	advmod	_	_
+9	fuit	sum	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	cop	_	_
+10	spes	spes	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	_
+11	omnis	omnis	DET	Px	Case=Nom|Gender=Fem|Number=Sing	10	det	_	_
+12	in	in	ADP	R-	_	13	case	_	_
+13	ligno	lignum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	6	obl	_	SpacesAfter=\s\s
+
+# sent_id = 75
+# text = Sed cum in mari uenerabilia corpora iactarentur ilico quod contra naturam est aequoris eadem hora inlaesa corpora pelagus litori reddere maturauit nec ausus fuit ut moris est triduana dilatione in profundo retinere ne praecepto dominico minime paruisset
+1	Sed	sed	CCONJ	C-	_	21	cc	_	_
+2	cum	cum	SCONJ	G-	_	7	mark	_	_
+3	in	in	ADP	R-	_	4	case	_	_
+4	mari	mare	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	5	obl	_	_
+5	uenerabilia	uenerabilis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	6	amod	_	_
+6	corpora	corpus	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	7	nsubj:pass	_	_
+7	iactarentur	iacto	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	21	advcl	_	_
+8	ilico	ilico	ADV	Df	_	20	advmod	_	_
+9	quod	quod	SCONJ	G-	_	11	mark	_	_
+10	contra	contra	ADP	R-	_	11	case	_	_
+11	naturam	natura	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	20	advcl	_	_
+12	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	_
+13	aequoris	aequus	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
+14	eadem	idem	DET	Pd	Case=Abl|Gender=Fem|Number=Sing	15	det	_	_
+15	hora	hora	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	20	obl	_	_
+16	inlaesa	inlaedo	ADJ	A-	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+17	corpora	corpus	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	20	nsubj	_	_
+18	pelagus	pelagus	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	20	obj:dir	_	_
+19	litori	litus	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	20	iobj	_	_
+20	reddere	reddo	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	21	xcomp	_	_
+21	maturauit	maturaeo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+22	ne	ne	ADV	Df	Polarity=Neg	24	advmod	_	SpaceAfter=No
+23	c	que	CCONJ	C-	_	21	cc	_	_
+24	ausus	audeo	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	21	conj	_	_
+25	fuit	sum	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	24	aux:pass	_	_
+26	ut	ut	SCONJ	G-	_	33	mark	_	_
+27	moris	mora	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	30	nmod	_	_
+28	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	30	cop	_	_
+29	triduana	triduanus	ADJ	A-	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	30	amod	_	_
+30	dilatione	dilatio	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	33	obl	_	_
+31	in	in	ADP	R-	_	32	case	_	_
+32	profundo	profundum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	33	obl	_	_
+33	retinere	retineo	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	24	advcl	_	_
+34	ne	ne	ADV	Df	Polarity=Neg	35	advmod	_	_
+35	praecepto	praecipio	VERB	V-	Aspect=Perf|Case=Abl|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	38	advcl	_	_
+36	dominico	dominicus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	35	nsubj:pass	_	_
+37	minime	parum	ADV	Df	Degree=Sup	38	advmod	_	_
+38	paruisset	pareo	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	30	conj	_	_
+
+# sent_id = 76
+# text = Ad quod miraculi genus et ipse tyrannus licet inpaenitens ut fertur expauit
+1	Ad	ad	ADP	R-	_	2	case	_	_
+2	quod	qui	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	8	obl	_	_
+3	miraculi	miraculo	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+4	genus	genus	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_
+5	et	et	CCONJ	C-	_	4	cc	_	_
+6	ipse	ipse	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	7	det	_	_
+7	tyrannus	tyrannus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	_
+8	licet	licet	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	obj:dir	_	_
+9	inpaenitens	inpaenito	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	nsubj	_	_
+10	ut	ut	SCONJ	G-	_	11	mark	_	_
+11	fertur	fero	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	12	advcl	_	_
+12	expauit	expaesco	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = 77
+# text = Gaudens autem quae aderat multitudo corpora sanctorum martyrum diligenti tradidit sepulturae praeeunte clero uenerabili Carthaginiensis ecclesiae ubi etiam et praedicandi diacones tertio iam confessores effecti Salutaris et
+1	Gaudens	gaudens	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	_
+2	autem	autem	ADV	Df	_	6	discourse	_	_
+3	quae	qui	PRON	Pr	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	4	nsubj	_	_
+4	aderat	adsum	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	5	acl	_	_
+5	multitudo	multitudo	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+6	corpora	corpus	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	10	nsubj	_	_
+7	sanctorum	sanctus	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	8	amod	_	_
+8	martyrum	martyr	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
+9	diligenti	diligo	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
+10	tradidit	trado	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+11	sepulturae	sepultura	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	12	nsubj	_	_
+12	praeeunte	praeeo	VERB	V-	Case=Abl|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	10	advcl	_	_
+13	clero	clerus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	15	obl	_	SpacesAfter=\s\s\s\s\s\s
+14	uenerabili	uenerabilis	ADJ	A-	Case=Abl|Degree=Pos|Number=Sing	13	amod	_	_
+15	Carthaginiensis	Carthaginiensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	advmod	_	_
+16	ecclesiae	ecclesia	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	15	iobj	_	_
+17	ubi	ubi	ADV	Dq	PronType=Rel	26	advmod	_	_
+18	etiam	etiam	ADV	Df	_	25	discourse	_	_
+19	et	et	CCONJ	C-	_	17	cc	_	_
+20	praedicandi	praedicor	VERB	V-	Case=Gen|VerbForm=Ger	21	acl	_	_
+21	diacones	diacones	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	25	obl	_	_
+22	tertio	tertio	ADV	Df	_	25	advmod	_	_
+23	iam	iam	ADV	Df	_	25	advmod	_	_
+24	confessores	confessor	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	25	nsubj:pass	_	_
+25	effecti	effigo	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	17	conj	_	_
+26	Salutaris	Salutaris	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	16	appos	_	_
+27	et	et	CCONJ	C-	_	10	cc	_	_
+
+# sent_id = 78
+# text = Muritta geruli reliquiarum adfuerunt
+1	Muritta	Muritta	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	4	nsubj	_	_
+2	geruli	gerulus	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+3	reliquiarum	reliquiarus	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	2	amod	_	_
+4	adfuerunt	adfuo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\s\s\s
+
+# sent_id = 79
+# text = VII
+1	VII	vius	NOUN	Nb	_	0	root	_	_
+
+# sent_id = 80
+# text = Hnmatae sunt igitur cum hymnis soUemnibus lypsanae beatae sanctorum in monasterio Biguae contiguo basilicae quae dicitur Celerinae
+1	Hnmatae	Hnmatus	VERB	V-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+2	sunt	sum	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux:pass	_	_
+3	igitur	igitur	ADV	Df	_	1	discourse	_	_
+4	cum	cum	ADP	R-	_	5	case	_	_
+5	hymnis	hymnus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	1	obl	_	_
+6	soUemnibus	soUem	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	13	obl	_	_
+7	lypsanae	lypsana	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	6	conj	_	_
+8	beatae	beatus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	7	amod	_	_
+9	sanctorum	sanctus	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc,Neut|Number=Plur	6	amod	_	_
+10	in	in	ADP	R-	_	11	case	_	_
+11	monasterio	monasterium	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	13	obl	_	_
+12	Biguae	Biguis	PRON	Pi	Case=Nom|Gender=Fem|Number=Sing|PronType=Int	11	det	_	_
+13	contiguo	contiguo	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	_
+14	basilicae	basilica	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	13	iobj	_	_
+15	quae	qui	PRON	Pr	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	16	nsubj:pass	_	_
+16	dicitur	dico	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	14	acl	_	_
+17	Celerinae	Celerina	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	16	xcomp	_	_
+
+# sent_id = 81
+# text = Et sic in confessione trinitatis beatissimi martyres passi sunt et speciosum cursum certaminis sui coronante domino perfecerunt
+1	Et	et	CCONJ	C-	_	8	cc	_	_
+2	sic	sic	ADV	Df	_	8	advmod	_	_
+3	in	in	ADP	R-	_	4	case	_	_
+4	confessione	confessio	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	8	obl	_	_
+5	trinitatis	trinitas	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+6	beatissimi	beatus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	7	amod	_	_
+7	martyres	martyr	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	8	nsubj:pass	_	_
+8	passi	patior	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+9	sunt	sum	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux:pass	_	_
+10	et	et	CCONJ	C-	_	8	cc	_	_
+11	speciosum	speciosus	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+12	cursum	cursus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	15	obj:dir	_	_
+13	certaminis	certamo	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+14	sui	suus	ADJ	Pt	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	13	nmod	_	_
+15	coronante	corono	VERB	V-	Case=Abl|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	17	advcl	_	_
+16	domino	dominus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	15	nsubj	_	_
+17	perfecerunt	perficio	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	_
+
+# sent_id = 82
+# text = Cui est honor et gloria in saecula saeculorum
+1	Cui	qui	PRON	Pr	Case=Dat|Number=Sing|PronType=Rel	0	root	_	_
+2	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+3	honor	honor	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+4	et	et	CCONJ	C-	_	3	cc	_	_
+5	gloria	gloria	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	conj	_	_
+6	in	in	ADP	R-	_	7	case	_	_
+7	saecula	saeculum	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	1	obl	_	_
+8	saeculorum	saeculum	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	7	nmod	_	_
+
+# sent_id = 83
+# text = Arnen EXPLICIT
+1	Arnen	Arnes	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	2	obj:dir	_	SpacesAfter=\s\s\s
+2	EXPLICIT	explico	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = 84
+# text = STORIA aFRICana INCIPIT
+1	STORIA	Storia	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+2	aFRICana	aFRICana	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	1	amod	_	SpacesAfter=\s\s
+3	INCIPIT	incipio	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = 85
+# text = STORiaE RoMaNaE LIBER pRImus
+1	STORia	STORia	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+2	E	ex	ADP	R-	_	3	case	_	_
+3	RoMa	Roma	PROPN	Ne	Case=Abl|Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
+4	Na	nas	ADJ	A-	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	SpaceAfter=No
+5	E	ex	ADP	R-	_	6	case	_	SpacesAfter=\s\s
+6	LIBER	liber	PROPN	Ne	_	3	appos	_	_
+7	pRImus	pro	ADJ	Mo	Case=Nom|Gender=Masc|Number=Sing	6	appos	_	SpacesAfter=\s\s\s\s\s\n
+

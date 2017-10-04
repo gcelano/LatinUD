@@ -1,0 +1,729 @@
+# newdoc id = /Users/mycomputer/Documents/ud-pipe/latin/02-extractTextDirectlyForProiel-CSEL/stoa0149b.stoa006.opp-lat1.xml
+# newpar
+# sent_id = 1
+# text = c LIBRI TRES ADUERSUM UALENTE ET UKSACIUM ex Collectaneis Antiarianis Parisinis et
+1	c	que	CCONJ	C-	_	7	cc	_	SpacesBefore=\s\s\s\s|SpacesAfter=\s\s
+2	LIBRI	liber	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
+3	TRES	tres	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	2	nmod	_	_
+4	ADUERSUM	Aduersus	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	7	obj:dir	_	_
+5	UALEN	Uales	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	4	flat:name	_	SpaceAfter=No
+6	TE	tu	PRON	Pp	Case=Acc|Gender=Fem|Number=Sing|Person=2|PronType=Prs	4	appos	_	_
+7	ET	et	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	UKSACIUM	Uksacius	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	2	conj	_	SpacesAfter=\s\s\s
+9	ex	ex	ADP	R-	_	10	case	_	_
+10	Collectaneis	Collectaneus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	8	nmod	_	_
+11	Antiarianis	Antiariani	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	_
+12	Parisinis	Pariso	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+13	et	et	CCONJ	C-	_	10	cc	_	_
+
+# sent_id = 2
+# text = Appendice Libro
+1	Appendice	Appendix	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	0	root	_	_
+2	Libro	librus	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	1	flat:name	_	_
+
+# sent_id = 3
+# text = I ad Constantium per coniecturam dispositi LIBER I scriptus a 356 Praefatio = Series B I supra p 98102
+1	I	is	ADV	Df	_	6	advmod	_	_
+2	ad	ad	ADP	R-	_	3	case	_	_
+3	Constantium	Constantius	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	_
+4	per	per	ADP	R-	_	5	case	_	_
+5	coniecturam	coniectura	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	_
+6	dispositi	dispono	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	SpacesAfter=\s\s\s\s\s\s
+7	LIBER	liber	ADP	R-	_	8	case	_	_
+8	I	us	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	9	obl	_	SpacesAfter=\s\s\s
+9	scriptus	scribo	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	advcl	_	_
+10	a	ab	ADP	R-	_	12	case	_	_
+11	356	356	NUM	Ma	_	12	nummod	_	SpacesAfter=\s\s
+12	Praefatio	Praefatio	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	9	obl	_	_
+13	=	=	SYM	_	_	6	advmod	_	_
+14	Series	Series	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	13	conj	_	_
+15	B	b	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	14	nmod	_	_
+16	I	us	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	_
+17	supra	supra	ADP	R-	_	18	case	_	_
+18	p	p	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	14	orphan	_	_
+19	98102	98102	NUM	Ma	_	18	nummod	_	SpacesAfter=\s\s
+
+# sent_id = 4
+# text = De synodo Arelatensi et de exsilio Paulini episcopi
+1	De	de	ADP	R-	_	2	case	_	_
+2	synodo	synodus	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	8	obl	_	_
+3	Arelatensi	Arelatensius	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	et	et	CCONJ	C-	_	2	cc	_	_
+5	de	de	ADP	R-	_	6	case	_	_
+6	exsilio	exsilium	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	2	conj	_	_
+7	Paulini	Paulinus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+8	episcopi	episcopio	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	0	root	_	_
+
+# sent_id = 5
+# text = Treuirensis deest
+1	Treuirensis	Treuirensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	advmod	_	_
+2	deest	desum	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = 6
+# text = cf Studien 1 83 &#x17;&#x17;&#x17;
+1	cf	cf	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj:dir	_	_
+2	Studien	Studies	ADV	Df	_	3	advmod	_	_
+3	1	1	NUM	Ma	_	1	nummod	_	_
+4	83	83	NUM	Ma	_	3	flat	_	_
+5	&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;	SYM	_	_	0	root	_	_
+
+# sent_id = 7
+# text = &#x17;&#x17; &#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; Epistula synodi Sardicensis Orientalium cum symbolo et nominibus episcoporum qui subscripserunt c 9 est decurtatum deest narratio de Paulo episcopo Constantinopolitano d Studien
+1	&#x17;&#x17;	&#x17;&#x17;	SYM	_	_	2	advmod	_	_
+2	&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;	SYM	_	_	0	root	_	_
+3	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	19	advmod	_	SpacesAfter=\s\s
+4	Epistula	epistula	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	6	nsubj:pass	_	_
+5	synodi	synodum	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+6	Sardicensis	Sardicensis	VERB	V-	Aspect=Perf|Case=Abl|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	19	advcl	_	_
+7	Orientalium	Orientalius	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	19	obj:dir	_	_
+8	cum	cum	ADP	R-	_	9	case	_	_
+9	symbolo	symbolus	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	19	obl	_	_
+10	et	et	CCONJ	C-	_	9	cc	_	_
+11	nominibus	nomen	NOUN	Nb	Case=Abl|Gender=Neut|Number=Plur	9	conj	_	_
+12	episcoporum	episcopus	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	11	nmod	_	_
+13	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	14	nsubj	_	_
+14	subscripserunt	subscripso	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	18	nsubj:pass	_	_
+15	c	que	CCONJ	C-	_	9	cc	_	_
+16	9	9	NUM	Ma	_	18	xcomp	_	_
+17	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	cop	_	_
+18	decurtatum	decurto	VERB	V-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	9	conj	_	_
+19	deest	desum	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	_
+20	narratio	narratio	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	19	nsubj	_	_
+21	de	de	ADP	R-	_	22	case	_	_
+22	Paulo	Paulus	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	20	nmod	_	_
+23	episcopo	episcopo	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	22	appos	_	_
+24	Constantinopolitano	Constantinopolitanus	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	23	nmod	_	_
+25	d	d	ADV	Df	_	26	advmod	_	_
+26	Studien	Studies	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	22	appos	_	_
+
+# sent_id = 8
+# text = I 184 Ser A IV supra p 4878 &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17; Uaria ex actis synodi Sardicensis Occidentalium duae epistulae Ualentis et Ursacii symbolum Nicaenum una cum textu narratiuo n 9 c 1 est decurtatum
+1	I	is	ADV	Df	_	2	advmod	_	_
+2	184	184	NUM	Ma	_	3	nummod	_	SpacesAfter=\s\s
+3	Ser	Ser	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+4	A	calendar	ADV	Df	_	5	advmod	_	_
+5	IV	expression	ADV	Df	_	3	advmod	_	_
+6	supra	supra	ADP	R-	_	7	case	_	_
+7	p	p	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	_
+8	4878	4878	NUM	Ma	_	7	nummod	_	_
+9	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	0	root	_	_
+10	&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	11	advmod	_	_
+11	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	9	advcl	_	_
+12	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	35	nsubj:pass	_	SpacesAfter=\s\s
+13	Uaria	Uaria	PROPN	Ne	Case=Abl|Gender=Fem|Number=Sing	35	obl	_	_
+14	ex	ex	ADP	R-	_	15	case	_	_
+15	actis	ago	VERB	V-	Aspect=Perf|Case=Abl|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	35	obl	_	_
+16	synodi	synodum	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	17	nsubj:pass	_	_
+17	Sardicensis	Sardicensis	VERB	V-	Aspect=Perf|Case=Abl|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	35	advcl	_	_
+18	Occidentalium	Occidentalius	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	35	nsubj:pass	_	_
+19	duae	duo	NUM	Ma	Case=Nom|Gender=Fem|Number=Plur	20	nummod	_	_
+20	epistulae	epistula	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	35	obl	_	_
+21	Ualentis	Ualentum	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	_
+22	et	et	CCONJ	C-	_	20	cc	_	_
+23	Ursacii	Ursacium	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	20	conj	_	_
+24	symbolum	symbolus	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	35	obl	_	_
+25	Nicaenum	Nicaenus	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	35	nsubj:pass	_	_
+26	una	una	NUM	Ma	Case=Abl|Gender=Fem|Number=Sing	28	nummod	_	_
+27	cum	cum	ADP	R-	_	28	case	_	_
+28	textu	textus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	35	obl	_	_
+29	narratiuo	narratiuo	ADV	Du	PronType=Int	30	advmod	_	_
+30	n	ne	ADV	Du	PronType=Int	31	advmod	_	_
+31	9	9	NUM	Ma	_	28	conj	_	_
+32	c	que	CCONJ	C-	_	28	cc	_	_
+33	1	1	NUM	Ma	_	28	conj	_	_
+34	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	35	aux:pass	_	_
+35	decurtatum	decurto	VERB	V-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	11	ccomp	_	_
+
+# sent_id = 9
+# text = uidetur enim deesse symbolum Sirmiense atque initium refutationis cf supra p 146 praeterea excidit ante primam epistulam synodi certe textus Hilarii quo dispositionem textus narratiui insequentis indicabat
+1	uidetur	uido	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	enim	enim	ADV	Df	_	1	discourse	_	_
+3	deesse	desum	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	xcomp	_	_
+4	symbolum	symbolus	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	3	obj:dir	_	_
+5	Sirmiense	Sirmiensis	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+6	atque	atque	CCONJ	C-	_	4	cc	_	_
+7	initium	initium	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	conj	_	_
+8	refutationis	refutatio	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+9	cf	cf	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	14	obj:dir	_	_
+10	supra	supra	ADP	R-	_	11	case	_	_
+11	p	p	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	14	obl	_	_
+12	146	146	NUM	Ma	_	11	nummod	_	_
+13	praeterea	praeterea	ADV	Df	_	14	advmod	_	_
+14	excidit	excido#1	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+15	ante	ante	ADP	R-	_	17	case	_	_
+16	primam	primus	ADJ	Mo	Case=Acc|Gender=Fem|Number=Sing	15	advmod	_	_
+17	epistulam	epistula	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	14	obl	_	_
+18	synodi	synodum	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	17	nmod	_	_
+19	certe	certe	ADV	Df	Degree=Pos	27	advmod	_	_
+20	textus	textus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	27	nsubj	_	_
+21	Hilarii	Hilarius	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	_
+22	quo	qui	PRON	Pr	Case=Abl|Gender=Masc|Number=Sing|PronType=Rel	23	det	_	_
+23	dispositionem	dispositio	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	27	obj:dir	_	_
+24	textus	textus	ADJ	Mo	Case=Nom|Gender=Masc|Number=Sing	23	amod	_	_
+25	narratiui	narratiuo	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	24	nmod	_	_
+26	insequentis	insequo	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	25	amod	_	_
+27	indicabat	indico#1	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	advcl	_	_
+
+# sent_id = 10
+# text = cf Studien I 97 = Ser
+1	cf	cf	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj:dir	_	_
+2	Studien	Studies	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	1	conj	_	_
+3	I	us	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	2	flat:name	_	_
+4	97	97	NUM	Ma	_	2	nummod	_	_
+5	=	=	SYM	_	_	0	root	_	_
+6	Ser	Ser	PROPN	Ne	_	1	appos	_	_
+
+# sent_id = 11
+# text = B 11 supra
+1	B	b	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	11	11	NUM	Ma	_	0	root	_	_
+3	supra	supra	ADP	R-	_	2	flat	_	_
+
+# sent_id = 12
+# text = p 103154 Oratio synodi Sardicensis Occidentalium ad Constantium imperatorem una cum textu narratiuo = Liber
+1	p	p	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	103154	103154	NUM	Ma	_	3	nummod	_	SpacesAfter=\s\s
+3	Oratio	oratio	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	_
+4	synodi	synodum	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+5	Sardicensis	Sardicensis	VERB	V-	Aspect=Perf|Case=Abl|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	3	acl	_	_
+6	Occidentalium	Occidentalius	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	5	nsubj:pass	_	_
+7	ad	ad	ADP	R-	_	8	case	_	_
+8	Constantium	Constantius	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	5	obl	_	_
+9	imperatorem	imperator	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	5	obj:dir	_	_
+10	una	una	ADV	Df	_	11	advmod	_	_
+11	cum	cum	ADP	R-	_	12	case	_	_
+12	textu	textus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	9	nmod	_	_
+13	narratiuo	narratiuo	DET	Px	Case=Abl|Gender=Masc|Number=Sing	12	det	_	_
+14	=	=	SYM	_	_	1	advmod	_	_
+15	Liber	liber	PROPN	Ne	_	9	appos	_	_
+
+# sent_id = 13
+# text = qui uulgo dicitur
+1	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	3	nsubj:pass	_	_
+2	uulgo	uulgo	ADV	Df	_	3	advmod	_	_
+3	dicitur	dico	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+
+# sent_id = 14
+# text = I ad Constantium imperatorem 17 supra p 181186
+1	I	is	ADV	Df	_	0	root	_	_
+2	ad	ad	ADP	R-	_	3	case	_	_
+3	Constantium	Constantius	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	1	obl	_	_
+4	imperatorem	imperator	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	1	obj:dir	_	_
+5	17	17	NUM	Ma	_	4	nummod	_	_
+6	supra	supra	ADP	R-	_	7	case	_	_
+7	p	p	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	nmod	_	_
+8	181186	181186	NUM	Ma	_	7	nummod	_	SpacesAfter=\s\s
+
+# sent_id = 15
+# text = Ie synodo Mediolanensi textus narratiuus decurtatus in fine
+1	Ie	Ie	ADV	Df	_	0	root	_	_
+2	synodo	synodus	SCONJ	G-	_	6	mark	_	_
+3	Mediolanensi	Mediolanensius	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+4	textus	textus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	nsubj:pass	_	_
+5	narratiuus	narratiuus	ADJ	Ps	Case=Nom|Gender=Masc|Number=Sing|Person=2|Poss=Yes	4	nmod	_	_
+6	decurtatus	decurto	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	advcl	_	_
+7	in	in	ADP	R-	_	8	case	_	_
+8	fine	fis	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	6	obl	_	_
+
+# sent_id = 16
+# text = cf Studien
+1	cf	cf	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	Studien	Studies	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	_
+
+# sent_id = 17
+# text = I 149 = Liber qui uulgo dicitur 1 ad Constantium 8 supra p 186 sq &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; LIBER
+1	I	is	ADV	Df	_	2	advmod	_	_
+2	149	149	NUM	Ma	_	0	root	_	_
+3	=	=	SYM	_	_	2	flat	_	_
+4	Liber	liber	PROPN	Ne	_	2	appos	_	_
+5	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	7	nsubj:pass	_	_
+6	uulgo	uulgo	ADV	Df	_	7	advmod	_	_
+7	dicitur	dico	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	acl	_	_
+8	1	1	NUM	Ma	_	7	appos	_	_
+9	ad	ad	ADP	R-	_	10	case	_	_
+10	Constantium	Constantius	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	8	orphan	_	_
+11	8	8	NUM	Ma	_	10	nummod	_	_
+12	supra	supra	ADP	R-	_	13	case	_	_
+13	p	p	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	orphan	_	_
+14	186	186	NUM	Ma	_	13	nummod	_	_
+15	sq	sq	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	orphan	_	_
+16	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	8	orphan	_	_
+17	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	8	orphan	_	_
+18	&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;	SYM	_	_	8	orphan	_	_
+19	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	8	orphan	_	_
+20	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	8	orphan	_	_
+21	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	8	orphan	_	SpacesAfter=\s\s\s\s
+22	LIBER	liber	PROPN	Ne	_	8	appos	_	_
+
+# sent_id = 18
+# text = II scriptus hieme 359360 &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;
+1	II	is	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	det	_	SpacesAfter=\s\s\s
+2	scriptus	scribo	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	acl	_	_
+3	hieme	hiem(p)s	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	5	obl	_	_
+4	359360	359360	NUM	Ma	_	3	nummod	_	_
+5	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	0	root	_	SpacesAfter=\s\s
+
+# sent_id = 19
+# text = De Liberio episcopo Romano Epistula dubia Liberio ad Orientales episcopos Studens paci una cum textu narratiuo deest textus narratiuus epistulae praemissus
+1	De	de	ADP	R-	_	2	case	_	_
+2	Liberio	Liberius	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	17	obl	_	_
+3	episcopo	episcopo	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	12	obl	_	_
+4	Romano	Romanus	ADJ	A-	Case=Abl|Degree=Pos|Gender=Masc,Neut|Number=Sing	3	amod	_	_
+5	Epistula	epistula	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	12	nsubj:pass	_	_
+6	dubia	dubius	ADJ	A-	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+7	Liberio	Liberius	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	5	nmod	_	_
+8	ad	ad	ADP	R-	_	10	case	_	_
+9	Orientales	Orientales	DET	Pd	Case=Nom|Gender=Fem,Masc|Number=Plur	10	det	_	_
+10	episcopos	episcopus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	12	obl	_	_
+11	Studens	Studens	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+12	paci	pacium	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	17	ccomp	_	_
+13	una	una	NUM	Ma	Case=Abl|Gender=Fem|Number=Sing	17	iobj	_	_
+14	cum	cum	ADP	R-	_	15	case	_	_
+15	textu	textus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	17	obl	_	_
+16	narratiuo	narratiuo	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	17	iobj	_	_
+17	deest	desum	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+18	textus	textus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	_
+19	narratiuus	narratiuus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	21	nsubj:pass	_	_
+20	epistulae	epistula	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	_
+21	praemissus	praemitto	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	17	advcl	_	_
+
+# sent_id = 20
+# text = cf Studien I 167 = Series B III supra p 155 sq Epistula Liberii ad Constantium imperatorem Obsecro = Ser
+1	cf	cf	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	nsubj	_	_
+2	Studien	Studies	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	1	conj	_	_
+3	I	us	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+4	167	167	NUM	Ma	_	2	appos	_	_
+5	=	=	SYM	_	_	0	root	_	_
+6	Series	Series	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	7	vocative	_	_
+7	B	b	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+8	III	iius	ADV	Df	_	7	advmod	_	_
+9	supra	supra	ADP	R-	_	10	case	_	_
+10	p	p	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	obl	_	_
+11	155	155	NUM	Ma	_	10	nummod	_	_
+12	sq	sq	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	10	conj	_	SpacesAfter=\s\s\s
+13	Epistula	epistula	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	10	conj	_	_
+14	Liberii	Liberius	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	_
+15	ad	ad	ADP	R-	_	16	case	_	_
+16	Constantium	Constantius	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	18	obl	_	_
+17	imperatorem	imperator	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	16	appos	_	_
+18	Obsecro	obsecrus	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	13	acl	_	_
+19	=	=	SYM	_	_	20	case	_	SpacesAfter=\s\s
+20	Ser	Ser	PROPN	Ne	_	18	ccomp	_	_
+
+# sent_id = 21
+# text = A VII supra p 8993 &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;
+1	A	ab	ADP	R-	_	2	case	_	_
+2	VII	vius	NOUN	Nb	_	0	root	_	_
+3	supra	supra	ADP	R-	_	4	case	_	_
+4	p	p	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	_
+5	8993	8993	NUM	Ma	_	4	nummod	_	_
+6	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	2	cc	_	_
+7	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	2	conj	_	_
+
+# sent_id = 22
+# text = &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17; Epistulae Liberii
+1	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	0	root	_	_
+2	&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;	SYM	_	_	3	advmod	_	_
+3	&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;	SYM	_	_	1	ccomp	_	SpacesAfter=\s\s
+4	Epistulae	epistula	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	3	nsubj	_	_
+5	Liberii	Liberius	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	4	flat:name	_	_
+
+# sent_id = 23
+# text = Quamuis sub Nolo te rex parte
+1	Quamuis	Quamuis	PRON	Pi	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	6	nsubj	_	_
+2	sub	sub	ADP	R-	_	3	case	_	_
+3	Nolo	nolus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	6	obl	_	_
+4	te	tu	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	obj:dir	_	_
+5	rex	rex	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	xcomp	_	_
+6	parte	paro	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = 24
+# text = Inter haec ex parte et epistulae dubiae
+1	Inter	inter	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	haec	hic	ADJ	Pd	Case=Acc|Gender=Neut|Number=Plur	1	obj:dir	_	SpacesAfter=\s\s
+3	ex	ex	ADP	R-	_	4	case	_	_
+4	parte	pars	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	2	nmod	_	_
+5	et	et	CCONJ	C-	_	4	cc	_	_
+6	epistulae	epistula	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	4	conj	_	_
+7	dubiae	dubius	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	6	amod	_	_
+
+# sent_id = 25
+# text = Pro deifico
+1	Pro	pro	ADP	R-	_	2	case	_	_
+2	deifico	deificus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = 26
+# text = Quia scio Non doceo una cum textu narratiuo = Ser B VII supra p 164173 &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;
+1	Quia	quia	ADV	Df	_	2	advmod	_	_
+2	scio	scio	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	_
+3	Non	non	ADV	Df	Polarity=Neg	4	advmod	_	_
+4	doceo	doceo	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	SpacesAfter=\s\s
+5	una	una	NUM	Ma	Case=Abl|Gender=Fem|Number=Sing	7	nummod	_	_
+6	cum	cum	ADP	R-	_	7	case	_	_
+7	textu	textus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	8	obl	_	_
+8	narratiuo	narratiuo	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	=	=	SYM	_	_	16	mark	_	_
+10	Ser	Ser	PROPN	Ne	_	16	nsubj	_	_
+11	B	b	ADP	R-	_	12	case	_	_
+12	VII	vius	NOUN	Nb	_	10	appos	_	_
+13	supra	supra	ADP	R-	_	14	case	_	_
+14	p	p	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	12	nmod	_	_
+15	164173	164173	NUM	Ma	_	14	nummod	_	_
+16	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	8	ccomp	_	_
+17	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	16	advmod	_	_
+18	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	17	flat	_	SpacesAfter=\s\s
+
+# sent_id = 27
+# text = De synodi Ariminensis et Seleuciensis Epistula Constantii imperatoris ad episcopos synodi Ariminensis = Ser
+1	De	de	ADP	R-	_	2	case	_	_
+2	synodi	synodum	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+3	Ariminensis	Ariminensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	_
+4	et	et	CCONJ	C-	_	3	cc	_	_
+5	Seleuciensis	Seleuciensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	SpacesAfter=\s\s
+6	Epistula	epistula	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	3	conj	_	_
+7	Constantii	Constantius	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+8	imperatoris	imperator	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+9	ad	ad	ADP	R-	_	10	case	_	_
+10	episcopos	episcopus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	12	obl	_	_
+11	synodi	synodum	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+12	Ariminensis	Ariminensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	conj	_	_
+13	=	=	SYM	_	_	14	case	_	_
+14	Ser	Ser	PROPN	Ne	_	3	conj	_	_
+
+# sent_id = 28
+# text = A VIII supra p 93 sq &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;
+1	A	ab	ADV	Df	_	7	advmod	_	_
+2	VIII	viius	ADV	Df	_	3	advmod	_	_
+3	supra	supra	ADP	R-	_	4	case	_	_
+4	p	p	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	nmod	_	_
+5	93	93	NUM	Ma	_	6	nummod	_	_
+6	sq	sq	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	obj:dir	_	_
+7	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	0	root	_	SpacesAfter=\s\s
+
+# sent_id = 29
+# text = Ex actis synodi Ariminensis Definitio episcoporum homousianorum textus narratiuus damnatio haereticorum = Ser
+1	Ex	ex	ADP	R-	_	2	case	_	_
+2	actis	ago	VERB	V-	Aspect=Perf|Case=Abl|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+3	synodi	synodum	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	4	nsubj:pass	_	_
+4	Ariminensis	Ariminensis	VERB	V-	Aspect=Perf|Case=Abl|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	2	advcl	_	_
+5	Definitio	Definitio	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	4	conj	_	_
+6	episcoporum	episcopus	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	5	nmod	_	_
+7	homousianorum	homousianus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
+8	textus	textus	ADJ	Mo	Case=Nom|Gender=Masc|Number=Sing	10	amod	_	_
+9	narratiuus	narratiuus	ADJ	Pt	Case=Nom|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	8	amod	_	_
+10	damnatio	damnatio	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+11	haereticorum	haereticus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
+12	=	=	SYM	_	_	4	conj	_	_
+13	Ser	Ser	PROPN	Ne	_	12	nsubj	_	_
+
+# sent_id = 30
+# text = A IX supra p 9597 &#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17; &#x17;&#x17;&#x17; &#x17;&#x17;&#x17; &#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17; &#x17; x Epistula synodi Ariminensis ad Constantium imperatorem et gesta Nicaena una cum textu narratiuo sequebatur forte symbolum Nicaena Thraciae propositum
+1	A	ab	ADV	Df	_	29	advmod	_	_
+2	IX	Ix	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+3	supra	supra	ADP	R-	_	4	case	_	_
+4	p	p	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	obl	_	_
+5	9597	9597	NUM	Ma	_	4	nummod	_	_
+6	&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	29	advmod	_	_
+7	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	29	advmod	_	_
+8	&#x17;&#x17;	&#x17;&#x17;	SYM	_	_	29	advmod	_	_
+9	&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;	SYM	_	_	29	advmod	_	_
+10	&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;	SYM	_	_	29	advmod	_	_
+11	&#x17;	&#x17;	SYM	_	_	29	advmod	_	_
+12	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	29	advmod	_	_
+13	&#x17;	&#x17;	SYM	_	_	29	advmod	_	_
+14	&#x17;	&#x17;	SYM	_	_	29	advmod	_	_
+15	x	x	ADV	Df	_	29	advmod	_	SpacesAfter=\s\s
+16	Epistula	epistula	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	29	nsubj:pass	_	_
+17	synodi	synodum	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	_
+18	Ariminensis	Ariminensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
+19	ad	ad	ADP	R-	_	20	case	_	_
+20	Constantium	Constantius	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	29	obl	_	_
+21	imperatorem	imperator	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	29	obj:dir	_	_
+22	et	et	CCONJ	C-	_	21	cc	_	_
+23	gesta	gesta	VERB	V-	Aspect=Perf|Case=Abl|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	21	conj	_	_
+24	Nicaena	Nicaena	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	21	conj	_	_
+25	una	una	NUM	Ma	Case=Abl|Gender=Fem|Number=Sing	24	nummod	_	_
+26	cum	cum	ADP	R-	_	27	case	_	_
+27	textu	textus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	29	obl	_	_
+28	narratiuo	narratiuo	DET	Px	Case=Abl|Gender=Masc|Number=Sing	27	det	_	_
+29	sequebatur	sequor	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+30	forte	forte	ADV	Df	_	34	advmod	_	_
+31	symbolum	symbolus	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	34	nsubj:pass	_	_
+32	Nicaena	Nicaena	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	31	amod	_	_
+33	Thraciae	Thracia	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	31	nmod	_	_
+34	propositum	propono	VERB	V-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	16	acl	_	_
+
+# sent_id = 31
+# text = cf Studien
+1	cf	cf	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	Studien	Studies	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	_
+
+# sent_id = 32
+# text = I 76 sq = Ser A V supra p 7886 &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17; Epistula episcoporum Arianorum qui synodo Ariminen i inter   erant ad Constantium imperatorem = Ser
+1	I	is	ADV	Df	_	4	advmod	_	_
+2	76	76	NUM	Ma	_	3	nummod	_	_
+3	sq	sq	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	obj:dir	_	_
+4	=	=	SYM	_	_	0	root	_	_
+5	Ser	Ser	PROPN	Ne	_	3	appos	_	_
+6	A	a	ADP	R-	_	7	case	_	_
+7	V	calendar	ADV	Df	_	5	advmod	_	_
+8	supra	supra	ADP	R-	_	9	case	_	_
+9	p	p	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	_
+10	7886	7886	NUM	Ma	_	9	nummod	_	_
+11	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	12	advmod	_	_
+12	&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	5	conj	_	SpacesAfter=\s\s
+13	Epistula	epistula	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	12	nsubj	_	_
+14	episcoporum	episcopus	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	13	nmod	_	_
+15	Arianorum	Arianus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	14	nmod	_	_
+16	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	26	nsubj	_	_
+17	synodo	synodo	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	19	obl	_	_
+18	Ariminen	Arimines	PROPN	Ne	_	17	conj	_	_
+19	i	is	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	26	advmod	_	_
+20	inter	inter	ADP	R-	_	21	case	_	_
+21	 	 	SYM	_	_	26	advmod	_	_
+22	erant	sum	AUX	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	26	cop	_	_
+23	ad	ad	ADP	R-	_	24	case	_	_
+24	Constantium	Constantius	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	22	obl	_	_
+25	imperatorem	imperator	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	24	appos	_	_
+26	=	=	SYM	_	_	13	acl	_	_
+27	Ser	Ser	PROPN	Ne	_	24	appos	_	_
+
+# sent_id = 33
+# text = A VI supra p 87 sq &#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17; Epistula legatorum synodi Seleuciensis ad legatos synodi Ariminensis una cum textu narratiuo ante epistulam excidit textus narratiuus qui librum Ualentis et Ualentis interpretabatur
+1	A	calendar	ADP	R-	_	2	case	_	_
+2	VI	expression	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	6	nmod	_	_
+3	supra	supra	ADP	R-	_	4	case	_	_
+4	p	p	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	nmod	_	_
+5	87	87	NUM	Ma	_	4	nummod	_	_
+6	sq	sq	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	24	obj:dir	_	_
+7	&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	24	advmod	_	_
+8	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	24	nsubj	_	_
+9	&#x17;	&#x17;	SYM	_	_	24	advmod	_	SpacesAfter=\s\s
+10	Epistula	epistula	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	13	nsubj:pass	_	_
+11	legatorum	legatus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
+12	synodi	synodum	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	_
+13	Seleuciensis	Seleuciensis	VERB	V-	Aspect=Perf|Case=Abl|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	24	advcl	_	_
+14	ad	ad	ADP	R-	_	15	case	_	_
+15	legatos	legatus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	24	obl	_	_
+16	synodi	synodum	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	_
+17	Ariminensis	Ariminensis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
+18	una	una	ADV	Df	_	19	advmod	_	_
+19	cum	cum	ADP	R-	_	20	case	_	_
+20	textu	textus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	24	obl	_	_
+21	narratiuo	narratiuo	DET	Px	Case=Abl|Gender=Masc|Number=Sing	20	det	_	_
+22	ante	ante	ADP	R-	_	23	case	_	_
+23	epistulam	epistula	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	24	obl	_	_
+24	excidit	excido#1	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+25	textus	textus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	24	advmod	_	_
+26	narratiuus	narratiuus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	25	advmod	_	_
+27	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	32	nsubj	_	_
+28	librum	liber	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	32	obj:dir	_	_
+29	Ualentis	Ualentum	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	28	appos	_	_
+30	et	et	CCONJ	C-	_	29	cc	_	_
+31	Ualentis	Ualentum	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	29	conj	_	_
+32	interpretabatur	interpretor	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	24	advcl	_	_
+
+# sent_id = 34
+# text = cf Studien Illlsq = Ser
+1	cf	cf	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obj:dir	_	_
+2	Studien	Studies	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	1	conj	_	_
+3	Illlsq	Illlsq	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	conj	_	_
+4	=	=	SYM	_	_	0	root	_	_
+5	Ser	Ser	PROPN	Ne	_	1	appos	_	_
+
+# sent_id = 35
+# text = B
+1	B	b	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = 36
+# text = VIII supra p 174177 x &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; LIBER
+1	VIII	viii	ADV	Df	_	6	advmod	_	_
+2	supra	supra	ADP	R-	_	3	case	_	_
+3	p	p	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	_
+4	174177	174177	NUM	Ma	_	3	nummod	_	_
+5	x	x	ADV	Df	_	6	advmod	_	_
+6	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	0	root	_	_
+7	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	6	conj	_	_
+8	&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	9	advmod	_	_
+9	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	7	ccomp	_	SpacesAfter=\s\s\s\s
+10	LIBER	liber	PROPN	Ne	_	9	nsubj	_	_
+
+# sent_id = 37
+# text = III scriptus a 367 x &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; Epistula synodi Parisiensis ad episcopos Orientales = Ser A I supra p 4346 &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;x Epistula Eusebii episcopi Uercellensis ad Gregorium episcopum Eliberitanum = Ser
+1	III	iii	ADV	Df	_	2	advmod	_	SpacesAfter=\s\s\s
+2	scriptus	scribo	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+3	a	ab	ADP	R-	_	4	case	_	_
+4	367	367	NUM	Ma	_	2	obl:agent	_	_
+5	x	x	ADV	Df	_	2	advmod	_	_
+6	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	2	advmod	_	_
+7	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	6	flat	_	_
+8	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	7	advmod	_	_
+9	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	10	advmod	_	_
+10	&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	8	advcl	_	_
+11	&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;	SYM	_	_	19	advmod	_	_
+12	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	19	advmod	_	SpacesAfter=\s\s
+13	Epistula	epistula	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	19	nsubj	_	_
+14	synodi	synodum	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	_
+15	Parisiensis	Parisiensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+16	ad	ad	ADP	R-	_	17	case	_	_
+17	episcopos	episcopus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	12	obl	_	_
+18	Orientales	Orientales	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem,Masc|Number=Plur	17	amod	_	_
+19	=	=	SYM	_	_	10	advcl	_	_
+20	Ser	Ser	PROPN	Ne	_	17	appos	_	_
+21	A	ab	ADP	R-	_	22	case	_	_
+22	I	us	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	_
+23	supra	supra	ADP	R-	_	24	case	_	_
+24	p	p	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	20	obl	_	_
+25	4346	4346	NUM	Ma	_	24	nummod	_	_
+26	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;x	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;x	ADV	Df	_	27	advmod	_	SpacesAfter=\s\s\s
+27	Epistula	epistula	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	24	nmod	_	_
+28	Eusebii	Eusebius	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	27	nmod	_	_
+29	episcopi	episcopio	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	27	nmod	_	_
+30	Uercellensis	Uercellensum	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	_
+31	ad	ad	ADP	R-	_	32	case	_	_
+32	Gregorium	Gregorius	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	24	nmod	_	_
+33	episcopum	episcopum	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	32	appos	_	_
+34	Eliberitanum	Eliberitanus	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	32	flat:name	_	_
+35	=	=	SYM	_	_	20	conj	_	_
+36	Ser	Ser	PROPN	Ne	_	20	conj	_	_
+
+# sent_id = 38
+# text = A II supra p 46 sq &#x17;&#x17; &#x17; &#x17;&#x17;&#x17; &#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17; &#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; Epistulae duae de reconciliandis episcopis lapsis = Ser
+1	A	ab	ADP	R-	_	6	case	_	_
+2	II	is	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	det	_	_
+3	supra	supra	ADP	R-	_	4	case	_	_
+4	p	p	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	nmod	_	_
+5	46	46	NUM	Ma	_	4	nummod	_	_
+6	sq	sq	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	obl	_	_
+7	&#x17;&#x17;	&#x17;&#x17;	SYM	_	_	0	root	_	_
+8	&#x17;	&#x17;	SYM	_	_	7	advmod	_	_
+9	&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;	SYM	_	_	10	advmod	_	_
+10	&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;	SYM	_	_	8	ccomp	_	_
+11	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	12	advmod	_	_
+12	&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;	SYM	_	_	10	advcl	_	_
+13	&#x17;&#x17;	&#x17;&#x17;	SYM	_	_	12	advmod	_	_
+14	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	18	advmod	_	SpacesAfter=\s\s
+15	Epistulae	epistula	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	18	nsubj	_	_
+16	duae	duo	NUM	Ma	Case=Nom|Gender=Fem|Number=Plur	18	nsubj	_	_
+17	de	de	ADP	R-	_	18	case	_	_
+18	reconciliandis	reconciliandus	VERB	V-	Case=Abl|Gender=Masc|Number=Plur|VerbForm=Gdv	13	advcl	_	_
+19	episcopis	episcopus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	21	nsubj	_	_
+20	lapsis	lapdo	DET	Pd	Case=Abl|Gender=Masc|Number=Plur	19	det	_	_
+21	=	=	SYM	_	_	18	advcl	_	_
+22	Ser	Ser	PROPN	Ne	_	19	conj	_	_
+
+# sent_id = 39
+# text = H IV supra p 156159 &#x17;&#x17;&#x17;&#x17;&#x17; &#x17; &#x17;&#x17; &#x17; &#x17;&#x17;&#x17;&#x17;&#x17; &#x17; &#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17; &#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;
+1	H	h	PROPN	Ne	_	0	root	_	_
+2	IV	expression	ADV	Df	_	3	advmod	_	_
+3	supra	supra	ADP	R-	_	4	case	_	_
+4	p	p	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	obl	_	_
+5	156159	156159	NUM	Ma	_	4	nummod	_	_
+6	&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	1	conj	_	_
+7	&#x17;	&#x17;	SYM	_	_	8	advmod	_	_
+8	&#x17;&#x17;	&#x17;&#x17;	SYM	_	_	1	conj	_	_
+9	&#x17;	&#x17;	SYM	_	_	10	advmod	_	_
+10	&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	8	advcl	_	_
+11	&#x17;	&#x17;	SYM	_	_	10	advmod	_	_
+12	&#x17;	&#x17;	SYM	_	_	14	advmod	_	_
+13	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	14	advmod	_	_
+14	&#x17;&#x17;	&#x17;&#x17;	SYM	_	_	11	advcl	_	_
+15	&#x17;	&#x17;	SYM	_	_	14	nsubj	_	_
+16	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	15	flat	_	SpacesAfter=\s\s
+
+# sent_id = 40
+# text = De Germinio episcopo Sirmiensi
+1	De	de	ADP	R-	_	2	case	_	_
+2	Germinio	Germinius	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	0	root	_	_
+3	episcopo	episcopo	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	2	appos	_	_
+4	Sirmiensi	Sirmiensius	ADJ	A-	Case=Abl|Degree=Pos|Number=Sing	3	amod	_	_
+
+# sent_id = 41
+# text = Ex epistula Germinii ad episcopos Arianos symbolum Germinii excidit ipsa epistula
+1	Ex	ex	ADP	R-	_	2	case	_	_
+2	epistula	epistula	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	3	obl	_	_
+3	Germinii	Germinii	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	9	xcomp	_	_
+4	ad	ad	ADP	R-	_	5	case	_	_
+5	episcopos	episcopus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	9	obl	_	_
+6	Arianos	Arianus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	5	conj	_	_
+7	symbolum	symbolus	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc,Neut|Number=Sing	5	conj	_	_
+8	Germinii	Germinii	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	5	conj	_	_
+9	excidit	excido#1	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+10	ipsa	ipse	DET	Pd	Case=Nom|Gender=Fem|Number=Sing	11	det	_	_
+11	epistula	epistula	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
+
+# sent_id = 42
+# text = cf Studien
+1	cf	cf	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+2	Studien	Studies	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	_
+
+# sent_id = 43
+# text = I 103 = Ser
+1	I	is	ADV	Df	_	2	advmod	_	_
+2	103	103	NUM	Ma	_	0	root	_	_
+3	=	=	SYM	_	_	4	orphan	_	_
+4	Ser	Ser	PROPN	Ne	_	2	conj	_	_
+
+# sent_id = 44
+# text = A III supra
+1	A	ab	ADV	Df	_	3	advmod	_	_
+2	III	iius	ADV	Df	_	3	advmod	_	_
+3	supra	supra	ADP	R-	_	0	root	_	_
+
+# sent_id = 45
+# text = p 47 sq &#x17; &#x17;&#x17;&#x17;&#x17; &#x17; w &#x17; &#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; Epistula Ualentis Ursacii Gaii et Pauli ad Germinium = Ser B V supra p 159 sq &#x17; &#x17; &#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17; Epistula Germinii ad Kufianum Palladium et ceteros = Ser
+1	p	p	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	nmod	_	_
+2	47	47	NUM	Ma	_	1	nummod	_	_
+3	sq	sq	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obj:dir	_	_
+4	&#x17;	&#x17;	SYM	_	_	0	root	_	_
+5	&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;	SYM	_	_	3	amod	_	_
+6	&#x17;	&#x17;	SYM	_	_	5	advmod	_	_
+7	w	w	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	obj:dir	_	_
+8	&#x17;	&#x17;	SYM	_	_	7	conj	_	_
+9	&#x17;	&#x17;	SYM	_	_	28	nsubj	_	_
+10	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	28	advmod	_	_
+11	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	28	advcl	_	SpacesAfter=\s\s
+12	Epistula	epistula	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	_
+13	Ualentis	Ualentum	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	_
+14	Ursacii	Ursacius	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	_
+15	Gaii	Gaius	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	14	flat:name	_	_
+16	et	et	CCONJ	C-	_	14	cc	_	_
+17	Pauli	Paulus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	14	conj	_	_
+18	ad	ad	ADP	R-	_	19	case	_	_
+19	Germinium	Germinius	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	12	nmod	_	_
+20	=	=	SYM	_	_	28	advmod	_	_
+21	Ser	Ser	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	_
+22	B	b	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	19	appos	_	_
+23	V	calendar	ADV	Df	_	24	advmod	_	_
+24	supra	supra	ADP	R-	_	25	case	_	_
+25	p	p	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	22	obl	_	_
+26	159	159	NUM	Ma	_	27	nummod	_	_
+27	sq	sq	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	25	conj	_	_
+28	&#x17;	&#x17;	SYM	_	_	7	conj	_	_
+29	&#x17;	&#x17;	SYM	_	_	30	advmod	_	_
+30	&#x17;&#x17;	&#x17;&#x17;	SYM	_	_	22	conj	_	_
+31	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	32	advmod	_	_
+32	&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	30	advcl	_	SpacesAfter=\s\s
+33	Epistula	epistula	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	40	nsubj	_	_
+34	Germinii	Germinii	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	33	appos	_	_
+35	ad	ad	ADP	R-	_	36	case	_	_
+36	Kufianum	Kufianus	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	34	nmod	_	_
+37	Palladium	Palladius	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	36	flat:name	_	_
+38	et	et	CCONJ	C-	_	36	cc	_	_
+39	ceteros	ceterus	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	36	conj	_	_
+40	=	=	SYM	_	_	32	ccomp	_	_
+41	Ser	Ser	PROPN	Ne	_	40	iobj	_	_
+
+# sent_id = 46
+# text = B
+1	B	b	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = 47
+# text = VI supra p 160164 &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17; &#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;
+1	VI	calendar	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	supra	supra	ADP	R-	_	3	case	_	_
+3	p	p	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	obl	_	_
+4	160164	160164	NUM	Ma	_	3	nummod	_	_
+5	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	1	advmod	_	_
+6	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;&#x17;	SYM	_	_	1	advmod	_	SpacesAfter=\s\s\s\s\s\s\s\n
+

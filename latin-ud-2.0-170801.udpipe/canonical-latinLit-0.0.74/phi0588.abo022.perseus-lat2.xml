@@ -1,0 +1,701 @@
+# newdoc id = /Users/mycomputer/Documents/ud-pipe/latin/02-extractTextDirectly-CAN/phi0588.abo022.perseus-lat2.xml
+# newpar
+# sent_id = 1
+# text = Hamilcar, Hannibalis filius, cognomine Barca, Karthaginiensis, primo Poenico bello, sed temporibus extremis, admodum adulescentulus in Sicilia praeesse coepit exercitui.
+1	Hamilcar	Hamilcar1	VERB	v1sfid---	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	25	ccomp	_	SpacesBefore=\s\s\s|SpaceAfter=No
+2	,	comma1	PUNCT	u--------	_	1	punct	_	_
+3	Hannibalis	Hannibalis	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	amod	_	_
+4	filius	filius1	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	SpaceAfter=No
+5	,	comma1	PUNCT	u--------	_	1	punct	_	_
+6	cognomine	cognomino1	VERB	v2spma---	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+7	Barca	Barcum1	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	6	obj	_	SpaceAfter=No
+8	,	comma1	PUNCT	u--------	_	1	punct	_	_
+9	Karthaginiensis	Karthaginienses1	VERB	v2spsa---	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	SpaceAfter=No
+10	,	,	PUNCT	u--------	_	1	punct	_	_
+11	primo	primo1	ADV	d--------	_	12	advmod	_	_
+12	Poenico	Poenicus1	ADJ	a-s---nb-	Case=Abl|Gender=Neut|Number=Sing	13	amod	_	_
+13	bello	bellum1	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	1	advmod	_	SpaceAfter=No
+14	,	comma1	PUNCT	u--------	_	1	punct	_	_
+15	sed	sed1	CCONJ	c--------	_	1	cc	_	_
+16	temporibus	tempus1	NOUN	n-p---nd-	Case=Dat|Gender=Neut|Number=Plur	1	obj	_	_
+17	extremis	extremus1	ADJ	a-p---mbs	Case=Abl|Degree=Sup|Gender=Masc|Number=Plur	16	amod	_	SpaceAfter=No
+18	,	comma1	PUNCT	u--------	_	19	punct	_	_
+19	admodum	admodum1	SCONJ	c--------	_	24	mark	_	_
+20	adulescentulus	adulescentulus1	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	24	nsubj	_	_
+21	in	in1	ADP	r--------	_	22	case	_	_
+22	Sicilia	Sicilia	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	23	obl	_	_
+23	praeesse	praesum1	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	24	xcomp	_	_
+24	coepit	coepio	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	_
+25	exercitui	exercitus2	VERB	v1sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+26	.	punc1	PUNCT	u--------	_	25	punct	_	SpacesAfter=\s\s
+
+# sent_id = 2
+# text = cum ante eius adventum et mari et terra male res gererentur Karthaginiensium, ipse ubi affuit, numquam hosti cessit neque locum nocendi dedit, saepeque e contrario occasione data lacessivit semperque superior discessit.
+1	cum	cum1	SCONJ	c--------	_	20	mark	_	_
+2	ante	ante1	ADP	r--------	_	4	case	_	_
+3	eius	is1	PRON	p-s---mg-	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	adventum	adventum	VERB	v-srppma-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	20	xcomp	_	_
+5	et	et1	CCONJ	c--------	_	4	cc	_	_
+6	mari	mare1	NOUN	n-s---fd-	Case=Dat|Gender=Fem|Number=Sing	4	conj	_	_
+7	et	et1	CCONJ	c--------	_	4	cc	_	_
+8	terra	terra1	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	19	nsubj	_	_
+9	male	malus1	ADV	d--------	_	19	advmod	_	_
+10	res	res1	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	19	nsubj	_	_
+11	gererentur	gereror1	ADV	d--------	_	19	advmod	_	_
+12	Karthaginiensium	Karthaginiensis	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	16	obj	_	SpaceAfter=No
+13	,	,	PUNCT	u--------	_	12	punct	_	_
+14	ipse	ipse	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	12	nmod	_	_
+15	ubi	ubi1	SCONJ	c--------	_	16	mark	_	_
+16	affuit	afsum	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	19	advcl	_	SpaceAfter=No
+17	,	comma1	PUNCT	u--------	_	16	punct	_	_
+18	numquam	numquam1	ADV	d--------	_	19	advmod	_	_
+19	hosti	hoo1	VERB	v2sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
+20	cessit	cedo1	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	24	advcl	_	_
+21	neque	neque	CCONJ	c--------	_	24	advmod	_	_
+22	locum	locus1	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	23	obj	_	_
+23	nocendi	noco	VERB	v-s-d--g-	Case=Gen|Number=Sing|VerbForm=Ger	24	advcl	_	_
+24	dedit	do	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+25	,	comma1	PUNCT	u--------	_	24	punct	_	_
+26	saepeque	saepeque	ADV	d--------	_	31	advmod	_	_
+27	e	ex1	ADP	r--------	_	28	case	_	_
+28	contrario	contrario1	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	31	obl	_	_
+29	occasione	occasio1	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	31	obj	_	_
+30	data	do1	VERB	v-srppfb-	Aspect=Perf|Case=Abl|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	29	amod	_	_
+31	lacessivit	lacessio1	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	34	advcl	_	_
+32	semperque	semperque1	ADV	d--------	_	34	advmod	_	_
+33	superior	superus	ADJ	a-s---mnc	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	34	amod	_	_
+34	discessit	discedo1	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	24	parataxis	_	SpaceAfter=No
+35	.	punc1	PUNCT	u--------	_	24	punct	_	_
+
+# sent_id = 3
+# text = quo facto, cum paene omnia in Sicilia Poeni amisissent, ille Erycem sic defendit, ut bellum eo loco gestum non videretur.
+1	quo	quo1	ADV	d--------	_	15	advmod	_	_
+2	facto	facio	VERB	v-srppnb-	Aspect=Perf|Case=Abl|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	advcl	_	SpaceAfter=No
+3	,	comma1	PUNCT	u--------	_	4	punct	_	_
+4	cum	cum	SCONJ	c--------	_	10	mark	_	_
+5	paene	paene1	ADV	d--------	_	10	advmod	_	_
+6	omnia	omnis	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	10	obj	_	_
+7	in	in1	ADP	r--------	_	8	case	_	_
+8	Sicilia	Sicilia	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	10	obl	_	_
+9	Poeni	Poenus1	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+10	amisissent	amisisco	VERB	v3plsa---	Mood=Sub|Number=Plur|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	15	advcl	_	SpaceAfter=No
+11	,	comma1	PUNCT	u--------	_	10	punct	_	_
+12	ille	ille1	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	_
+13	Erycem	Eryx1	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	15	obj	_	_
+14	sic	sic1	ADV	d--------	_	15	advmod	_	_
+15	defendit	defendo1	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+16	,	comma1	PUNCT	u--------	_	17	punct	_	_
+17	ut	ut1	SCONJ	c--------	_	23	mark	_	_
+18	bellum	bellum1	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	23	obj	_	_
+19	eo	is1	PRON	p-s---mb-	Case=Abl|Gender=Masc|Number=Sing	20	nmod	_	_
+20	loco	locus1	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	23	advmod	_	_
+21	gestum	gestus	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	23	obj	_	_
+22	non	non1	ADV	d--------	_	23	advmod	_	_
+23	videretur	videro1	VERB	v3sisp---	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	15	advcl	_	SpaceAfter=No
+24	.	punc1	PUNCT	u--------	_	15	punct	_	SpacesAfter=\s\s
+
+# sent_id = 4
+# text = interim Karthaginienses classe apud insulas Aegates a Gaio C. Lutatio, consule Romanorum, superati statuerunt belli facere finem eamque rem arbitrio permiserunt Hamilcaris.
+1	interim	interim1	ADV	d--------	_	2	advmod	_	_
+2	Karthaginienses	Karthaginienses1	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	classe	clo	VERB	v--rna---	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	2	xcomp	_	_
+4	apud	apud1	ADP	r--------	_	5	case	_	_
+5	insulas	insula1	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	11	obl	_	_
+6	Aegates	Aegas1	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	11	nsubj	_	_
+7	a	ab1	ADP	r--------	_	8	case	_	_
+8	Gaio	Gaius	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	11	obl	_	_
+9	C	C1	X	---------	_	11	nmod	_	SpaceAfter=No
+10	.	PERIOD1	PUNCT	u--------	_	9	punct	_	_
+11	Lutatio	Lutatio	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	2	advmod	_	SpaceAfter=No
+12	,	comma1	PUNCT	u--------	_	2	punct	_	_
+13	consule	consul	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	16	obj	_	_
+14	Romanorum	Romanus	ADJ	a-p---mgp	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	13	amod	_	SpaceAfter=No
+15	,	,	PUNCT	u--------	_	16	punct	_	_
+16	superati	supero	VERB	v-prppmn-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	2	conj	_	_
+17	statuerunt	statuero1	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+18	belli	bellum1	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	19	nmod	_	_
+19	facere	facio1	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	24	xcomp	_	_
+20	finem	finis1	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	19	obj	_	_
+21	eamque	quisea1	ADV	d--------	_	24	advmod	_	_
+22	rem	res	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	24	obj	_	_
+23	arbitrio	arbitrio1	ADV	d--------	_	24	advmod	_	_
+24	permiserunt	permisero1	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	ccomp	_	_
+25	Hamilcaris	Hamilcare1	VERB	v2spid---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	24	advcl	_	SpaceAfter=No
+26	.	punc1	PUNCT	u--------	_	2	punct	_	_
+
+# sent_id = 5
+# text = ille etsi flagrabat bellandi cupiditate, tamen paci serviundum putavit, quod patriam exhaustam sumptibus diutius calamitates belli ferre non posse intellegebat, sed ita ut statim mente agitaret, si paulum modo res essent refectae, bellum renovare Romanosque armis persequi, donicum aut virtute vicissent aut victi manus dedissent.
+1	ille	ille	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	etsi	etsi1	SCONJ	c--------	_	3	advmod	_	_
+3	flagrabat	flagro	VERB	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	advcl	_	_
+4	bellandi	bello	VERB	v-s-d--g-	Case=Gen|Number=Sing|VerbForm=Ger	3	amod	_	_
+5	cupiditate	cupiditas1	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	4	advmod	_	SpaceAfter=No
+6	,	,	PUNCT	u--------	_	3	punct	_	_
+7	tamen	tamen1	ADV	d--------	_	9	advmod	_	_
+8	paci	pax1	ADJ	a-s---mb-	Case=Abl|Gender=Masc|Number=Sing	7	amod	_	_
+9	serviundum	servio1	VERB	v-s-g-nn-	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Gdv	10	xcomp	_	_
+10	putavit	puto	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+11	,	comma1	PUNCT	u--------	_	12	punct	_	_
+12	quod	quod1	SCONJ	c--------	_	22	mark	_	_
+13	patriam	patria1	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	22	obj	_	_
+14	exhaustam	exhauste1	PRON	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing	13	nmod	_	_
+15	sumptibus	sumptis1	NOUN	n-p---fb-	Case=Abl|Gender=Fem|Number=Plur	22	advmod	_	_
+16	diutius	diu	ADV	d-------c	Degree=Cmp	22	advmod	_	_
+17	calamitates	calamitas1	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	19	obj	_	_
+18	belli	bellum1	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	19	obj	_	_
+19	ferre	fero1	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	21	xcomp	_	_
+20	non	non1	ADV	d--------	_	21	advmod	_	SpacesAfter=\s\s
+21	posse	possum1	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	22	xcomp	_	_
+22	intellegebat	intellego1	VERB	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	advcl	_	SpaceAfter=No
+23	,	comma1	PUNCT	u--------	_	10	punct	_	_
+24	sed	sed1	CCONJ	c--------	_	10	cc	_	_
+25	ita	ita	ADV	d--------	_	39	advmod	_	_
+26	ut	ut1	SCONJ	c--------	_	29	mark	_	_
+27	statim	statim	ADV	d--------	_	29	advmod	_	_
+28	mente	mens1	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	29	advmod	_	_
+29	agitaret	agito	VERB	v3sisa---	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	35	advcl	_	SpaceAfter=No
+30	,	comma1	PUNCT	u--------	_	31	punct	_	_
+31	si	si	SCONJ	c--------	_	35	mark	_	_
+32	paulum	paulus	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	35	obj	_	_
+33	modo	modo1	ADV	d--------	_	35	advmod	_	_
+34	res	res1	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	35	nsubj	_	_
+35	essent	sum1	VERB	v3pisa---	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	39	advcl	_	_
+36	refectae	refeceo1	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	35	nsubj	_	SpaceAfter=No
+37	,	comma1	PUNCT	u--------	_	35	punct	_	_
+38	bellum	bellum1	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	39	obj	_	_
+39	renovare	renovo	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	42	xcomp	_	_
+40	Romanosque	Romanosque1	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	39	nsubj	_	_
+41	armis	arma1	NOUN	n-p---nb-	Case=Abl|Gender=Neut|Number=Plur	39	advmod	_	_
+42	persequi	persequor	VERB	v--pnd---	Tense=Pres|VerbForm=Inf|Voice=Act	10	conj	_	SpaceAfter=No
+43	,	comma1	PUNCT	u--------	_	10	punct	_	_
+44	donicum	donicum1	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	47	obj	_	_
+45	aut	aut	CCONJ	c--------	_	44	cc	_	_
+46	virtute	virtus1	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	44	conj	_	_
+47	vicissent	vicisco	VERB	v3plsa---	Mood=Sub|Number=Plur|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	10	conj	_	_
+48	aut	aut1	CCONJ	c--------	_	10	cc	_	_
+49	victi	vico1	VERB	v-prppmn-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	50	nmod	_	_
+50	manus	manus1	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	51	nsubj	_	_
+51	dedissent	dedisco	VERB	v3plsa---	Mood=Sub|Number=Plur|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	10	conj	_	SpaceAfter=No
+52	.	punc1	PUNCT	u--------	_	10	punct	_	SpacesAfter=\s\s
+
+# sent_id = 6
+# text = hoc consilio pacem conciliavit, in quo tanta fuit ferocia, cum Catulus negaret bellum compositurum, nisi ille cum suis, qui Erycem tenerent, armis relictis Sicilia decederent, ut succumbente patria ipse periturum se potius dixerit, quam cum tanto flagitio domum rediret:
+1	hoc	hic1	PRON	p-s---nb-	Case=Abl|Gender=Neut|Number=Sing	2	nmod	_	_
+2	consilio	consilium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	4	advmod	_	_
+3	pacem	pax1	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
+4	conciliavit	concilio1	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+5	,	comma1	PUNCT	u--------	_	4	punct	_	_
+6	in	in	ADP	r--------	_	7	case	_	_
+7	quo	qui1	PRON	p-s---mb-	Case=Abl|Gender=Masc|Number=Sing	4	obl	_	_
+8	tanta	tantus1	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	10	amod	_	_
+9	fuit	sum1	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	cop	_	_
+10	ferocia	ferocium1	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	SpaceAfter=No
+11	,	,	PUNCT	u--------	_	12	punct	_	_
+12	cum	cum1	SCONJ	c--------	_	14	mark	_	_
+13	Catulus	catulus1	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
+14	negaret	nego1	VERB	v3sisa---	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	39	advcl	_	_
+15	bellum	bellum1	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	16	obj	_	_
+16	compositurum	composiio1	VERB	v-sfpana-	Case=Acc|Gender=Neut|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Act	14	ccomp	_	SpaceAfter=No
+17	,	comma1	PUNCT	u--------	_	16	punct	_	_
+18	nisi	nisi1	SCONJ	c--------	_	19	advmod	_	_
+19	ille	ille1	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	30	nsubj	_	_
+20	cum	cum1	SCONJ	c--------	_	30	mark	_	_
+21	suis	suus	PRON	p-p---md-	Case=Dat|Gender=Masc|Number=Plur	30	obj	_	SpaceAfter=No
+22	,	comma1	PUNCT	u--------	_	25	punct	_	_
+23	qui	qui1	PRON	p-p---mn-	Case=Nom|Gender=Masc|Number=Plur	25	nsubj	_	_
+24	Erycem	Eryx1	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	25	obj	_	_
+25	tenerent	teno1	VERB	v3pisa---	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	21	acl	_	SpaceAfter=No
+26	,	comma1	PUNCT	u--------	_	25	punct	_	_
+27	armis	arma	NOUN	n-p---nb-	Case=Abl|Gender=Neut|Number=Plur	28	advmod	_	_
+28	relictis	relingo	VERB	v-prppfb-	Aspect=Perf|Case=Abl|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	30	advcl	_	_
+29	Sicilia	Sicilia	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	28	advmod	_	_
+30	decederent	decedo1	VERB	v3pisa---	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	39	advcl	_	SpaceAfter=No
+31	,	comma1	PUNCT	u--------	_	32	punct	_	_
+32	ut	ut1	SCONJ	c--------	_	33	mark	_	_
+33	succumbente	succumbens2	VERB	v-sppamb-	Case=Abl|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	39	advcl	_	_
+34	patria	patria1	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	33	nsubj	_	_
+35	ipse	ipse1	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	33	nmod	_	_
+36	periturum	pereo1	VERB	v-sfpama-	Case=Acc|Gender=Masc|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Act	39	xcomp	_	_
+37	se	sui1	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	36	obj	_	_
+38	potius	potis	ADV	d-------c	Degree=Cmp	39	advmod	_	_
+39	dixerit	dico2	VERB	v3srsa---	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	_	SpaceAfter=No
+40	,	comma1	PUNCT	u--------	_	46	punct	_	_
+41	quam	qui1	ADV	d--------	_	46	mark	_	_
+42	cum	cum1	ADP	r--------	_	44	case	_	_
+43	tanto	tantus1	ADJ	a-s---nb-	Case=Abl|Gender=Neut|Number=Sing	44	amod	_	_
+44	flagitio	flagitium1	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	46	obl	_	_
+45	domum	domus1	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	46	obj	_	_
+46	rediret	redeo	VERB	v3sisa---	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	39	advcl	_	SpaceAfter=No
+47	:	punc1	PUNCT	u--------	_	4	punct	_	_
+
+# sent_id = 7
+# text = non enim suae esse virtutis arma a patria accepta adversus hostes adversariis tradere.
+1	non	non	ADV	d--------	_	2	advmod	_	_
+2	enim	enim1	SCONJ	c--------	_	13	advmod	_	_
+3	suae	suus1	PRON	p-s---fg-	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+4	esse	sum1	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	3	cop	_	_
+5	virtutis	virtus1	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+6	arma	arma	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	13	obj	_	_
+7	a	ab1	ADP	r--------	_	8	case	_	_
+8	patria	patria1	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	9	obl	_	_
+9	accepta	accipio1	VERB	v-srppfb-	Aspect=Perf|Case=Abl|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	amod	_	_
+10	adversus	adversus2	ADP	r--------	_	11	case	_	_
+11	hostes	hostis	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	9	obl	_	_
+12	adversariis	adversarius1	ADJ	a-p---fb-	Case=Abl|Gender=Fem|Number=Plur	11	amod	_	_
+13	tradere	trado1	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	SpaceAfter=No
+14	.	punc1	PUNCT	u--------	_	13	punct	_	_
+
+# sent_id = 8
+# text = huius pertinaciae cessit Catulus.
+1	huius	hic1	PRON	p-s---fg-	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+2	pertinaciae	pertinacia	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+3	cessit	cesso	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	Catulus	catulus1	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	SpaceAfter=No
+5	.	punc1	PUNCT	u--------	_	3	punct	_	SpacesAfter=\s\s
+
+# sent_id = 9
+# text = At ille ut Karthaginem venit, multo aliter ac sperarat rem publicam se habentem cognovit.
+1	At	at	CCONJ	c--------	_	10	cc	_	_
+2	ille	ille1	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+3	ut	ut1	SCONJ	c--------	_	5	mark	_	_
+4	Karthaginem	Karthago1	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
+5	venit	venio1	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	advcl	_	SpaceAfter=No
+6	,	comma1	PUNCT	u--------	_	5	punct	_	_
+7	multo	multus	ADV	d--------	_	8	advmod	_	_
+8	aliter	aliter1	ADV	d--------	_	10	advmod	_	_
+9	ac	atque1	CCONJ	c--------	_	8	cc	_	_
+10	sperarat	spero1	VERB	v3slia---	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	15	advcl	_	_
+11	rem	res1	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	_
+12	publicam	publicus1	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	11	amod	_	_
+13	se	sui	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	14	obj	_	_
+14	habentem	habeo1	VERB	v-sppama-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	15	xcomp	_	_
+15	cognovit	cognosco	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+16	.	punc1	PUNCT	u--------	_	15	punct	_	_
+
+# sent_id = 10
+# text = namque diuturnitate externi mali tantum exarsit intestinum bellum, ut numquam in pari periculo fuerit Karthago nisi cum deleta est.
+1	namque	nam1	CCONJ	c--------	_	6	advmod	_	_
+2	diuturnitate	diuturnitatus1	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	6	advmod	_	_
+3	externi	externio	ADJ	a-s---mg-	Case=Gen|Gender=Masc|Number=Sing	2	amod	_	_
+4	mali	malus1	ADJ	a-s---ng-	Case=Gen|Gender=Neut|Number=Sing	5	amod	_	_
+5	tantum	tantus1	ADV	d--------	_	6	advmod	_	_
+6	exarsit	exarqueo	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	intestinum	intestinus1	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	8	amod	_	_
+8	bellum	bellum1	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	SpaceAfter=No
+9	,	comma1	PUNCT	u--------	_	10	punct	_	_
+10	ut	ut1	SCONJ	c--------	_	15	mark	_	_
+11	numquam	numquam1	ADV	d--------	_	15	advmod	_	_
+12	in	in1	ADP	r--------	_	14	case	_	_
+13	pari	par	ADJ	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing	14	amod	_	_
+14	periculo	periculum1	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	15	obl	_	_
+15	fuerit	sum1	VERB	v3srsa---	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	advcl	_	_
+16	Karthago	Karthago1	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	20	nsubj	_	_
+17	nisi	nisi	SCONJ	c--------	_	18	advmod	_	_
+18	cum	cum1	ADP	r--------	_	19	case	_	_
+19	deleta	deletus1	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	20	obl	_	_
+20	est	sum1	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	cop	_	SpaceAfter=No
+21	.	punc1	PUNCT	u--------	_	6	punct	_	SpacesAfter=\s\s
+
+# sent_id = 11
+# text = primo mercennarii milites, quibus adversus Romanos usi erant, desciverunt, quorum numerus erat viginti milium.
+1	primo	primo1	ADV	d--------	_	3	advmod	_	_
+2	mercennarii	mercennarius	ADJ	a-p---mn-	Case=Nom|Gender=Masc|Number=Plur	3	amod	_	_
+3	milites	miles	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	SpaceAfter=No
+4	,	comma1	PUNCT	u--------	_	8	punct	_	_
+5	quibus	qui1	PRON	p-p---md-	Case=Dat|Gender=Masc|Number=Plur	8	obj	_	_
+6	adversus	adversus2	ADP	r--------	_	7	case	_	_
+7	Romanos	Romanus	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	8	obl	_	_
+8	usi	usi	VERB	v-prppmn-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	3	acl	_	_
+9	erant	sum1	VERB	v3piia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	SpaceAfter=No
+10	,	comma1	PUNCT	u--------	_	11	punct	_	_
+11	desciverunt	descivero1	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+12	,	,	PUNCT	u--------	_	11	punct	_	_
+13	quorum	qui1	PRON	p-p---mg-	Case=Gen|Gender=Masc|Number=Plur	14	nmod	_	_
+14	numerus	numerus1	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
+15	erat	sum1	VERB	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	cop	_	_
+16	viginti	viginti1	NUM	m--------	_	17	nummod	_	_
+17	milium	milium1	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	14	obj	_	SpaceAfter=No
+18	.	punc1	PUNCT	u--------	_	11	punct	_	_
+
+# sent_id = 12
+# text = ii totam abalienarunt Africam, ipsam Karthaginem oppugnarunt.
+1	ii	is1	PRON	p-p---mn-	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
+2	totam	totus1	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	amod	_	_
+3	abalienarunt	abalienaro1	VERB	v3pria---	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	Africam	Africa	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	SpaceAfter=No
+5	,	,	PUNCT	u--------	_	3	punct	_	_
+6	ipsam	ipto	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	7	amod	_	_
+7	Karthaginem	Karthago1	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	_
+8	oppugnarunt	oppugnaro1	VERB	v3pria---	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	SpaceAfter=No
+9	.	punc1	PUNCT	u--------	_	3	punct	_	SpacesAfter=\s\s
+
+# sent_id = 13
+# text = quibus malis adeo sunt Poeni perterriti, ut etiam auxilia ab Romanis petierint;
+1	quibus	qui1	PRON	p-p---nb-	Case=Abl|Gender=Neut|Number=Plur	2	nmod	_	_
+2	malis	malus1	NOUN	n-p---nb-	Case=Abl|Gender=Neut|Number=Plur	6	obj	_	_
+3	adeo	adeo2	ADV	d--------	_	2	advmod	_	_
+4	sunt	sum1	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
+5	Poeni	Poenus1	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+6	perterriti	perterreor	VERB	v-prppmn-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+7	,	comma1	PUNCT	u--------	_	8	punct	_	_
+8	ut	ut1	SCONJ	c--------	_	13	mark	_	_
+9	etiam	etiam1	ADV	d--------	_	13	advmod	_	_
+10	auxilia	auxilium1	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	13	obj	_	_
+11	ab	ab1	ADP	r--------	_	12	case	_	_
+12	Romanis	Romanus	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	13	obl	_	_
+13	petierint	peto	VERB	v3prsa---	Aspect=Perf|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	advcl	_	SpaceAfter=No
+14	;	;	PUNCT	u--------	_	6	punct	_	_
+
+# sent_id = 14
+# text = eaque impetrarunt.
+1	eaque	eaque	ADV	d--------	_	2	advmod	_	_
+2	impetrarunt	impetro	VERB	v3pria---	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	.	punc1	PUNCT	u--------	_	2	punct	_	_
+
+# sent_id = 15
+# text = sed extremo, cum prope iam ad desperationem pervenissent, Hamilcarem imperatorem fecerunt.
+1	sed	sed1	CCONJ	c--------	_	13	advmod	_	_
+2	extremo	exter	ADJ	a-s---mbs	Case=Abl|Degree=Sup|Gender=Masc|Number=Sing	1	amod	_	SpaceAfter=No
+3	,	comma1	PUNCT	u--------	_	4	punct	_	_
+4	cum	cum1	SCONJ	c--------	_	9	mark	_	_
+5	prope	prope	ADV	d--------	_	9	advmod	_	_
+6	iam	jam1	ADV	d--------	_	9	advmod	_	_
+7	ad	ad1	ADP	r--------	_	8	case	_	_
+8	desperationem	desperatio	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	9	obl	_	_
+9	pervenissent	pervenisco	VERB	v3plsa---	Mood=Sub|Number=Plur|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	13	advcl	_	SpaceAfter=No
+10	,	comma1	PUNCT	u--------	_	9	punct	_	_
+11	Hamilcarem	Hamilcar	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	12	nmod	_	_
+12	imperatorem	imperator1	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	13	obj	_	_
+13	fecerunt	facio	VERB	v3pria---	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+14	.	punc1	PUNCT	u--------	_	13	punct	_	SpacesAfter=\s\s
+
+# sent_id = 16
+# text = is non solum hostes a muris Karthaginis removit, cum amplius centum milia facta essent armatorum, sed etiam eo compulit, ut locorum angustiis clausi plures fame quam ferro interirent.
+1	is	is1	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+2	non	non1	ADV	d--------	_	3	advmod	_	_
+3	solum	solus1	ADV	d--------	_	8	advmod	_	_
+4	hostes	hostis1	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	_
+5	a	ab1	ADP	r--------	_	7	case	_	_
+6	muris	murus1	ADJ	a-p---fb-	Case=Abl|Gender=Fem|Number=Plur	7	amod	_	_
+7	Karthaginis	Karthagen1	NOUN	n-p---fb-	Case=Abl|Gender=Fem|Number=Plur	8	obl	_	_
+8	removit	remosco	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+9	,	comma1	PUNCT	u--------	_	10	punct	_	_
+10	cum	cum	SCONJ	c--------	_	15	mark	_	_
+11	amplius	amplus1	ADV	d--------	_	14	advmod	_	_
+12	centum	centum	NUM	m--------	_	13	nummod	_	_
+13	milia	mille	NUM	m-p---na-	Case=Acc|Gender=Neut|Number=Plur	14	nummod	_	_
+14	facta	factum1	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	15	obj	_	_
+15	essent	sum1	VERB	v3pisa---	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	_	_
+16	armatorum	armatum1	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	15	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	u--------	_	8	punct	_	_
+18	sed	sed1	CCONJ	c--------	_	8	cc	_	_
+19	etiam	etiam1	CCONJ	c--------	_	21	advmod	_	_
+20	eo	eo2	ADV	d--------	_	21	advmod	_	_
+21	compulit	compello1	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	SpaceAfter=No
+22	,	comma1	PUNCT	u--------	_	23	punct	_	_
+23	ut	ut1	SCONJ	c--------	_	26	mark	_	_
+24	locorum	locus	NOUN	n-p---ng-	Case=Gen|Gender=Neut|Number=Plur	25	nmod	_	_
+25	angustiis	angustium	NOUN	n-p---nb-	Case=Abl|Gender=Neut|Number=Plur	26	advmod	_	_
+26	clausi	clautor1	VERB	v-prppmn-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	31	advcl	_	_
+27	plures	multus	ADJ	a-p---mac	Case=Acc|Degree=Cmp|Gender=Masc|Number=Plur	28	amod	_	_
+28	fame	fames	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	26	advmod	_	_
+29	quam	quam	PRON	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing	30	nmod	_	_
+30	ferro	ferrum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	31	advmod	_	_
+31	interirent	interio	VERB	v3pisa---	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	21	advcl	_	SpaceAfter=No
+32	.	punc1	PUNCT	u--------	_	8	punct	_	_
+
+# sent_id = 17
+# text = omnia oppida abalienata, in eis Uticam atque Hipponem, valentissima totius Africae, restituit patriae.
+1	omnia	omnis	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	3	obj	_	_
+2	oppida	oppis1	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	1	amod	_	_
+3	abalienata	abalieno1	VERB	v-srppfn-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	15	advcl	_	SpaceAfter=No
+4	,	comma1	PUNCT	u--------	_	3	punct	_	_
+5	in	in	ADP	r--------	_	6	case	_	_
+6	eis	is1	PRON	p-p---nb-	Case=Abl|Gender=Neut|Number=Plur	3	obl	_	_
+7	Uticam	Utica1	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	_
+8	atque	atque1	CCONJ	c--------	_	7	cc	_	_
+9	Hipponem	Hippo	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	7	conj	_	SpaceAfter=No
+10	,	,	PUNCT	u--------	_	3	punct	_	_
+11	valentissima	valentus1	ADJ	a-s---fns	Case=Nom|Degree=Sup|Gender=Fem|Number=Sing	3	amod	_	_
+12	totius	totus1	ADJ	a-s---fg-	Case=Gen|Gender=Fem|Number=Sing	13	amod	_	_
+13	Africae	Africa	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	u--------	_	3	punct	_	_
+15	restituit	restituo	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+16	patriae	patria1	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	15	advmod	_	SpaceAfter=No
+17	.	punc1	PUNCT	u--------	_	15	punct	_	SpacesAfter=\s\s
+
+# sent_id = 18
+# text = neque eo fuit contentus, sed etiam fines imperii propagavit, tota Africa tantum otium reddidit, ut nullum in ea bellum videretur multis annis fuisse.
+1	neque	que1	CCONJ	c--------	_	3	advmod	_	_
+2	eo	is1	ADV	d--------	_	3	advmod	_	_
+3	fuit	sum1	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	_
+4	contentus	contendo1	VERB	v-srppmn-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	16	advcl	_	SpaceAfter=No
+5	,	comma1	PUNCT	u--------	_	4	punct	_	_
+6	sed	sed1	CCONJ	c--------	_	4	cc	_	_
+7	etiam	etiam	CCONJ	c--------	_	10	advmod	_	_
+8	fines	finis	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	10	obj	_	_
+9	imperii	imperium	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
+10	propagavit	propago1	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	SpaceAfter=No
+11	,	comma1	PUNCT	u--------	_	4	punct	_	_
+12	tota	totus1	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	13	amod	_	_
+13	Africa	Africa	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	16	nsubj	_	_
+14	tantum	tantus1	ADV	d--------	_	16	advmod	_	_
+15	otium	otium1	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	16	obj	_	_
+16	reddidit	reddo1	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+17	,	comma1	PUNCT	u--------	_	18	punct	_	_
+18	ut	ut1	SCONJ	c--------	_	23	mark	_	_
+19	nullum	nullus	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	22	amod	_	_
+20	in	in1	ADP	r--------	_	21	case	_	_
+21	ea	is1	PRON	p-s---fb-	Case=Abl|Gender=Fem|Number=Sing	22	nmod	_	_
+22	bellum	bellum1	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	23	obj	_	_
+23	videretur	videro1	VERB	v3sisp---	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	16	advcl	_	_
+24	multis	multus	ADJ	a-p---mb-	Case=Abl|Gender=Masc|Number=Plur	25	amod	_	_
+25	annis	annus	NOUN	n-p---mb-	Case=Abl|Gender=Masc|Number=Plur	16	advmod	_	_
+26	fuisse	sum1	VERB	v--rna---	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	16	cop	_	SpaceAfter=No
+27	.	punc1	PUNCT	u--------	_	16	punct	_	SpacesAfter=\s\s
+
+# sent_id = 19
+# text = Rebus his ex sententia peractis fidenti animo atque infesto Romanis, quo facilius causam bellandi reperiret, effecit ut imperator cum exercitu in Hispaniam mitteretur, eoque secum duxit filium Hannibalem annorum novem.
+1	Rebus	res	NOUN	n-p---fb-	Case=Abl|Gender=Fem|Number=Plur	5	nsubj	_	_
+2	his	hic1	PRON	p-p---fb-	Case=Abl|Gender=Fem|Number=Plur	1	nmod	_	_
+3	ex	ex1	ADP	r--------	_	4	case	_	_
+4	sententia	sententia	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	5	obl	_	_
+5	peractis	peractus	VERB	v-prppfb-	Aspect=Perf|Case=Abl|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	7	amod	_	_
+6	fidenti	fido1	VERB	v-spp-md-	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	5	nsubj	_	_
+7	animo	animus1	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	11	obj	_	_
+8	atque	atque1	CCONJ	c--------	_	7	cc	_	_
+9	infesto	infestus1	VERB	v-srppmd-	Aspect=Perf|Case=Dat|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	10	nmod	_	_
+10	Romanis	Romanus	NOUN	n-p---md-	Case=Dat|Gender=Masc|Number=Plur	7	conj	_	SpaceAfter=No
+11	,	,	PUNCT	u--------	_	12	punct	_	_
+12	quo	qui1	ADV	d--------	_	16	mark	_	_
+13	facilius	facilis1	ADV	d-------c	Degree=Cmp	16	advmod	_	_
+14	causam	causa	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	16	obj	_	_
+15	bellandi	bello	VERB	v-s-d--g-	Case=Gen|Number=Sing|VerbForm=Ger	16	xcomp	_	_
+16	reperiret	repereo	VERB	v3sisa---	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	18	advcl	_	SpaceAfter=No
+17	,	comma1	PUNCT	u--------	_	16	punct	_	_
+18	effecit	efficio	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+19	ut	ut	SCONJ	c--------	_	25	mark	_	_
+20	imperator	imperator1	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	25	nsubj	_	_
+21	cum	cum1	ADP	r--------	_	22	case	_	_
+22	exercitu	exercitus2	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	25	obl	_	_
+23	in	in1	ADP	r--------	_	24	case	_	_
+24	Hispaniam	Hispania	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	25	obl	_	_
+25	mitteretur	mitto	VERB	v3sisp---	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	18	advcl	_	SpaceAfter=No
+26	,	comma1	PUNCT	u--------	_	18	punct	_	_
+27	eoque	eoque	CCONJ	c--------	_	18	cc	_	_
+28	secum	sui1	PRON	p-s---mb-	Case=Abl|Gender=Masc|Number=Sing	29	advmod	_	_
+29	duxit	duco1	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	18	conj	_	_
+30	filium	filius1	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	29	obj	_	_
+31	Hannibalem	Hannibalem1	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	29	obj	_	_
+32	annorum	annus1	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	31	nmod	_	_
+33	novem	novis	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	31	amod	_	SpaceAfter=No
+34	.	punc1	PUNCT	u--------	_	18	punct	_	SpacesAfter=\s\s
+
+# sent_id = 20
+# text = erat praeterea cum eo adulescens illustris, formosus, Hasdrubal, quem nonnulli diligi turpius, quam par erat, ab Hamilcare loquebantur (non enim maledici tanto viro deesse poterant).
+1	erat	sum1	VERB	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	cop	_	_
+2	praeterea	praeterea1	ADV	d--------	_	23	advmod	_	_
+3	cum	cum1	ADP	r--------	_	4	case	_	_
+4	eo	is1	PRON	p-s---mb-	Case=Abl|Gender=Masc|Number=Sing	5	nmod	_	_
+5	adulescens	adulescens1	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	23	nsubj	_	_
+6	illustris	illuster	PRON	p-p---md-	Case=Dat|Gender=Masc|Number=Plur	8	nmod	_	SpaceAfter=No
+7	,	comma1	PUNCT	u--------	_	6	punct	_	_
+8	formosus	formosus2	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	23	nsubj	_	SpaceAfter=No
+9	,	comma1	PUNCT	u--------	_	10	punct	_	_
+10	Hasdrubal	Hasdrubal1	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	SpaceAfter=No
+11	,	comma1	PUNCT	u--------	_	14	punct	_	_
+12	quem	qui1	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	14	obj	_	_
+13	nonnulli	nonnullo1	ADJ	a-s---fd-	Case=Dat|Gender=Fem|Number=Sing	12	amod	_	_
+14	diligi	diligo1	VERB	v1sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	10	acl	_	_
+15	turpius	turpis1	ADV	d-------c	Degree=Cmp	14	advmod	_	SpaceAfter=No
+16	,	comma1	PUNCT	u--------	_	14	punct	_	_
+17	quam	quam1	ADV	d--------	_	18	mark	_	_
+18	par	par	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	8	amod	_	_
+19	erat	sum1	VERB	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	18	cop	_	SpaceAfter=No
+20	,	comma1	PUNCT	u--------	_	18	punct	_	_
+21	ab	ab1	ADP	r--------	_	22	case	_	_
+22	Hamilcare	Hamilcar1	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	23	xcomp	_	_
+23	loquebantur	loquebo1	VERB	v3piip---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	30	advcl	_	_
+24	(non	(non1	ADV	d--------	_	23	advmod	_	_
+25	enim	enim	SCONJ	c--------	_	30	advmod	_	_
+26	maledici	maledicio1	ADJ	a-s---mb-	Case=Abl|Gender=Masc|Number=Sing	28	amod	_	_
+27	tanto	tantus1	ADJ	a-s---mb-	Case=Abl|Gender=Masc|Number=Sing	28	amod	_	_
+28	viro	vir1	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	30	advmod	_	_
+29	deesse	desum1	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	30	xcomp	_	_
+30	poterant	possum1	VERB	v3piia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+31	)	RPAREN1	PUNCT	u--------	_	30	punct	_	SpaceAfter=No
+32	.	punc1	PUNCT	u--------	_	30	punct	_	_
+
+# sent_id = 21
+# text = quo factum est ut a praefecto morum Hasdrubal cum eo vetaretur esse.
+1	quo	qui1	ADV	d--------	_	11	mark	_	_
+2	factum	factum1	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	_
+3	est	sum1	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	_
+4	ut	ut	SCONJ	c--------	_	11	mark	_	_
+5	a	ab1	ADP	r--------	_	6	case	_	_
+6	praefecto	praefectum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	11	obl	_	_
+7	morum	mos	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
+8	Hasdrubal	Hasdrubal1	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
+9	cum	cum1	ADP	r--------	_	10	case	_	_
+10	eo	is1	PRON	p-s---mb-	Case=Abl|Gender=Masc|Number=Sing	11	obl	_	_
+11	vetaretur	veto	VERB	v3sisp---	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+12	esse	sum1	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	11	cop	_	SpaceAfter=No
+13	.	punc1	PUNCT	u--------	_	11	punct	_	_
+
+# sent_id = 22
+# text = huic ille filiam suam in matrimonium dedit, quod moribus eorum non poterat interdici socero genero.
+1	huic	hic1	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing	7	iobj	_	_
+2	ille	ille1	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+3	filiam	filia1	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
+4	suam	suus	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	amod	_	_
+5	in	in1	ADP	r--------	_	6	case	_	_
+6	matrimonium	matrimonius	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	7	obl	_	_
+7	dedit	do	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+8	,	comma1	PUNCT	u--------	_	9	punct	_	_
+9	quod	quod1	SCONJ	c--------	_	13	mark	_	_
+10	moribus	moris	NOUN	n-p---md-	Case=Dat|Gender=Masc|Number=Plur	13	obj	_	_
+11	eorum	is1	PRON	p-p---mg-	Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
+12	non	non1	ADV	d--------	_	13	advmod	_	_
+13	poterat	possum1	VERB	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	advcl	_	_
+14	interdici	interdicio1	VERB	v--pnp---	Tense=Pres|VerbForm=Inf|Voice=Pass	15	xcomp	_	_
+15	socero	socero1	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	13	advmod	_	_
+16	genero	generus1	ADJ	a-s---mb-	Case=Abl|Gender=Masc|Number=Sing	15	amod	_	SpaceAfter=No
+17	.	punc1	PUNCT	u--------	_	7	punct	_	SpacesAfter=\s\s
+
+# sent_id = 23
+# text = de hoc ideo mentionem fecimus, quod Hamilcare occiso ille exercitui praefuit resque magnas gessit et princeps largitione vetustos pervertit mores Karthaginiensium eiusdemque post mortem Hannibal ab exercitu accepit imperium.
+1	de	de	ADP	r--------	_	3	case	_	_
+2	hoc	hic1	PRON	p-s---mb-	Case=Abl|Gender=Masc|Number=Sing	3	nmod	_	_
+3	ideo	ideo	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	5	obl	_	_
+4	mentionem	mentio	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	_
+5	fecimus	fecio	VERB	v1pria---	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+6	,	comma1	PUNCT	u--------	_	7	punct	_	_
+7	quod	quod1	SCONJ	c--------	_	12	mark	_	_
+8	Hamilcare	Hamilcar1	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	9	xcomp	_	_
+9	occiso	occido	VERB	v-srppmd-	Aspect=Perf|Case=Dat|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	11	nmod	_	_
+10	ille	ille1	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+11	exercitui	exercitus2	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	12	obj	_	_
+12	praefuit	praesum	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	advcl	_	_
+13	resque	resque1	ADV	d--------	_	15	advmod	_	_
+14	magnas	magnus1	ADJ	a-p---fa-	Case=Acc|Gender=Fem|Number=Plur	15	amod	_	_
+15	gessit	gero1	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	advcl	_	_
+16	et	et	CCONJ	c--------	_	15	cc	_	_
+17	princeps	princeps	ADV	d--------	_	20	advmod	_	_
+18	largitione	largitio	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	20	advmod	_	_
+19	vetustos	vetuso1	VERB	v-prpdma-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	18	nmod	_	_
+20	pervertit	perverto	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	29	advcl	_	_
+21	mores	mos1	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	20	obj	_	_
+22	Karthaginiensium	Karthaginiensis	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	21	nmod	_	_
+23	eiusdemque	quiseiusde1	ADV	d--------	_	29	advmod	_	_
+24	post	post1	ADP	r--------	_	25	case	_	_
+25	mortem	mors1	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	29	obl	_	_
+26	Hannibal	Hannibal1	CCONJ	c--------	_	29	advmod	_	_
+27	ab	ab1	ADP	r--------	_	28	case	_	_
+28	exercitu	exercitus2	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	29	obl	_	_
+29	accepit	accipio1	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	15	conj	_	_
+30	imperium	imperium1	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	29	obj	_	SpaceAfter=No
+31	.	punc1	PUNCT	u--------	_	5	punct	_	SpacesAfter=\s\s
+
+# sent_id = 24
+# text = At Hamilcar, posteaquam mare transiit in Hispaniamque venit, magnas res secunda gessit fortuna:
+1	At	at	CCONJ	c--------	_	2	cc	_	_
+2	Hamilcar	Hamilcar1	VERB	v1sfid---	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	,	comma1	PUNCT	u--------	_	4	punct	_	_
+4	posteaquam	posteaquam1	SCONJ	c--------	_	6	mark	_	_
+5	mare	mare1	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	_
+6	transiit	transeo	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	advcl	_	_
+7	in	in1	ADP	r--------	_	8	case	_	_
+8	Hispaniamque	quisHispania1	ADV	d--------	_	9	obl	_	_
+9	venit	venio1	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	SpaceAfter=No
+10	,	comma1	PUNCT	u--------	_	14	punct	_	_
+11	magnas	magnus1	ADJ	a-p---fa-	Case=Acc|Gender=Fem|Number=Plur	12	amod	_	_
+12	res	res1	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	_
+13	secunda	secundus1	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	14	advmod	_	_
+14	gessit	gero1	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	_
+15	fortuna	fortuna1	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	SpaceAfter=No
+16	:	punc1	PUNCT	u--------	_	2	punct	_	_
+
+# sent_id = 25
+# text = maximas bellicosissimasque gentes subegit, equis, armis, viris, pecunia totam locupletavit Africam.
+1	maximas	maximus1	ADJ	a-p---fa-	Case=Acc|Gender=Fem|Number=Plur	3	amod	_	_
+2	bellicosissimasque	bellicosissimasque1	ADV	d--------	_	1	advmod	_	_
+3	gentes	gens	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	4	obj	_	_
+4	subegit	subego1	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+5	,	comma1	PUNCT	u--------	_	6	punct	_	_
+6	equis	equus1	NOUN	n-p---mb-	Case=Abl|Gender=Masc|Number=Plur	4	advmod	_	SpaceAfter=No
+7	,	comma1	PUNCT	u--------	_	4	punct	_	_
+8	armis	arma1	NOUN	n-p---nb-	Case=Abl|Gender=Neut|Number=Plur	4	advmod	_	SpaceAfter=No
+9	,	comma1	PUNCT	u--------	_	4	punct	_	_
+10	viris	vir	NOUN	n-p---nb-	Case=Abl|Gender=Neut|Number=Plur	4	advmod	_	SpaceAfter=No
+11	,	comma1	PUNCT	u--------	_	4	punct	_	_
+12	pecunia	pecunia1	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	_
+13	totam	totus1	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	12	amod	_	_
+14	locupletavit	locupleto1	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
+15	Africam	Africa	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	14	obj	_	SpaceAfter=No
+16	.	punc1	PUNCT	u--------	_	4	punct	_	SpacesAfter=\s\s
+
+# sent_id = 26
+# text = hic cum in Italiam bellum inferre meditaretur, nono anno postquam in Hispaniam venerat, in proelio pugnans adversus Vettones occisus est.
+1	hic	hic1	ADV	d--------	_	14	advmod	_	_
+2	cum	cum1	SCONJ	c--------	_	7	mark	_	_
+3	in	in1	ADP	r--------	_	4	case	_	_
+4	Italiam	Italia	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	7	obl	_	_
+5	bellum	bellum1	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	_
+6	inferre	infero	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	7	xcomp	_	_
+7	meditaretur	meditaro1	VERB	v3sisp---	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	14	advcl	_	SpaceAfter=No
+8	,	comma1	PUNCT	u--------	_	7	punct	_	_
+9	nono	nonus1	ADJ	a-s---mb-	Case=Abl|Gender=Masc|Number=Sing	10	amod	_	_
+10	anno	annus1	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	14	advmod	_	_
+11	postquam	postquam1	SCONJ	c--------	_	14	mark	_	_
+12	in	in	ADP	r--------	_	13	case	_	_
+13	Hispaniam	Hispania	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	14	obl	_	_
+14	venerat	venio1	VERB	v3slia---	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+15	,	comma1	PUNCT	u--------	_	14	punct	_	_
+16	in	in	ADP	r--------	_	17	case	_	_
+17	proelio	proelium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	18	obl	_	_
+18	pugnans	pugno	VERB	v-spp-mn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	14	conj	_	_
+19	adversus	adversus2	ADP	r--------	_	20	case	_	_
+20	Vettones	Vetto1	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	18	obl	_	_
+21	occisus	occido1	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	_
+22	est	sum1	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	cop	_	SpaceAfter=No
+23	.	punc1	PUNCT	u--------	_	14	punct	_	SpacesAfter=\s\s
+
+# sent_id = 27
+# text = huius perpetuum odium erga Romanos maxime concitasse videtur secundum bellum Poenicum.
+1	huius	hic1	PRON	p-s---fg-	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+2	perpetuum	perpetuus	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	3	amod	_	_
+3	odium	odius	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	_
+4	erga	ergo1	VERB	v2spma---	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	Romanos	Romanus	ADJ	a-p---ma-	Case=Acc|Gender=Masc|Number=Plur	6	amod	_	_
+6	maxime	magnus1	ADV	d-------s	Degree=Sup	8	advmod	_	_
+7	concitasse	concito	VERB	v--rna---	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	8	xcomp	_	_
+8	videtur	video1	VERB	v3spip---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	advcl	_	_
+9	secundum	secundus1	ADP	r--------	_	10	case	_	_
+10	bellum	bellum	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	_
+11	Poenicum	Poenicum1	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	10	amod	_	SpaceAfter=No
+12	.	punc1	PUNCT	u--------	_	4	punct	_	_
+
+# sent_id = 28
+# text = namque Hannibal, filius eius, assiduis patris obtestationibus eo est perductus, ut interire quam Romanos non experiri mallet.
+1	namque	nam	CCONJ	c--------	_	20	advmod	_	_
+2	Hannibal	Hannibal1	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	SpaceAfter=No
+3	,	comma1	PUNCT	u--------	_	4	punct	_	_
+4	filius	filius1	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	_
+5	eius	is1	PRON	p-s---mg-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+6	,	comma1	PUNCT	u--------	_	4	punct	_	_
+7	assiduis	assiduus2	ADJ	a-p---fb-	Case=Abl|Gender=Fem|Number=Plur	8	amod	_	_
+8	patris	pater	NOUN	n-p---fb-	Case=Abl|Gender=Fem|Number=Plur	9	nmod	_	_
+9	obtestationibus	obtestationis1	NOUN	n-p---fb-	Case=Abl|Gender=Fem|Number=Plur	20	advmod	_	_
+10	eo	is1	PRON	p-s---mb-	Case=Abl|Gender=Masc|Number=Sing	12	obj	_	_
+11	est	sum1	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	_
+12	perductus	perduceo1	VERB	v-srppmn-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	13	advcl	_	SpaceAfter=No
+13	,	comma1	PUNCT	u--------	_	14	punct	_	_
+14	ut	ut1	SCONJ	c--------	_	15	mark	_	_
+15	interire	interio1	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	20	xcomp	_	_
+16	quam	quam	ADV	d--------	_	15	advmod	_	_
+17	Romanos	Romanus	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	15	obj	_	_
+18	non	non1	ADV	d--------	_	19	advmod	_	_
+19	experiri	experior1	VERB	v--pnp---	Tense=Pres|VerbForm=Inf|Voice=Pass	15	xcomp	_	_
+20	mallet	malo1	VERB	v3sisa---	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+21	.	punc1	PUNCT	u--------	_	20	punct	_	SpacesAfter=\s\s\s\s\n
+
